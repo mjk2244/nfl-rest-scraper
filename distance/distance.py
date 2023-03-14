@@ -188,10 +188,10 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
                 soup = get_soup(r)
                 if soup.find_all('tbody')[1].find_all('tr')[i - 1].find('td', {'data-stat': 'opp'}).text == 'Bye Week':
                     opp_record = soup.find_all('tbody')[1].find_all('tr')[i - 2].find('td', {'data-stat': 'team_record'}).text.split('-')
-                    opp_win_pct = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1])))
                 else:
                     opp_record = soup.find_all('tbody')[1].find_all('tr')[i - 1].find('td', {'data-stat': 'team_record'}).text.split('-')
-                    opp_win_pct = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1])))
+                if len(opp_record) > 2: opp_win_pct = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1]) + int(opp_record[2])))
+                else: opp_win_pct = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1])))
 
                 week = int(games[i].find('th', {'data-stat': 'week_num'}).text)
                 result = games[i].find('td', {'data-stat': 'game_outcome'}).text
@@ -213,7 +213,8 @@ def calculate_time_zone_diff(city1: dict, city2: dict) -> int:
     return time_zones[city1['time_zone']] - time_zones[city2['time_zone']]
 
 def main():
-    for i in range(2002, 2023):
+    errors = [2022]
+    for i in errors:
         distance(i).to_csv('distance_' + str(i) + '.csv')
 
 if __name__ == '__main__':
