@@ -1,0 +1,33 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,2015,New England Patriots,3,1.0,True,Jacksonville Jaguars,0.5,W,51,17,471,293,5,1.0,False,Dallas Cowboys,0.5,W,30,6,356,289
+1,2015,New York Jets,4,0.6666666666666666,False,Miami Dolphins,0.3333333333333333,W,27,14,425,226,6,0.75,True,Washington Redskins,0.4,W,34,20,474,225
+2,2015,Buffalo Bills,7,0.5,False,Jacksonville Jaguars,0.16666666666666666,L,31,34,375,295,9,0.42857142857142855,True,Miami Dolphins,0.42857142857142855,W,33,17,420,397
+3,2015,Miami Dolphins,4,0.3333333333333333,True,New York Jets,0.6666666666666666,L,14,27,226,425,6,0.25,False,Tennessee Titans,0.25,W,38,10,434,299
+4,2015,Cincinnati Bengals,6,1.0,False,Buffalo Bills,0.6,W,34,21,355,368,8,1.0,False,Pittsburgh Steelers,0.5714285714285714,W,16,10,296,356
+5,2015,Pittsburgh Steelers,10,0.5555555555555556,True,Cleveland Browns,0.2222222222222222,W,30,9,459,342,12,0.6,False,Seattle Seahawks,0.5,L,30,39,538,436
+6,2015,Baltimore Ravens,8,0.14285714285714285,True,San Diego Chargers,0.2857142857142857,W,29,26,365,371,10,0.25,True,Jacksonville Jaguars,0.25,L,20,22,397,258
+7,2015,Cleveland Browns,10,0.2222222222222222,False,Pittsburgh Steelers,0.5555555555555556,L,9,30,342,459,12,0.2,True,Baltimore Ravens,0.3,L,27,33,338,336
+8,2015,Houston Texans,8,0.2857142857142857,True,Tennessee Titans,0.16666666666666666,W,20,6,270,211,10,0.375,False,Cincinnati Bengals,1.0,W,10,6,256,256
+9,2015,Indianapolis Colts,9,0.375,True,Denver Broncos,1.0,W,27,24,365,309,11,0.4444444444444444,False,Atlanta Falcons,0.6666666666666666,W,24,21,276,375
+10,2015,Jacksonville Jaguars,7,0.16666666666666666,True,Buffalo Bills,0.5,W,34,31,295,375,9,0.2857142857142857,False,New York Jets,0.5714285714285714,L,23,28,436,290
+11,2015,Tennessee Titans,3,0.5,True,Indianapolis Colts,0.0,L,33,35,433,378,5,0.3333333333333333,True,Buffalo Bills,0.5,L,13,14,276,209
+12,2015,Denver Broncos,6,1.0,False,Cleveland Browns,0.4,W,26,23,442,298,8,1.0,True,Green Bay Packers,1.0,W,29,10,500,140
+13,2015,Kansas City Chiefs,8,0.2857142857142857,True,Detroit Lions,0.14285714285714285,W,45,10,340,276,10,0.375,False,Denver Broncos,0.875,W,29,13,303,221
+14,2015,Oakland Raiders,5,0.5,True,Denver Broncos,1.0,L,10,16,288,297,7,0.4,False,San Diego Chargers,0.3333333333333333,W,37,29,412,417
+15,2015,San Diego Chargers,9,0.25,True,Chicago Bears,0.2857142857142857,L,19,22,339,446,11,0.2222222222222222,True,Kansas City Chiefs,0.4444444444444444,L,3,33,201,385
+16,2015,Washington Redskins,7,0.3333333333333333,True,Tampa Bay Buccaneers,0.4,W,31,30,355,479,9,0.42857142857142855,False,New England Patriots,1.0,L,10,27,250,460
+17,2015,Philadelphia Eagles,7,0.5,False,Carolina Panthers,1.0,L,16,27,349,394,9,0.42857142857142855,False,Dallas Cowboys,0.2857142857142857,W,33,27,459,411
+18,2015,New York Giants,10,0.5555555555555556,True,New England Patriots,1.0,L,26,27,422,406,12,0.5,False,Washington Redskins,0.4,L,14,20,332,407
+19,2015,Dallas Cowboys,5,0.5,True,New England Patriots,1.0,L,6,30,265,356,7,0.4,False,New York Giants,0.5,L,20,27,460,289
+20,2015,Minnesota Vikings,4,0.6666666666666666,False,Denver Broncos,1.0,L,20,23,325,344,6,0.5,True,Kansas City Chiefs,0.2,W,16,10,321,328
+21,2015,Green Bay Packers,6,1.0,True,San Diego Chargers,0.4,W,27,20,370,548,8,1.0,False,Denver Broncos,1.0,L,10,29,140,500
+22,2015,Detroit Lions,8,0.14285714285714285,False,Kansas City Chiefs,0.2857142857142857,L,10,45,276,340,10,0.125,False,Green Bay Packers,0.75,W,18,16,287,372
+23,2015,Chicago Bears,6,0.4,False,Detroit Lions,0.0,L,34,37,444,546,8,0.3333333333333333,True,Minnesota Vikings,0.6666666666666666,L,20,23,305,327
+24,2015,Carolina Panthers,4,1.0,False,Tampa Bay Buccaneers,0.3333333333333333,W,37,23,244,411,6,1.0,False,Seattle Seahawks,0.4,W,27,23,383,334
+25,2015,Atlanta Falcons,9,0.75,False,San Francisco 49ers,0.25,L,16,17,302,318,11,0.6666666666666666,True,Indianapolis Colts,0.4444444444444444,L,21,24,375,276
+26,2015,New Orleans Saints,10,0.4444444444444444,False,Washington Redskins,0.375,L,14,47,350,510,12,0.4,False,Houston Texans,0.5,L,6,24,268,362
+27,2015,Tampa Bay Buccaneers,5,0.25,True,Jacksonville Jaguars,0.25,W,38,31,369,325,7,0.4,False,Washington Redskins,0.3333333333333333,L,30,31,479,355
+28,2015,Arizona Cardinals,8,0.7142857142857143,False,Cleveland Browns,0.2857142857142857,W,34,20,491,254,10,0.75,False,Seattle Seahawks,0.5,W,39,32,451,343
+29,2015,Seattle Seahawks,8,0.42857142857142855,False,Dallas Cowboys,0.3333333333333333,W,13,12,323,220,10,0.5,True,Arizona Cardinals,0.75,L,32,39,343,451
+30,2015,St. Louis Rams,5,0.5,False,Green Bay Packers,1.0,L,10,24,334,322,7,0.4,True,Cleveland Browns,0.3333333333333333,W,24,6,308,364
+31,2015,San Francisco 49ers,9,0.25,True,Atlanta Falcons,0.75,W,17,16,318,302,11,0.3333333333333333,False,Seattle Seahawks,0.4444444444444444,L,13,29,306,508

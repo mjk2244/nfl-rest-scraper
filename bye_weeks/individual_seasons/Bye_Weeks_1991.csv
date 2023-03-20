@@ -1,0 +1,29 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,1991,Buffalo Bills,8,0.8571428571428571,True,Cincinnati Bengals,0.0,W,35,16,487,411,10,0.875,True,New England Patriots,0.375,W,22,17,388,265
+1,1991,New York Jets,8,0.42857142857142855,False,Indianapolis Colts,0.0,W,17,6,331,170,10,0.5,True,Green Bay Packers,0.25,W,19,16,293,262
+2,1991,Miami Dolphins,8,0.42857142857142855,True,Houston Oilers,0.8333333333333334,L,13,17,275,282,10,0.375,False,Indianapolis Colts,0.0,W,10,6,298,278
+3,1991,New England Patriots,6,0.4,True,Miami Dolphins,0.4,L,10,20,195,370,8,0.3333333333333333,True,Minnesota Vikings,0.42857142857142855,W,26,23,399,444
+4,1991,Indianapolis Colts,8,0.0,True,New York Jets,0.42857142857142855,L,6,17,170,331,10,0.0,True,Miami Dolphins,0.375,L,6,10,278,298
+5,1991,Houston Oilers,4,1.0,False,New England Patriots,0.3333333333333333,L,20,24,353,343,6,0.75,True,Denver Broncos,0.8,W,42,14,378,363
+6,1991,Pittsburgh Steelers,4,0.6666666666666666,False,Philadelphia Eagles,0.6666666666666666,L,14,23,226,374,6,0.5,False,Indianapolis Colts,0.0,W,21,3,292,189
+7,1991,Cleveland Browns,4,0.6666666666666666,False,New York Giants,0.3333333333333333,L,10,13,145,264,6,0.5,True,New York Jets,0.4,L,14,17,237,287
+8,1991,Cincinnati Bengals,4,0.0,True,Washington Redskins,1.0,L,27,34,322,344,6,0.0,True,Seattle Seahawks,0.4,L,7,13,364,305
+9,1991,Denver Broncos,6,0.8,False,Houston Oilers,0.75,L,14,42,363,378,8,0.6666666666666666,True,Kansas City Chiefs,0.7142857142857143,W,19,16,324,328
+10,1991,Kansas City Chiefs,9,0.625,True,Los Angeles Raiders,0.625,W,24,21,267,322,11,0.6666666666666666,False,Los Angeles Rams,0.3333333333333333,W,27,20,354,430
+11,1991,Los Angeles Raiders,9,0.625,False,Kansas City Chiefs,0.625,L,21,24,322,267,11,0.5555555555555556,False,Denver Broncos,0.7777777777777778,W,17,16,244,383
+12,1991,Seattle Seahawks,9,0.5,True,San Diego Chargers,0.125,W,20,9,202,320,11,0.5555555555555556,False,San Diego Chargers,0.1111111111111111,L,14,17,387,315
+13,1991,San Diego Chargers,9,0.125,False,Seattle Seahawks,0.5,L,9,20,320,202,11,0.1111111111111111,True,Seattle Seahawks,0.5555555555555556,W,17,14,315,387
+14,1991,Washington Redskins,7,1.0,True,Cleveland Browns,0.4,W,42,17,398,389,9,1.0,False,New York Giants,0.5714285714285714,W,17,13,254,271
+15,1991,Dallas Cowboys,7,0.6666666666666666,True,Cincinnati Bengals,0.0,W,35,23,376,352,9,0.7142857142857143,False,Detroit Lions,0.7142857142857143,L,10,34,415,208
+16,1991,Philadelphia Eagles,7,0.5,True,New Orleans Saints,1.0,L,6,13,204,162,9,0.42857142857142855,True,San Francisco 49ers,0.42857142857142855,L,7,23,235,222
+17,1991,New York Giants,7,0.5,False,Pittsburgh Steelers,0.6,W,23,20,311,377,9,0.5714285714285714,True,Washington Redskins,1.0,L,13,17,271,254
+18,1991,Phoenix Cardinals,13,0.3333333333333333,True,Philadelphia Eagles,0.5454545454545454,L,14,34,236,289,15,0.3076923076923077,True,Washington Redskins,0.9230769230769231,L,14,20,194,384
+19,1991,Detroit Lions,6,0.8,True,Minnesota Vikings,0.4,W,24,20,400,202,8,0.8333333333333334,False,San Francisco 49ers,0.3333333333333333,L,3,35,207,505
+20,1991,Chicago Bears,6,0.8,True,Washington Redskins,1.0,L,7,20,319,243,8,0.6666666666666666,False,Green Bay Packers,0.16666666666666666,W,10,0,298,141
+21,1991,Minnesota Vikings,13,0.5,True,Detroit Lions,0.6363636363636364,L,14,34,320,383,15,0.46153846153846156,False,Tampa Bay Buccaneers,0.15384615384615385,W,26,24,436,373
+22,1991,Green Bay Packers,6,0.2,True,Dallas Cowboys,0.6,L,17,20,259,411,8,0.16666666666666666,True,Chicago Bears,0.6666666666666666,L,0,10,141,298
+23,1991,Tampa Bay Buccaneers,6,0.0,True,Philadelphia Eagles,0.6,W,14,13,193,171,8,0.16666666666666666,False,New Orleans Saints,1.0,L,7,23,219,284
+24,1991,New Orleans Saints,5,1.0,False,Atlanta Falcons,0.5,W,27,6,367,162,7,1.0,False,Philadelphia Eagles,0.5,W,13,6,162,204
+25,1991,Atlanta Falcons,5,0.5,True,New Orleans Saints,1.0,L,6,27,162,367,7,0.4,False,San Francisco 49ers,0.4,W,39,34,368,437
+26,1991,San Francisco 49ers,5,0.5,False,Los Angeles Raiders,0.5,L,6,12,339,220,7,0.4,True,Atlanta Falcons,0.4,L,34,39,437,368
+27,1991,Los Angeles Rams,5,0.25,True,Green Bay Packers,0.25,W,23,21,310,260,7,0.4,True,San Diego Chargers,0.16666666666666666,W,30,24,284,387
