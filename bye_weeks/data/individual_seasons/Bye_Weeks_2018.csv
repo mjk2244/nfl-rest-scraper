@@ -1,0 +1,33 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,2018,New England Patriots,10,0.7777777777777778,False,Tennessee Titans,0.5,L,10,34,284,385,12,0.7,False,New York Jets,0.3,W,27,13,498,338
+1,2018,Miami Dolphins,10,0.5555555555555556,False,Green Bay Packers,0.375,L,12,31,294,377,12,0.5,False,Indianapolis Colts,0.5,L,24,27,314,455
+2,2018,Buffalo Bills,10,0.2222222222222222,False,New York Jets,0.3333333333333333,W,41,10,451,199,12,0.3,True,Jacksonville Jaguars,0.3,W,24,21,327,333
+3,2018,New York Jets,10,0.3333333333333333,True,Buffalo Bills,0.2222222222222222,L,10,41,199,451,12,0.3,True,New England Patriots,0.7,L,13,27,338,498
+4,2018,Baltimore Ravens,9,0.5,True,Pittsburgh Steelers,0.5714285714285714,L,16,23,265,395,11,0.4444444444444444,True,Cincinnati Bengals,0.5555555555555556,W,24,21,403,255
+5,2018,Pittsburgh Steelers,6,0.4,False,Cincinnati Bengals,0.8,W,28,21,481,275,8,0.6,True,Cleveland Browns,0.2857142857142857,W,33,18,421,237
+6,2018,Cleveland Browns,10,0.2222222222222222,True,Atlanta Falcons,0.5,W,28,16,427,382,12,0.3333333333333333,False,Cincinnati Bengals,0.5,W,35,20,342,372
+7,2018,Cincinnati Bengals,8,0.5714285714285714,True,Tampa Bay Buccaneers,0.5,W,37,34,402,576,10,0.625,True,New Orleans Saints,0.875,L,14,51,284,509
+8,2018,Houston Texans,9,0.625,False,Denver Broncos,0.375,W,19,17,290,348,11,0.6666666666666666,False,Washington Redskins,0.6666666666666666,W,23,21,320,278
+9,2018,Indianapolis Colts,8,0.2857142857142857,False,Oakland Raiders,0.16666666666666666,W,42,28,461,347,10,0.375,True,Jacksonville Jaguars,0.375,W,29,26,366,415
+10,2018,Tennessee Titans,7,0.5,False,Los Angeles Chargers,0.6666666666666666,L,19,20,390,344,9,0.42857142857142855,False,Dallas Cowboys,0.42857142857142855,W,28,14,340,297
+11,2018,Jacksonville Jaguars,8,0.42857142857142855,True,Philadelphia Eagles,0.42857142857142855,L,18,24,335,395,10,0.375,False,Indianapolis Colts,0.375,L,26,29,415,366
+12,2018,Kansas City Chiefs,11,0.9,False,Los Angeles Rams,0.9,L,51,54,546,455,13,0.8181818181818182,False,Oakland Raiders,0.18181818181818182,W,40,33,469,442
+13,2018,Los Angeles Chargers,7,0.6666666666666666,True,Tennessee Titans,0.5,W,20,19,344,390,9,0.7142857142857143,False,Seattle Seahawks,0.5714285714285714,W,25,17,375,356
+14,2018,Denver Broncos,9,0.375,True,Houston Texans,0.625,L,17,19,348,290,11,0.3333333333333333,False,Los Angeles Chargers,0.7777777777777778,W,23,22,325,479
+15,2018,Oakland Raiders,6,0.2,True,Seattle Seahawks,0.4,L,3,27,185,369,8,0.16666666666666666,True,Indianapolis Colts,0.2857142857142857,L,28,42,347,461
+16,2018,Dallas Cowboys,7,0.5,False,Washington Redskins,0.6,L,17,20,323,305,9,0.42857142857142855,True,Tennessee Titans,0.42857142857142855,L,14,28,297,340
+17,2018,Philadelphia Eagles,8,0.42857142857142855,False,Jacksonville Jaguars,0.42857142857142855,W,24,18,395,335,10,0.5,True,Dallas Cowboys,0.375,L,20,27,421,410
+18,2018,Washington Redskins,3,0.5,True,Green Bay Packers,0.5,W,31,17,386,340,5,0.6666666666666666,False,New Orleans Saints,0.75,L,19,43,283,447
+19,2018,New York Giants,8,0.14285714285714285,True,Washington Redskins,0.6666666666666666,L,13,20,303,360,10,0.125,False,San Francisco 49ers,0.2222222222222222,W,27,23,277,374
+20,2018,Chicago Bears,4,0.6666666666666666,True,Tampa Bay Buccaneers,0.6666666666666666,W,48,10,483,311,6,0.75,False,Miami Dolphins,0.6,L,28,31,467,541
+21,2018,Minnesota Vikings,9,0.5,True,Detroit Lions,0.42857142857142855,W,24,9,283,209,11,0.625,False,Chicago Bears,0.6666666666666666,L,20,25,268,308
+22,2018,Green Bay Packers,6,0.4,True,San Francisco 49ers,0.2,W,33,30,521,401,8,0.6,False,Los Angeles Rams,1.0,L,27,29,359,416
+23,2018,Detroit Lions,5,0.25,True,Green Bay Packers,0.5,W,31,23,264,521,7,0.4,False,Miami Dolphins,0.6666666666666666,W,32,21,457,322
+24,2018,New Orleans Saints,5,0.75,True,Washington Redskins,0.6666666666666666,W,43,19,447,283,7,0.8,False,Baltimore Ravens,0.6666666666666666,W,24,23,339,351
+25,2018,Atlanta Falcons,7,0.3333333333333333,True,New York Giants,0.16666666666666666,W,23,20,423,433,9,0.42857142857142855,False,Washington Redskins,0.7142857142857143,W,38,14,491,366
+26,2018,Carolina Panthers,3,0.5,True,Cincinnati Bengals,1.0,W,31,21,377,396,5,0.6666666666666666,True,New York Giants,0.25,W,33,31,350,432
+27,2018,Tampa Bay Buccaneers,4,0.6666666666666666,False,Chicago Bears,0.6666666666666666,L,10,48,311,483,6,0.5,False,Atlanta Falcons,0.2,L,29,34,510,417
+28,2018,Los Angeles Rams,11,0.9,True,Kansas City Chiefs,0.9,W,54,51,455,546,13,0.9090909090909091,False,Detroit Lions,0.36363636363636365,W,30,16,344,310
+29,2018,Seattle Seahawks,6,0.4,False,Oakland Raiders,0.2,W,27,3,369,185,8,0.5,False,Detroit Lions,0.5,W,28,14,413,331
+30,2018,San Francisco 49ers,10,0.2222222222222222,True,New York Giants,0.125,L,23,27,374,277,12,0.2,False,Tampa Bay Buccaneers,0.3,L,9,27,342,412
+31,2018,Arizona Cardinals,8,0.14285714285714285,True,San Francisco 49ers,0.14285714285714285,W,18,15,321,267,10,0.25,False,Kansas City Chiefs,0.8888888888888888,L,14,26,260,330
