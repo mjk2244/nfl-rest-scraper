@@ -1008,4 +1008,8 @@
 28,2022,San Francisco 49ers,8,0.428571429,FALSE,Los Angeles Rams,0.5,W,31,14,368,223,10,0.5,TRUE,Los Angeles Chargers,0.625,W,22,16,387,238
 29,2022,Seattle Seahawks,10,0.666666667,FALSE,Tampa Bay Buccaneers,0.444444444,L,16,21,283,419,12,0.6,TRUE,Las Vegas Raiders,0.3,L,34,40,372,576
 30,2022,Los Angeles Rams,6,0.4,TRUE,Carolina Panthers,0.2,W,24,10,360,203,8,0.5,TRUE,San Francisco 49ers,0.428571429,L,14,31,223,368
+<<<<<<< HEAD
 31,2022,Arizona Cardinals,12,0.363636364,TRUE,Los Angeles Chargers,0.5,L,24,25,366,311,14,0.333333333,TRUE,New England Patriots,0.5,L,13,27,323,328
+=======
+31,2022,Arizona Cardinals,12,0.363636364,TRUE,Los Angeles Chargers,0.5,L,24,25,366,311,14,0.333333333,TRUE,New England Patriots,0.5,L,13,27,323,328
+>>>>>>> 952a2d15461242d660097f3abaf64877f16363cf
