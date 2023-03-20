@@ -1,0 +1,33 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,2020,Buffalo Bills,10,0.7777777777777778,False,Arizona Cardinals,0.625,L,30,32,369,453,12,0.7,True,Los Angeles Chargers,0.3,W,27,17,332,367
+1,2020,Miami Dolphins,6,0.4,True,New York Jets,0.0,W,24,0,302,263,8,0.5,True,Los Angeles Rams,0.7142857142857143,W,28,17,145,471
+2,2020,New England Patriots,4,0.6666666666666666,False,Kansas City Chiefs,1.0,L,10,26,357,323,6,0.5,True,Denver Broncos,0.25,L,12,18,288,299
+3,2020,New York Jets,9,0.0,True,New England Patriots,0.2857142857142857,L,27,30,322,433,11,0.0,False,Los Angeles Chargers,0.2222222222222222,L,28,34,292,376
+4,2020,Pittsburgh Steelers,3,1.0,True,Houston Texans,0.0,W,28,21,387,260,5,1.0,True,Philadelphia Eagles,0.25,W,38,29,367,336
+5,2020,Baltimore Ravens,6,0.8,False,Philadelphia Eagles,0.2,W,30,28,355,364,8,0.8333333333333334,True,Pittsburgh Steelers,1.0,L,24,28,457,221
+6,2020,Cleveland Browns,8,0.7142857142857143,True,Las Vegas Raiders,0.5,L,6,16,223,309,10,0.625,True,Houston Texans,0.25,W,10,7,356,243
+7,2020,Cincinnati Bengals,8,0.14285714285714285,True,Tennessee Titans,0.8333333333333334,W,31,20,367,441,10,0.2857142857142857,False,Pittsburgh Steelers,1.0,L,10,36,324,377
+8,2020,Tennessee Titans,3,1.0,False,Minnesota Vikings,0.0,W,31,30,444,464,5,1.0,True,Buffalo Bills,1.0,W,42,16,334,370
+9,2020,Indianapolis Colts,6,0.6,True,Cincinnati Bengals,0.2,W,31,27,430,398,8,0.6666666666666666,False,Detroit Lions,0.5,W,41,21,366,326
+10,2020,Houston Texans,7,0.16666666666666666,True,Green Bay Packers,0.8,L,20,35,365,379,9,0.14285714285714285,False,Jacksonville Jaguars,0.14285714285714285,W,27,25,374,403
+11,2020,Jacksonville Jaguars,7,0.16666666666666666,False,Los Angeles Chargers,0.2,L,29,39,294,484,9,0.14285714285714285,True,Houston Texans,0.14285714285714285,L,25,27,403,374
+12,2020,Kansas City Chiefs,9,0.875,True,Carolina Panthers,0.375,W,33,31,397,435,11,0.8888888888888888,False,Las Vegas Raiders,0.6666666666666666,W,35,31,460,364
+13,2020,Las Vegas Raiders,5,0.5,False,Kansas City Chiefs,1.0,W,40,32,490,413,7,0.6,True,Tampa Bay Buccaneers,0.6666666666666666,L,20,45,347,454
+14,2020,Los Angeles Chargers,5,0.25,False,New Orleans Saints,0.5,L,27,30,350,408,7,0.2,True,Jacksonville Jaguars,0.16666666666666666,W,39,29,484,294
+15,2020,Denver Broncos,4,0.0,False,New York Jets,0.0,W,37,28,359,321,6,0.25,False,New England Patriots,0.5,W,18,12,299,288
+16,2020,Washington Football Team,7,0.16666666666666666,True,Dallas Cowboys,0.3333333333333333,W,25,3,397,142,9,0.2857142857142857,True,New York Giants,0.125,L,20,23,402,350
+17,2020,New York Giants,10,0.2222222222222222,True,Philadelphia Eagles,0.375,W,27,17,382,346,12,0.3,False,Cincinnati Bengals,0.2,W,19,17,386,155
+18,2020,Dallas Cowboys,9,0.25,True,Pittsburgh Steelers,1.0,L,19,24,364,355,11,0.2222222222222222,False,Minnesota Vikings,0.4444444444444444,W,31,28,376,430
+19,2020,Philadelphia Eagles,8,0.2857142857142857,True,Dallas Cowboys,0.2857142857142857,W,23,9,222,265,10,0.42857142857142855,False,New York Giants,0.2222222222222222,L,17,27,346,382
+20,2020,Green Bay Packers,4,1.0,True,Atlanta Falcons,0.0,W,30,16,403,327,6,1.0,False,Tampa Bay Buccaneers,0.6,L,10,38,201,324
+21,2020,Chicago Bears,10,0.5555555555555556,True,Minnesota Vikings,0.375,L,13,19,149,385,12,0.5,False,Green Bay Packers,0.7,L,25,41,350,393
+22,2020,Minnesota Vikings,6,0.2,True,Atlanta Falcons,0.0,L,23,40,365,462,8,0.16666666666666666,False,Green Bay Packers,0.8333333333333334,W,28,22,324,400
+23,2020,Detroit Lions,4,0.3333333333333333,True,New Orleans Saints,0.3333333333333333,L,29,35,281,392,6,0.25,False,Jacksonville Jaguars,0.2,W,34,16,403,275
+24,2020,New Orleans Saints,5,0.5,True,Los Angeles Chargers,0.25,W,30,27,408,350,7,0.6,True,Carolina Panthers,0.5,W,27,24,415,283
+25,2020,Tampa Bay Buccaneers,12,0.6363636363636364,True,Kansas City Chiefs,0.9,L,24,27,417,543,14,0.5833333333333334,True,Minnesota Vikings,0.5,W,26,14,303,335
+26,2020,Carolina Panthers,12,0.36363636363636365,False,Minnesota Vikings,0.4,L,27,28,374,387,14,0.3333333333333333,True,Denver Broncos,0.3333333333333333,L,27,32,370,365
+27,2020,Atlanta Falcons,9,0.25,True,Denver Broncos,0.42857142857142855,W,34,27,363,405,11,0.3333333333333333,False,New Orleans Saints,0.7777777777777778,L,9,24,248,376
+28,2020,Seattle Seahawks,5,1.0,True,Minnesota Vikings,0.25,W,27,26,314,449,7,1.0,False,Arizona Cardinals,0.6666666666666666,L,34,37,572,519
+29,2020,Los Angeles Rams,8,0.7142857142857143,False,Miami Dolphins,0.5,L,17,28,471,145,10,0.625,True,Seattle Seahawks,0.75,W,23,16,389,333
+30,2020,Arizona Cardinals,7,0.6666666666666666,True,Seattle Seahawks,1.0,W,37,34,519,572,9,0.7142857142857143,True,Miami Dolphins,0.5714285714285714,L,31,34,442,312
+31,2020,San Francisco 49ers,10,0.4444444444444444,False,New Orleans Saints,0.75,L,13,27,281,237,12,0.4,False,Los Angeles Rams,0.7,W,23,20,345,308

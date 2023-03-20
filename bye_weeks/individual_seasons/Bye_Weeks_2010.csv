@@ -1,0 +1,33 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,2010,New England Patriots,4,0.6666666666666666,False,Miami Dolphins,0.6666666666666666,W,41,14,265,400,6,0.75,True,Baltimore Ravens,0.8,W,23,20,394,377
+1,2010,New York Jets,6,0.8,False,Denver Broncos,0.4,W,24,20,319,346,8,0.8333333333333334,True,Green Bay Packers,0.5714285714285714,L,0,9,360,237
+2,2010,Miami Dolphins,4,0.6666666666666666,True,New England Patriots,0.6666666666666666,L,14,41,400,265,6,0.5,False,Green Bay Packers,0.6,W,23,20,381,359
+3,2010,Buffalo Bills,5,0.0,True,Jacksonville Jaguars,0.5,L,26,36,306,381,7,0.0,False,Baltimore Ravens,0.6666666666666666,L,34,37,514,364
+4,2010,Pittsburgh Steelers,4,1.0,True,Baltimore Ravens,0.6666666666666666,L,14,17,210,320,6,0.75,True,Cleveland Browns,0.2,W,28,10,378,327
+5,2010,Baltimore Ravens,7,0.6666666666666666,True,Buffalo Bills,0.0,W,37,34,364,514,9,0.7142857142857143,True,Miami Dolphins,0.5714285714285714,W,26,10,402,289
+6,2010,Cleveland Browns,7,0.16666666666666666,False,New Orleans Saints,0.6666666666666666,W,30,17,210,394,9,0.2857142857142857,True,New England Patriots,0.8571428571428571,W,34,14,404,283
+7,2010,Cincinnati Bengals,5,0.5,True,Tampa Bay Buccaneers,0.6666666666666666,L,21,24,358,391,7,0.4,False,Atlanta Falcons,0.6666666666666666,L,32,39,469,452
+8,2010,Indianapolis Colts,6,0.6,False,Washington Redskins,0.6,W,27,24,469,335,8,0.6666666666666666,True,Houston Texans,0.6666666666666666,W,30,17,366,291
+9,2010,Jacksonville Jaguars,8,0.42857142857142855,False,Dallas Cowboys,0.16666666666666666,W,35,17,387,415,10,0.5,True,Houston Texans,0.5,W,31,24,491,395
+10,2010,Houston Texans,6,0.6,True,Kansas City Chiefs,0.75,W,35,31,421,417,8,0.6666666666666666,False,Indianapolis Colts,0.6666666666666666,L,17,30,291,366
+11,2010,Tennessee Titans,8,0.7142857142857143,False,San Diego Chargers,0.2857142857142857,L,25,33,370,456,10,0.625,False,Miami Dolphins,0.5,L,17,29,259,404
+12,2010,Kansas City Chiefs,3,1.0,True,San Francisco 49ers,0.0,W,31,10,457,251,5,1.0,False,Indianapolis Colts,0.5,L,9,19,261,341
+13,2010,San Diego Chargers,9,0.375,False,Houston Texans,0.5714285714285714,W,29,23,367,392,11,0.4444444444444444,True,Denver Broncos,0.3333333333333333,W,35,14,400,235
+14,2010,Oakland Raiders,9,0.5,True,Kansas City Chiefs,0.7142857142857143,W,23,20,321,304,11,0.5555555555555556,False,Pittsburgh Steelers,0.6666666666666666,L,3,35,182,431
+15,2010,Denver Broncos,8,0.2857142857142857,False,San Francisco 49ers,0.14285714285714285,L,16,24,398,339,10,0.25,True,Kansas City Chiefs,0.625,W,49,29,452,484
+16,2010,Philadelphia Eagles,7,0.6666666666666666,False,Tennessee Titans,0.6666666666666666,L,19,37,326,328,9,0.5714285714285714,True,Indianapolis Colts,0.7142857142857143,W,26,24,402,338
+17,2010,New York Giants,7,0.6666666666666666,False,Dallas Cowboys,0.2,W,41,35,497,254,9,0.7142857142857143,False,Seattle Seahawks,0.5714285714285714,W,41,7,487,162
+18,2010,Dallas Cowboys,3,0.0,False,Houston Texans,1.0,W,27,13,385,340,5,0.3333333333333333,True,Tennessee Titans,0.5,L,27,34,511,321
+19,2010,Washington Redskins,8,0.5714285714285714,False,Detroit Lions,0.16666666666666666,L,25,37,275,304,10,0.5,True,Philadelphia Eagles,0.625,L,28,59,375,592
+20,2010,Chicago Bears,7,0.6666666666666666,True,Washington Redskins,0.5,L,14,17,322,308,9,0.5714285714285714,False,Buffalo Bills,0.0,W,22,19,283,340
+21,2010,Green Bay Packers,9,0.625,True,Dallas Cowboys,0.14285714285714285,W,45,7,415,205,11,0.6666666666666666,False,Minnesota Vikings,0.3333333333333333,W,31,3,374,300
+22,2010,Detroit Lions,6,0.2,False,New York Giants,0.6,L,20,28,366,334,8,0.16666666666666666,True,Washington Redskins,0.5714285714285714,W,37,25,304,275
+23,2010,Minnesota Vikings,3,0.0,True,Detroit Lions,0.0,W,24,10,368,295,5,0.3333333333333333,False,New York Jets,0.75,L,20,29,336,328
+24,2010,Atlanta Falcons,7,0.6666666666666666,True,Cincinnati Bengals,0.4,W,39,32,452,469,9,0.7142857142857143,True,Tampa Bay Buccaneers,0.7142857142857143,W,27,21,365,278
+25,2010,New Orleans Saints,9,0.625,False,Carolina Panthers,0.14285714285714285,W,34,3,408,195,11,0.6666666666666666,True,Seattle Seahawks,0.5555555555555556,W,34,19,494,424
+26,2010,Tampa Bay Buccaneers,3,1.0,True,Pittsburgh Steelers,1.0,L,13,38,303,387,5,0.6666666666666666,False,Cincinnati Bengals,0.5,W,24,21,391,358
+27,2010,Carolina Panthers,5,0.0,True,Chicago Bears,0.75,L,6,23,147,247,7,0.0,True,San Francisco 49ers,0.16666666666666666,W,23,20,379,282
+28,2010,Seattle Seahawks,4,0.6666666666666666,False,St. Louis Rams,0.3333333333333333,L,3,20,257,349,6,0.5,False,Chicago Bears,0.8,W,23,20,353,307
+29,2010,St. Louis Rams,8,0.42857142857142855,True,Carolina Panthers,0.16666666666666666,W,20,10,246,201,10,0.5,False,San Francisco 49ers,0.25,L,20,23,332,421
+30,2010,San Francisco 49ers,8,0.14285714285714285,True,Denver Broncos,0.2857142857142857,W,24,16,339,398,10,0.25,True,St. Louis Rams,0.5,W,23,20,421,332
+31,2010,Arizona Cardinals,5,0.5,True,New Orleans Saints,0.75,W,30,20,194,358,7,0.6,False,Seattle Seahawks,0.6,L,10,22,227,302

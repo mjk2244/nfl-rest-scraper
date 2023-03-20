@@ -1,0 +1,33 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,2022,Buffalo Bills,6,0.8,False,Kansas City Chiefs,0.8,W,24,20,443,387,8,0.8333333333333334,True,Green Bay Packers,0.42857142857142855,W,27,17,369,398
+1,2022,Miami Dolphins,10,0.6666666666666666,True,Cleveland Browns,0.375,W,39,17,491,297,12,0.7,True,Houston Texans,0.1,W,30,15,339,210
+2,2022,New England Patriots,9,0.5,True,Indianapolis Colts,0.375,W,26,3,203,121,11,0.5555555555555556,True,New York Jets,0.6666666666666666,W,10,3,297,103
+3,2022,New York Jets,9,0.625,True,Buffalo Bills,0.8571428571428571,W,20,17,310,317,11,0.6666666666666666,False,New England Patriots,0.5555555555555556,L,3,10,103,297
+4,2022,Cincinnati Bengals,9,0.5,True,Carolina Panthers,0.25,W,42,21,464,228,11,0.5555555555555556,False,Pittsburgh Steelers,0.3333333333333333,W,37,30,408,351
+5,2022,Baltimore Ravens,9,0.625,False,New Orleans Saints,0.375,W,27,13,319,243,11,0.6666666666666666,True,Carolina Panthers,0.3,W,13,3,308,205
+6,2022,Pittsburgh Steelers,8,0.2857142857142857,False,Philadelphia Eagles,1.0,L,13,35,302,401,10,0.25,True,New Orleans Saints,0.3333333333333333,W,20,10,379,186
+7,2022,Cleveland Browns,8,0.2857142857142857,True,Cincinnati Bengals,0.5714285714285714,W,32,13,440,229,10,0.375,False,Miami Dolphins,0.6666666666666666,L,17,39,297,491
+8,2022,Jacksonville Jaguars,10,0.3333333333333333,False,Kansas City Chiefs,0.75,L,17,27,315,486,12,0.3,True,Baltimore Ravens,0.7,W,28,27,332,415
+9,2022,Tennessee Titans,5,0.5,False,Washington Commanders,0.25,W,21,17,241,385,7,0.6,True,Indianapolis Colts,0.5,W,19,10,254,292
+10,2022,Indianapolis Colts,13,0.3333333333333333,False,Dallas Cowboys,0.7272727272727273,L,19,54,309,385,15,0.3333333333333333,False,Minnesota Vikings,0.7692307692307693,L,36,39,341,518
+11,2022,Houston Texans,5,0.0,False,Jacksonville Jaguars,0.5,W,13,6,248,422,7,0.25,False,Las Vegas Raiders,0.2,L,20,38,404,400
+12,2022,Kansas City Chiefs,7,0.6666666666666666,False,San Francisco 49ers,0.5,W,44,23,529,444,9,0.7142857142857143,True,Tennessee Titans,0.7142857142857143,W,20,17,499,229
+13,2022,Los Angeles Chargers,7,0.6666666666666666,True,Seattle Seahawks,0.5,L,23,37,329,404,9,0.5714285714285714,False,Atlanta Falcons,0.5,W,20,17,336,315
+14,2022,Las Vegas Raiders,5,0.25,False,Kansas City Chiefs,0.75,L,29,30,378,368,7,0.2,True,Houston Texans,0.2,W,38,20,400,404
+15,2022,Denver Broncos,8,0.2857142857142857,False,Jacksonville Jaguars,0.2857142857142857,W,21,17,331,305,10,0.375,False,Tennessee Titans,0.625,L,10,17,313,307
+16,2022,Philadelphia Eagles,6,1.0,True,Dallas Cowboys,0.8,W,26,17,268,315,8,1.0,True,Pittsburgh Steelers,0.2857142857142857,W,35,13,401,302
+17,2022,Dallas Cowboys,8,0.7142857142857143,True,Chicago Bears,0.42857142857142855,W,49,29,442,371,10,0.75,False,Green Bay Packers,0.3333333333333333,L,28,31,421,415
+18,2022,New York Giants,8,0.8571428571428571,False,Seattle Seahawks,0.5714285714285714,L,13,27,225,277,10,0.75,True,Houston Texans,0.125,W,24,16,367,387
+19,2022,Washington Commanders,13,0.5833333333333334,False,New York Giants,0.6363636363636364,T,20,20,411,316,15,0.5833333333333334,True,New York Giants,0.5384615384615384,L,12,20,387,288
+20,2022,Minnesota Vikings,6,0.8,False,Miami Dolphins,0.6,W,24,16,234,458,8,0.8333333333333334,True,Arizona Cardinals,0.42857142857142855,W,34,26,381,375
+21,2022,Detroit Lions,5,0.25,False,New England Patriots,0.25,L,0,29,312,364,7,0.2,False,Dallas Cowboys,0.6666666666666666,L,6,24,312,330
+22,2022,Green Bay Packers,13,0.3333333333333333,False,Chicago Bears,0.25,W,28,19,357,409,15,0.38461538461538464,True,Los Angeles Rams,0.3076923076923077,W,24,12,345,156
+23,2022,Chicago Bears,13,0.25,True,Green Bay Packers,0.3333333333333333,L,19,28,409,357,15,0.23076923076923078,True,Philadelphia Eagles,0.9230769230769231,L,20,25,248,421
+24,2022,Tampa Bay Buccaneers,10,0.4444444444444444,True,Seattle Seahawks,0.6666666666666666,W,21,16,419,283,12,0.5,False,Cleveland Browns,0.3,L,17,23,325,367
+25,2022,Carolina Panthers,12,0.2727272727272727,True,Denver Broncos,0.3,W,23,10,349,246,14,0.3333333333333333,False,Seattle Seahawks,0.5833333333333334,W,30,24,328,287
+26,2022,New Orleans Saints,13,0.3333333333333333,False,Tampa Bay Buccaneers,0.45454545454545453,L,16,17,298,350,15,0.3076923076923077,True,Atlanta Falcons,0.38461538461538464,W,21,18,348,320
+27,2022,Atlanta Falcons,13,0.4166666666666667,True,Pittsburgh Steelers,0.36363636363636365,L,16,19,306,351,15,0.38461538461538464,False,New Orleans Saints,0.3076923076923077,L,18,21,320,348
+28,2022,San Francisco 49ers,8,0.42857142857142855,False,Los Angeles Rams,0.5,W,31,14,368,223,10,0.5,True,Los Angeles Chargers,0.625,W,22,16,387,238
+29,2022,Seattle Seahawks,10,0.6666666666666666,False,Tampa Bay Buccaneers,0.4444444444444444,L,16,21,283,419,12,0.6,True,Las Vegas Raiders,0.3,L,34,40,372,576
+30,2022,Los Angeles Rams,6,0.4,True,Carolina Panthers,0.2,W,24,10,360,203,8,0.5,True,San Francisco 49ers,0.42857142857142855,L,14,31,223,368
+31,2022,Arizona Cardinals,12,0.36363636363636365,True,Los Angeles Chargers,0.5,L,24,25,366,311,14,0.3333333333333333,True,New England Patriots,0.5,L,13,27,323,328

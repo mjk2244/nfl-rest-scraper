@@ -1,0 +1,33 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,2012,New England Patriots,8,0.5714285714285714,False,St. Louis Rams,0.42857142857142855,W,45,7,473,326,10,0.625,True,Buffalo Bills,0.375,W,37,31,347,481
+1,2012,Miami Dolphins,6,0.4,True,St. Louis Rams,0.6,W,17,14,192,462,8,0.5,False,New York Jets,0.42857142857142855,W,30,9,236,363
+2,2012,New York Jets,8,0.42857142857142855,True,Miami Dolphins,0.5,L,9,30,363,236,10,0.375,False,Seattle Seahawks,0.5555555555555556,L,7,28,185,363
+3,2012,Buffalo Bills,7,0.5,True,Tennessee Titans,0.3333333333333333,L,34,35,382,390,9,0.42857142857142855,False,Houston Texans,0.8571428571428571,L,9,21,304,374
+4,2012,Baltimore Ravens,7,0.8333333333333334,False,Houston Texans,0.8333333333333334,L,13,43,176,420,9,0.7142857142857143,False,Cleveland Browns,0.25,W,25,15,282,290
+5,2012,Cincinnati Bengals,7,0.5,True,Pittsburgh Steelers,0.4,L,17,24,185,431,9,0.42857142857142855,True,Denver Broncos,0.5714285714285714,L,23,31,366,359
+6,2012,Pittsburgh Steelers,3,0.5,False,Oakland Raiders,0.0,L,31,34,433,321,5,0.3333333333333333,True,Philadelphia Eagles,0.75,W,16,14,343,246
+7,2012,Cleveland Browns,9,0.25,True,Baltimore Ravens,0.7142857142857143,L,15,25,290,282,11,0.2222222222222222,False,Dallas Cowboys,0.4444444444444444,L,20,23,311,320
+8,2012,Houston Texans,7,0.8333333333333334,True,Baltimore Ravens,0.8333333333333334,W,43,13,420,176,9,0.8571428571428571,True,Buffalo Bills,0.42857142857142855,W,21,9,374,304
+9,2012,Indianapolis Colts,3,0.5,True,Jacksonville Jaguars,0.0,L,17,22,437,333,5,0.3333333333333333,True,Green Bay Packers,0.5,W,30,27,464,356
+10,2012,Tennessee Titans,10,0.3333333333333333,False,Miami Dolphins,0.5,W,37,3,293,255,12,0.4,False,Jacksonville Jaguars,0.1,L,19,24,360,321
+11,2012,Jacksonville Jaguars,5,0.25,True,Chicago Bears,0.75,L,3,41,189,501,7,0.2,False,Oakland Raiders,0.2,L,23,26,209,351
+12,2012,Denver Broncos,6,0.4,False,San Diego Chargers,0.6,W,35,24,365,307,8,0.5,True,New Orleans Saints,0.3333333333333333,W,34,14,530,252
+13,2012,San Diego Chargers,6,0.6,True,Denver Broncos,0.4,L,24,35,307,365,8,0.5,False,Cleveland Browns,0.14285714285714285,L,6,7,265,250
+14,2012,Oakland Raiders,4,0.3333333333333333,False,Denver Broncos,0.3333333333333333,L,6,37,237,503,6,0.25,False,Atlanta Falcons,1.0,L,20,23,474,286
+15,2012,Kansas City Chiefs,6,0.2,False,Tampa Bay Buccaneers,0.25,L,10,38,260,463,8,0.16666666666666666,True,Oakland Raiders,0.3333333333333333,L,16,26,299,344
+16,2012,Washington Redskins,9,0.375,True,Carolina Panthers,0.14285714285714285,L,13,21,337,330,11,0.3333333333333333,True,Philadelphia Eagles,0.3333333333333333,W,31,6,361,257
+17,2012,New York Giants,10,0.6666666666666666,False,Cincinnati Bengals,0.375,L,13,31,318,275,12,0.6,True,Green Bay Packers,0.7,W,38,10,390,317
+18,2012,Dallas Cowboys,4,0.6666666666666666,True,Chicago Bears,0.6666666666666666,L,18,34,430,360,6,0.5,False,Baltimore Ravens,0.8,L,29,31,481,316
+19,2012,Philadelphia Eagles,6,0.6,True,Detroit Lions,0.25,L,23,26,357,449,8,0.5,True,Atlanta Falcons,1.0,L,17,30,270,392
+20,2012,Green Bay Packers,9,0.625,True,Arizona Cardinals,0.5,W,31,17,384,340,11,0.6666666666666666,False,Detroit Lions,0.4444444444444444,W,24,20,314,362
+21,2012,Minnesota Vikings,10,0.5555555555555556,True,Detroit Lions,0.5,W,34,24,403,368,12,0.6,False,Chicago Bears,0.7,L,10,28,258,296
+22,2012,Chicago Bears,5,0.75,False,Jacksonville Jaguars,0.25,W,41,3,501,189,7,0.8,True,Detroit Lions,0.4,W,13,7,296,340
+23,2012,Detroit Lions,4,0.3333333333333333,True,Minnesota Vikings,0.6666666666666666,L,13,20,341,227,6,0.25,False,Philadelphia Eagles,0.6,W,26,23,449,357
+24,2012,Atlanta Falcons,6,1.0,True,Oakland Raiders,0.25,W,23,20,286,474,8,1.0,False,Philadelphia Eagles,0.5,W,30,17,392,270
+25,2012,Carolina Panthers,5,0.25,True,Seattle Seahawks,0.5,L,12,16,190,310,7,0.2,True,Dallas Cowboys,0.4,L,14,19,328,312
+26,2012,New Orleans Saints,5,0.0,True,San Diego Chargers,0.75,W,31,24,404,427,7,0.2,False,Tampa Bay Buccaneers,0.4,W,35,28,458,513
+27,2012,Tampa Bay Buccaneers,4,0.3333333333333333,True,Washington Redskins,0.3333333333333333,L,22,24,373,474,6,0.25,True,Kansas City Chiefs,0.2,W,38,10,463,260
+28,2012,San Francisco 49ers,8,0.7142857142857143,False,Arizona Cardinals,0.5714285714285714,W,24,3,317,265,10,0.75,True,St. Louis Rams,0.375,T,24,24,341,458
+29,2012,Seattle Seahawks,10,0.5555555555555556,True,New York Jets,0.375,W,28,7,363,185,12,0.6,False,Miami Dolphins,0.4,L,21,24,312,435
+30,2012,St. Louis Rams,8,0.42857142857142855,True,New England Patriots,0.5714285714285714,L,7,45,326,473,10,0.375,False,San Francisco 49ers,0.75,T,24,24,458,341
+31,2012,Arizona Cardinals,9,0.5,False,Green Bay Packers,0.625,L,17,31,340,384,11,0.4444444444444444,False,Atlanta Falcons,0.8888888888888888,L,19,23,178,354

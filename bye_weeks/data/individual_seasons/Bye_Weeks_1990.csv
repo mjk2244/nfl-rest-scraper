@@ -1,0 +1,29 @@
+,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
+0,1990,Buffalo Bills,5,0.75,True,Los Angeles Raiders,1.0,W,38,24,280,347,7,0.8,True,New York Jets,0.3333333333333333,W,30,27,405,342
+1,1990,Miami Dolphins,5,0.75,True,New York Jets,0.5,W,20,16,334,342,7,0.8,True,New England Patriots,0.2,W,17,10,279,197
+2,1990,Indianapolis Colts,5,0.25,True,Kansas City Chiefs,0.75,W,23,19,231,255,7,0.4,True,Denver Broncos,0.3333333333333333,L,17,27,363,444
+3,1990,New York Jets,13,0.3333333333333333,False,San Diego Chargers,0.4166666666666667,L,17,38,352,409,15,0.3076923076923077,True,Indianapolis Colts,0.38461538461538464,L,21,29,300,373
+4,1990,New England Patriots,5,0.25,True,Seattle Seahawks,0.25,L,20,33,274,338,7,0.2,False,Miami Dolphins,0.8,L,10,17,197,279
+5,1990,Cincinnati Bengals,9,0.625,True,New Orleans Saints,0.2857142857142857,L,7,21,261,350,11,0.5555555555555556,True,Pittsburgh Steelers,0.5555555555555556,W,27,3,312,206
+6,1990,Houston Oilers,9,0.5,False,Los Angeles Rams,0.2857142857142857,L,13,17,366,316,11,0.4444444444444444,False,Cleveland Browns,0.2222222222222222,W,35,23,378,361
+7,1990,Pittsburgh Steelers,9,0.5,True,Atlanta Falcons,0.42857142857142855,W,21,9,333,332,11,0.5555555555555556,False,Cincinnati Bengals,0.5555555555555556,L,3,27,206,312
+8,1990,Cleveland Browns,9,0.25,True,Buffalo Bills,0.8571428571428571,L,0,42,234,310,11,0.2222222222222222,True,Houston Oilers,0.4444444444444444,L,23,35,361,378
+9,1990,Los Angeles Raiders,7,0.8333333333333334,False,San Diego Chargers,0.3333333333333333,W,24,9,289,289,9,0.8571428571428571,False,Kansas City Chiefs,0.5714285714285714,L,7,9,234,169
+10,1990,Kansas City Chiefs,7,0.6666666666666666,False,Seattle Seahawks,0.3333333333333333,L,7,19,248,260,9,0.5714285714285714,True,Los Angeles Raiders,0.8571428571428571,W,9,7,169,234
+11,1990,Seattle Seahawks,7,0.3333333333333333,True,Kansas City Chiefs,0.6666666666666666,W,19,7,260,248,9,0.42857142857142855,True,San Diego Chargers,0.375,L,14,31,194,289
+12,1990,San Diego Chargers,13,0.4166666666666667,True,New York Jets,0.3333333333333333,W,38,17,409,352,15,0.46153846153846156,False,Denver Broncos,0.23076923076923078,L,10,20,390,320
+13,1990,Denver Broncos,7,0.3333333333333333,False,Indianapolis Colts,0.4,W,27,17,444,363,9,0.42857142857142855,False,Minnesota Vikings,0.14285714285714285,L,22,27,287,256
+14,1990,New York Giants,4,1.0,True,Dallas Cowboys,0.3333333333333333,W,31,17,334,284,6,1.0,False,Washington Redskins,0.75,W,24,20,332,328
+15,1990,Philadelphia Eagles,4,0.3333333333333333,True,Indianapolis Colts,0.0,L,23,24,409,357,6,0.25,True,Minnesota Vikings,0.2,W,32,24,347,273
+16,1990,Washington Redskins,4,0.6666666666666666,False,Phoenix Cardinals,0.3333333333333333,W,38,10,436,192,6,0.75,True,New York Giants,1.0,L,20,24,328,332
+17,1990,Dallas Cowboys,13,0.4166666666666667,True,New Orleans Saints,0.45454545454545453,W,17,13,274,283,15,0.46153846153846156,True,Phoenix Cardinals,0.38461538461538464,W,41,10,354,200
+18,1990,Phoenix Cardinals,4,0.3333333333333333,True,Washington Redskins,0.6666666666666666,L,10,38,192,436,6,0.25,True,Dallas Cowboys,0.4,W,20,3,414,100
+19,1990,Chicago Bears,6,0.8,True,Los Angeles Rams,0.25,W,38,9,402,267,8,0.8333333333333334,False,Phoenix Cardinals,0.3333333333333333,W,31,21,382,331
+20,1990,Tampa Bay Buccaneers,13,0.3333333333333333,True,Atlanta Falcons,0.2727272727272727,W,23,17,373,374,15,0.38461538461538464,True,Minnesota Vikings,0.46153846153846156,W,26,13,345,433
+21,1990,Detroit Lions,6,0.4,False,Kansas City Chiefs,0.6,L,24,43,328,566,8,0.3333333333333333,False,New Orleans Saints,0.3333333333333333,W,27,10,262,269
+22,1990,Green Bay Packers,6,0.4,False,Tampa Bay Buccaneers,0.6,L,14,26,381,356,8,0.3333333333333333,True,Minnesota Vikings,0.16666666666666666,W,24,10,292,316
+23,1990,Minnesota Vikings,6,0.2,False,Philadelphia Eagles,0.25,L,24,32,273,347,8,0.16666666666666666,False,Green Bay Packers,0.3333333333333333,L,10,24,316,292
+24,1990,San Francisco 49ers,3,1.0,True,Atlanta Falcons,0.5,W,19,13,445,369,5,1.0,False,Houston Oilers,0.5,W,24,21,383,256
+25,1990,New Orleans Saints,3,0.0,True,Phoenix Cardinals,0.5,W,28,7,297,297,5,0.3333333333333333,False,Atlanta Falcons,0.3333333333333333,L,27,28,293,457
+26,1990,Los Angeles Rams,3,0.5,True,Philadelphia Eagles,0.0,L,21,27,281,405,5,0.3333333333333333,True,Cincinnati Bengals,0.75,L,31,34,477,582
+27,1990,Atlanta Falcons,3,0.5,False,San Francisco 49ers,1.0,L,13,19,369,445,5,0.3333333333333333,True,New Orleans Saints,0.3333333333333333,W,28,27,457,293
