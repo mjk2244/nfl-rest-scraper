@@ -33,7 +33,7 @@ The features in this dataset include:
 - `opp_yds_2`: number of yards `team` allowed in its **post-bye** game (int)
 
 ## [Distance](./distance)
-This dataset tracks the results of every NFL game played from 1990-2022, aiming to analyze how distance travelled and time zones traversed affect road teams' performances.
+This dataset tracks the results of every NFL game played from 1990-2022, aiming to analyze how distance traveled and time zones traversed affect road teams' performances.
 
 To access our entire dataset, click [here](./distance/data/distance_all.md). To access subframes for each individual season, click [here](./distance/data/individual_seasons). The source code for our web scraper can be found [here](./distance/distance.py).
 
