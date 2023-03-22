@@ -43,7 +43,7 @@ The features in this dataset include:
 - `week`: the week the game was played (2-18)
 - `opp`: the home team (string)
 - `distance`: distance, in miles, that `team` had to travel to reach the game (from airport to airport) (float)
-- `time_zone_diff`: the number of time zones `team` had to traverse` to reach the game (negative values indicate east-to-west travel, while positive values indicate west-to-east travel) (int)
+- `time_zone_diff`: the number of time zones `team` had to traverse to reach the game (negative values indicate east-to-west travel, while positive values indicate west-to-east travel) (int)
 - `win_pct`: `team`'s win percentage going into the game in question (0.000-1.000)
 - `opp_win_pct`: `opp`'s win percentage going into the game in question (0.000-1.000)
 - `result`: whether `team` won the game in question (W or L)
