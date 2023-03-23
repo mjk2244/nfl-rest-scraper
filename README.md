@@ -69,7 +69,7 @@ The features in this dataset include:
 - `pf_1`: number of points `team` scored in its **short rest** game (int)
 - `pa_1`: number of points `team` allowed in its **short rest** game (int)
 - `yds_1`: number of yards `team` recorded in its **short rest** game (int)
-- `opp_yds_1`: number of yards `team` allowed in its **short rest* game (int)
+- `opp_yds_1`: number of yards `team` allowed in its **short rest** game (int)
 - `week_2`: the week of the NFL season in which `team`'s **long rest** game was played (2-17)
 - `win_pct_2`: `team`'s win percentage going into its **long rest** game (0.000-1.000)
 - `home_team_2`: whether or not `team` was the home team in the **long rest** game (boolean value)
