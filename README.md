@@ -53,7 +53,33 @@ The features in this dataset include:
 - `opp_yds`: number of yards `opp` recorded in the game in question (int)
 
 ## [Thursday Night Football](./tnf)
-TODO: FILL THIS OUT WITH DETAILS ABOUT THE DATASET
+This dataset tracks each team's performance in the Thursday Night game following a Sunday game (**short rest**) and the game directly after that Thursday Night week (**long rest**). Our data begins in 1990 and ends in 2022 (the most recent NFL season).
+
+To access our entire dataset, click [here](./tnf/data/tnf_all.csv). To access subframes for each individual season, click [here](./tnf/data/individual_seasons). The source code for our web scraper can be found [here](./tnf/tnf.py).
+
+The features in this dataset include:  
+- `year`: the season in question (1990-2022)
+- `team`: the team in question (string)
+- `week_1`: the week of the NFL season in which `team`'s **short rest** game was played (2-16)
+- `win_pct_1`: `team`'s win percentage going into its **short rest** game (0.000-1.000)
+- `home_team_1`: whether or not `team` was the home team in its **short rest** game (boolean value)
+- `opp_1`: `team`'s opponent in its **short rest** game (string)
+- `opp_win_pct_1`: `opp_1`'s win percentage before `team`'s **short rest** game (0.000-1.000)
+- `result_1`: whether `team` lost or won its **short rest** game (W or L)
+- `pf_1`: number of points `team` scored in its **short rest** game (int)
+- `pa_1`: number of points `team` allowed in its **short rest** game (int)
+- `yds_1`: number of yards `team` recorded in its **short rest** game (int)
+- `opp_yds_1`: number of yards `team` allowed in its **short rest* game (int)
+- `week_2`: the week of the NFL season in which `team`'s **long rest** game was played (2-17)
+- `win_pct_2`: `team`'s win percentage going into its **long rest** game (0.000-1.000)
+- `home_team_2`: whether or not `team` was the home team in the **long rest** game (boolean value)
+- `opp_2`: `team`'s opponent in its **long rest** game (string)
+- `opp_win_pct_2`: `opp_2`'s win percentage before `team`'s **long rest** game (0.000-1.000)
+- `result_2`: whether `team` lost or won its **long rest** game (W or L)
+- `pf_2`: number of points `team` scored in its **long rest** game (int)
+- `pa_2`: number of points `team` allowed in its **long rest** game (int)
+- `yds_2`: number of yards `team` recorded in its **long rest** game (int)
+- `opp_yds_2`: number of yards `team` allowed in its **long rest** game (int)
 
 ## Group Members
 Robert Gao - `rzg2107`  
