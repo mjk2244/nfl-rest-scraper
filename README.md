@@ -54,12 +54,12 @@ The features in this dataset include:
 - `opp_yds`: number of yards `opp` recorded in the game in question (int)
 
 ## [Thursday Night Football](./tnf)
-This dataset tracks each team's performance in the Thursday Night game following a Sunday game (**short rest**) and the game directly after that Thursday Night week (**long rest**). Our data begins in 1990 and ends in 2022 (the most recent NFL season).
+This dataset tracks each team's performance in the Thursday Night game following a Sunday game (**short rest**) and the game directly after that Thursday Night week (**long rest**). Our data begins in 2006 and ends in 2022 (the most recent NFL season).
 
 To access our entire dataset, click [here](./tnf/data/tnf_all.csv). To access subframes for each individual season, click [here](./tnf/data/individual_seasons). The source code for our web scraper can be found [here](./tnf/tnf.py).
 
 The features in this dataset include:  
-- `year`: the season in question (1990-2022)
+- `year`: the season in question (2006-2022)
 - `team`: the team in question (string)
 - `week_1`: the week of the NFL season in which `team`'s **short rest** game was played (2-16)
 - `win_pct_1`: `team`'s win percentage going into its **short rest** game (0.000-1.000)
