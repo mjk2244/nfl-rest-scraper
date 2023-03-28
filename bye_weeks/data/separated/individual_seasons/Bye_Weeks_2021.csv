@@ -1,0 +1,65 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2021,Buffalo Bills,6,0,0.8,0,Tennessee Titans,0.6,0,31,34,417,362
+1,2021,Buffalo Bills,8,1,0.6666666666666666,1,Miami Dolphins,0.14285714285714285,1,26,11,351,262
+2,2021,New England Patriots,13,0,0.6666666666666666,0,Buffalo Bills,0.6363636363636364,1,14,10,241,230
+3,2021,New England Patriots,15,1,0.6923076923076923,0,Indianapolis Colts,0.5384615384615384,0,17,27,365,275
+4,2021,Miami Dolphins,13,0,0.4166666666666667,1,New York Giants,0.36363636363636365,1,20,9,297,250
+5,2021,Miami Dolphins,15,1,0.46153846153846156,1,New York Jets,0.23076923076923078,1,31,24,379,228
+6,2021,New York Jets,5,0,0.25,0,Atlanta Falcons,0.25,0,20,27,230,450
+7,2021,New York Jets,7,1,0.2,0,New England Patriots,0.3333333333333333,0,13,54,299,551
+8,2021,Cincinnati Bengals,9,0,0.625,1,Cleveland Browns,0.5,0,16,41,348,361
+9,2021,Cincinnati Bengals,11,1,0.5555555555555556,0,Las Vegas Raiders,0.5555555555555556,1,32,13,288,278
+10,2021,Pittsburgh Steelers,6,0,0.4,1,Seattle Seahawks,0.4,1,23,20,345,309
+11,2021,Pittsburgh Steelers,8,1,0.5,0,Cleveland Browns,0.5714285714285714,1,15,10,370,306
+12,2021,Cleveland Browns,12,0,0.5454545454545454,0,Baltimore Ravens,0.7,0,10,16,262,303
+13,2021,Cleveland Browns,14,1,0.5,1,Baltimore Ravens,0.6666666666666666,1,24,22,290,389
+14,2021,Baltimore Ravens,7,0,0.8333333333333334,1,Cincinnati Bengals,0.6666666666666666,0,17,41,393,520
+15,2021,Baltimore Ravens,9,1,0.7142857142857143,1,Minnesota Vikings,0.42857142857142855,1,34,31,500,318
+16,2021,Tennessee Titans,12,0,0.7272727272727273,0,New England Patriots,0.6363636363636364,0,13,36,355,394
+17,2021,Tennessee Titans,14,1,0.6666666666666666,1,Jacksonville Jaguars,0.16666666666666666,1,20,0,263,192
+18,2021,Indianapolis Colts,13,0,0.5,0,Houston Texans,0.18181818181818182,1,31,0,389,141
+19,2021,Indianapolis Colts,15,1,0.5384615384615384,1,New England Patriots,0.6923076923076923,1,27,17,275,365
+20,2021,Houston Texans,9,0,0.125,0,Miami Dolphins,0.125,0,9,17,272,262
+21,2021,Houston Texans,11,1,0.1111111111111111,0,Tennessee Titans,0.8,1,22,13,190,420
+22,2021,Jacksonville Jaguars,6,0,0.0,1,Miami Dolphins,0.2,1,23,20,396,431
+23,2021,Jacksonville Jaguars,8,1,0.16666666666666666,0,Seattle Seahawks,0.2857142857142857,0,7,31,309,229
+24,2021,Kansas City Chiefs,11,0,0.6,1,Dallas Cowboys,0.7777777777777778,1,19,9,370,276
+25,2021,Kansas City Chiefs,13,1,0.6363636363636364,1,Denver Broncos,0.5454545454545454,1,22,9,267,404
+26,2021,Las Vegas Raiders,7,0,0.6666666666666666,1,Philadelphia Eagles,0.3333333333333333,1,33,22,442,358
+27,2021,Las Vegas Raiders,9,1,0.7142857142857143,0,New York Giants,0.25,0,16,23,403,247
+28,2021,Los Angeles Chargers,6,0,0.8,0,Baltimore Ravens,0.8,0,6,34,208,327
+29,2021,Los Angeles Chargers,8,1,0.6666666666666666,1,New England Patriots,0.42857142857142855,0,24,27,369,352
+30,2021,Denver Broncos,10,0,0.5555555555555556,1,Philadelphia Eagles,0.3333333333333333,0,13,30,308,386
+31,2021,Denver Broncos,12,1,0.5,1,Los Angeles Chargers,0.6,1,28,13,302,357
+32,2021,Dallas Cowboys,6,0,0.8,0,New England Patriots,0.4,1,35,29,567,335
+33,2021,Dallas Cowboys,8,1,0.8333333333333334,0,Minnesota Vikings,0.5,1,20,16,419,278
+34,2021,Philadelphia Eagles,13,0,0.4166666666666667,0,New York Jets,0.2727272727272727,1,33,18,418,281
+35,2021,Philadelphia Eagles,15,1,0.46153846153846156,1,Washington Football Team,0.46153846153846156,1,27,17,519,237
+36,2021,Washington Football Team,8,0,0.2857142857142857,0,Denver Broncos,0.42857142857142855,0,10,17,342,273
+37,2021,Washington Football Team,10,1,0.25,1,Tampa Bay Buccaneers,0.75,1,29,19,320,273
+38,2021,New York Giants,9,0,0.25,1,Las Vegas Raiders,0.7142857142857143,1,23,16,247,403
+39,2021,New York Giants,11,1,0.3333333333333333,0,Tampa Bay Buccaneers,0.6666666666666666,0,10,30,215,402
+40,2021,Green Bay Packers,12,0,0.7272727272727273,1,Los Angeles Rams,0.7,1,36,28,399,353
+41,2021,Green Bay Packers,14,1,0.75,1,Chicago Bears,0.3333333333333333,1,45,30,439,347
+42,2021,Minnesota Vikings,6,0,0.4,0,Carolina Panthers,0.6,1,34,28,571,306
+43,2021,Minnesota Vikings,8,1,0.5,1,Dallas Cowboys,0.8333333333333334,0,16,20,278,419
+44,2021,Chicago Bears,9,0,0.375,0,Pittsburgh Steelers,0.5714285714285714,0,27,29,414,280
+45,2021,Chicago Bears,11,1,0.3333333333333333,1,Baltimore Ravens,0.6666666666666666,0,13,16,353,299
+46,2021,Detroit Lions,8,0,0.0,1,Philadelphia Eagles,0.2857142857142857,0,6,44,228,350
+47,2021,Detroit Lions,10,1,0.0,0,Pittsburgh Steelers,0.625,0,16,16,306,387
+48,2021,Tampa Bay Buccaneers,8,0,0.8571428571428571,0,New Orleans Saints,0.6666666666666666,0,27,36,421,361
+49,2021,Tampa Bay Buccaneers,10,1,0.75,0,Washington Football Team,0.25,0,19,29,273,320
+50,2021,New Orleans Saints,5,0,0.5,0,Washington Football Team,0.5,1,33,22,369,373
+51,2021,New Orleans Saints,7,1,0.6,0,Seattle Seahawks,0.3333333333333333,1,13,10,304,219
+52,2021,Atlanta Falcons,5,0,0.25,1,New York Jets,0.25,1,27,20,450,230
+53,2021,Atlanta Falcons,7,1,0.4,0,Miami Dolphins,0.16666666666666666,1,30,28,397,413
+54,2021,Carolina Panthers,12,0,0.45454545454545453,0,Miami Dolphins,0.36363636363636365,0,10,33,198,315
+55,2021,Carolina Panthers,14,1,0.4166666666666667,1,Atlanta Falcons,0.4166666666666667,0,21,29,334,318
+56,2021,Los Angeles Rams,10,0,0.7777777777777778,0,San Francisco 49ers,0.375,0,10,31,278,335
+57,2021,Los Angeles Rams,12,1,0.7,0,Green Bay Packers,0.7272727272727273,0,28,36,353,399
+58,2021,Arizona Cardinals,11,0,0.8,0,Seattle Seahawks,0.3333333333333333,1,23,13,413,266
+59,2021,Arizona Cardinals,13,1,0.8181818181818182,0,Chicago Bears,0.36363636363636365,1,33,22,257,329
+60,2021,San Francisco 49ers,5,0,0.5,0,Arizona Cardinals,1.0,0,10,17,338,304
+61,2021,San Francisco 49ers,7,1,0.4,1,Indianapolis Colts,0.3333333333333333,0,18,30,280,295
+62,2021,Seattle Seahawks,8,0,0.2857142857142857,1,Jacksonville Jaguars,0.16666666666666666,1,31,7,229,309
+63,2021,Seattle Seahawks,10,1,0.375,0,Green Bay Packers,0.7777777777777778,0,0,17,208,393
