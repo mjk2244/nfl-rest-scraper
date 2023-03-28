@@ -6,7 +6,7 @@ We have structured our work in three separate directories—bye_weeks, distance,
 ## [Bye Weeks](./bye_weeks)
 This dataset tracks each team's performance in the game directly before (**pre-bye**) and the game directly after their bye week (**post-bye**). Our data begins in 1990 (when bye weeks were first introduced into the NFL) and ends in 2022 (the most recent NFL season).
 
-To access our entire dataset, click [here](./bye_weeks/data/bye_weeks_all.csv). To access subframes for each individual season, click [here](./bye_weeks/data/individual_seasons). The source code for our web scraper can be found [here](./bye_weeks/bye_weeks.py).
+To access our entire dataset, click [here](./bye_weeks/data/unseparated/bye_weeks_all.csv). To access subframes for each individual season, click [here](./bye_weeks/data/unseparated/individual_seasons). The source code for our web scraper can be found [here](./bye_weeks/bye_weeks.py).
 
 The features in this dataset include:  
 - `year`: the season in question (1990-2022)
