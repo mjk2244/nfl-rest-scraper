@@ -1,0 +1,57 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,1990,Buffalo Bills,5,0,0.75,1,Los Angeles Raiders,1.0,1,38,24,280,347
+1,1990,Buffalo Bills,7,1,0.8,1,New York Jets,0.3333333333333333,1,30,27,405,342
+2,1990,Miami Dolphins,5,0,0.75,1,New York Jets,0.5,1,20,16,334,342
+3,1990,Miami Dolphins,7,1,0.8,1,New England Patriots,0.2,1,17,10,279,197
+4,1990,Indianapolis Colts,5,0,0.25,1,Kansas City Chiefs,0.75,1,23,19,231,255
+5,1990,Indianapolis Colts,7,1,0.4,1,Denver Broncos,0.3333333333333333,0,17,27,363,444
+6,1990,New York Jets,13,0,0.3333333333333333,0,San Diego Chargers,0.4166666666666667,0,17,38,352,409
+7,1990,New York Jets,15,1,0.3076923076923077,1,Indianapolis Colts,0.38461538461538464,0,21,29,300,373
+8,1990,New England Patriots,5,0,0.25,1,Seattle Seahawks,0.25,0,20,33,274,338
+9,1990,New England Patriots,7,1,0.2,0,Miami Dolphins,0.8,0,10,17,197,279
+10,1990,Cincinnati Bengals,9,0,0.625,1,New Orleans Saints,0.2857142857142857,0,7,21,261,350
+11,1990,Cincinnati Bengals,11,1,0.5555555555555556,1,Pittsburgh Steelers,0.5555555555555556,1,27,3,312,206
+12,1990,Houston Oilers,9,0,0.5,0,Los Angeles Rams,0.2857142857142857,0,13,17,366,316
+13,1990,Houston Oilers,11,1,0.4444444444444444,0,Cleveland Browns,0.2222222222222222,1,35,23,378,361
+14,1990,Pittsburgh Steelers,9,0,0.5,1,Atlanta Falcons,0.42857142857142855,1,21,9,333,332
+15,1990,Pittsburgh Steelers,11,1,0.5555555555555556,0,Cincinnati Bengals,0.5555555555555556,0,3,27,206,312
+16,1990,Cleveland Browns,9,0,0.25,1,Buffalo Bills,0.8571428571428571,0,0,42,234,310
+17,1990,Cleveland Browns,11,1,0.2222222222222222,1,Houston Oilers,0.4444444444444444,0,23,35,361,378
+18,1990,Los Angeles Raiders,7,0,0.8333333333333334,0,San Diego Chargers,0.3333333333333333,1,24,9,289,289
+19,1990,Los Angeles Raiders,9,1,0.8571428571428571,0,Kansas City Chiefs,0.5714285714285714,0,7,9,234,169
+20,1990,Kansas City Chiefs,7,0,0.6666666666666666,0,Seattle Seahawks,0.3333333333333333,0,7,19,248,260
+21,1990,Kansas City Chiefs,9,1,0.5714285714285714,1,Los Angeles Raiders,0.8571428571428571,1,9,7,169,234
+22,1990,Seattle Seahawks,7,0,0.3333333333333333,1,Kansas City Chiefs,0.6666666666666666,1,19,7,260,248
+23,1990,Seattle Seahawks,9,1,0.42857142857142855,1,San Diego Chargers,0.375,0,14,31,194,289
+24,1990,San Diego Chargers,13,0,0.4166666666666667,1,New York Jets,0.3333333333333333,1,38,17,409,352
+25,1990,San Diego Chargers,15,1,0.46153846153846156,0,Denver Broncos,0.23076923076923078,0,10,20,390,320
+26,1990,Denver Broncos,7,0,0.3333333333333333,0,Indianapolis Colts,0.4,1,27,17,444,363
+27,1990,Denver Broncos,9,1,0.42857142857142855,0,Minnesota Vikings,0.14285714285714285,0,22,27,287,256
+28,1990,New York Giants,4,0,1.0,1,Dallas Cowboys,0.3333333333333333,1,31,17,334,284
+29,1990,New York Giants,6,1,1.0,0,Washington Redskins,0.75,1,24,20,332,328
+30,1990,Philadelphia Eagles,4,0,0.3333333333333333,1,Indianapolis Colts,0.0,0,23,24,409,357
+31,1990,Philadelphia Eagles,6,1,0.25,1,Minnesota Vikings,0.2,1,32,24,347,273
+32,1990,Washington Redskins,4,0,0.6666666666666666,0,Phoenix Cardinals,0.3333333333333333,1,38,10,436,192
+33,1990,Washington Redskins,6,1,0.75,1,New York Giants,1.0,0,20,24,328,332
+34,1990,Dallas Cowboys,13,0,0.4166666666666667,1,New Orleans Saints,0.45454545454545453,1,17,13,274,283
+35,1990,Dallas Cowboys,15,1,0.46153846153846156,1,Phoenix Cardinals,0.38461538461538464,1,41,10,354,200
+36,1990,Phoenix Cardinals,4,0,0.3333333333333333,1,Washington Redskins,0.6666666666666666,0,10,38,192,436
+37,1990,Phoenix Cardinals,6,1,0.25,1,Dallas Cowboys,0.4,1,20,3,414,100
+38,1990,Chicago Bears,6,0,0.8,1,Los Angeles Rams,0.25,1,38,9,402,267
+39,1990,Chicago Bears,8,1,0.8333333333333334,0,Phoenix Cardinals,0.3333333333333333,1,31,21,382,331
+40,1990,Tampa Bay Buccaneers,13,0,0.3333333333333333,1,Atlanta Falcons,0.2727272727272727,1,23,17,373,374
+41,1990,Tampa Bay Buccaneers,15,1,0.38461538461538464,1,Minnesota Vikings,0.46153846153846156,1,26,13,345,433
+42,1990,Detroit Lions,6,0,0.4,0,Kansas City Chiefs,0.6,0,24,43,328,566
+43,1990,Detroit Lions,8,1,0.3333333333333333,0,New Orleans Saints,0.3333333333333333,1,27,10,262,269
+44,1990,Green Bay Packers,6,0,0.4,0,Tampa Bay Buccaneers,0.6,0,14,26,381,356
+45,1990,Green Bay Packers,8,1,0.3333333333333333,1,Minnesota Vikings,0.16666666666666666,1,24,10,292,316
+46,1990,Minnesota Vikings,6,0,0.2,0,Philadelphia Eagles,0.25,0,24,32,273,347
+47,1990,Minnesota Vikings,8,1,0.16666666666666666,0,Green Bay Packers,0.3333333333333333,0,10,24,316,292
+48,1990,San Francisco 49ers,3,0,1.0,1,Atlanta Falcons,0.5,1,19,13,445,369
+49,1990,San Francisco 49ers,5,1,1.0,0,Houston Oilers,0.5,1,24,21,383,256
+50,1990,New Orleans Saints,3,0,0.0,1,Phoenix Cardinals,0.5,1,28,7,297,297
+51,1990,New Orleans Saints,5,1,0.3333333333333333,0,Atlanta Falcons,0.3333333333333333,0,27,28,293,457
+52,1990,Los Angeles Rams,3,0,0.5,1,Philadelphia Eagles,0.0,0,21,27,281,405
+53,1990,Los Angeles Rams,5,1,0.3333333333333333,1,Cincinnati Bengals,0.75,0,31,34,477,582
+54,1990,Atlanta Falcons,3,0,0.5,0,San Francisco 49ers,1.0,0,13,19,369,445
+55,1990,Atlanta Falcons,5,1,0.3333333333333333,1,New Orleans Saints,0.3333333333333333,1,28,27,457,293

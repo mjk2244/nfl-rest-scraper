@@ -1,0 +1,65 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2016,New England Patriots,8,0,0.8571428571428571,0,Buffalo Bills,0.5714285714285714,1,41,25,357,376
+1,2016,New England Patriots,10,1,0.875,1,Seattle Seahawks,0.625,0,24,31,385,420
+2,2016,Miami Dolphins,7,0,0.3333333333333333,1,Buffalo Bills,0.6666666666666666,1,28,25,454,267
+3,2016,Miami Dolphins,9,1,0.42857142857142855,1,New York Jets,0.375,1,27,23,274,331
+4,2016,Buffalo Bills,9,0,0.5,0,Seattle Seahawks,0.5714285714285714,0,25,31,425,278
+5,2016,Buffalo Bills,11,1,0.4444444444444444,0,Cincinnati Bengals,0.3333333333333333,1,16,12,342,300
+6,2016,New York Jets,10,0,0.3333333333333333,1,Los Angeles Rams,0.375,0,6,9,296,280
+7,2016,New York Jets,12,1,0.3,1,New England Patriots,0.8,0,17,22,333,377
+8,2016,Pittsburgh Steelers,7,0,0.6666666666666666,1,New England Patriots,0.8333333333333334,0,16,27,375,362
+9,2016,Pittsburgh Steelers,9,1,0.5714285714285714,0,Baltimore Ravens,0.42857142857142855,0,14,21,277,274
+10,2016,Baltimore Ravens,7,0,0.5,0,New York Jets,0.16666666666666666,0,16,24,245,344
+11,2016,Baltimore Ravens,9,1,0.42857142857142855,1,Pittsburgh Steelers,0.5714285714285714,1,21,14,274,277
+12,2016,Cincinnati Bengals,8,0,0.42857142857142855,1,Washington Redskins,0.5714285714285714,0,27,27,415,546
+13,2016,Cincinnati Bengals,10,1,0.42857142857142855,0,New York Giants,0.625,0,20,21,264,351
+14,2016,Cleveland Browns,12,0,0.0,1,New York Giants,0.7,0,13,27,343,296
+15,2016,Cleveland Browns,14,1,0.0,1,Cincinnati Bengals,0.3333333333333333,0,10,23,254,360
+16,2016,Houston Texans,8,0,0.5714285714285714,1,Detroit Lions,0.5714285714285714,1,20,13,269,289
+17,2016,Houston Texans,10,1,0.625,0,Jacksonville Jaguars,0.25,1,24,21,273,327
+18,2016,Tennessee Titans,12,0,0.45454545454545453,0,Chicago Bears,0.2,1,27,21,375,411
+19,2016,Tennessee Titans,14,1,0.5,1,Denver Broncos,0.6666666666666666,1,13,10,253,348
+20,2016,Indianapolis Colts,9,0,0.375,0,Green Bay Packers,0.5714285714285714,1,31,26,355,405
+21,2016,Indianapolis Colts,11,1,0.4444444444444444,1,Tennessee Titans,0.5,1,24,17,327,351
+22,2016,Jacksonville Jaguars,4,0,0.0,1,Indianapolis Colts,0.3333333333333333,1,30,27,331,284
+23,2016,Jacksonville Jaguars,6,1,0.25,0,Chicago Bears,0.2,1,17,16,317,389
+24,2016,Kansas City Chiefs,4,0,0.6666666666666666,0,Pittsburgh Steelers,0.6666666666666666,0,14,43,357,436
+25,2016,Kansas City Chiefs,6,1,0.5,0,Oakland Raiders,0.8,1,26,10,406,285
+26,2016,Oakland Raiders,9,0,0.75,1,Denver Broncos,0.75,1,30,20,397,299
+27,2016,Oakland Raiders,11,1,0.7777777777777778,1,Houston Texans,0.6666666666666666,1,27,20,325,354
+28,2016,Denver Broncos,10,0,0.6666666666666666,0,New Orleans Saints,0.5,1,25,23,337,373
+29,2016,Denver Broncos,12,1,0.7,1,Kansas City Chiefs,0.7,0,27,30,464,273
+30,2016,San Diego Chargers,10,0,0.4444444444444444,1,Miami Dolphins,0.5,0,24,31,379,337
+31,2016,San Diego Chargers,12,1,0.4,0,Houston Texans,0.6,1,21,13,302,353
+32,2016,Dallas Cowboys,6,0,0.8,0,Green Bay Packers,0.75,1,30,16,424,372
+33,2016,Dallas Cowboys,8,1,0.8333333333333334,1,Philadelphia Eagles,0.6666666666666666,1,29,23,460,291
+34,2016,New York Giants,7,0,0.5,0,Los Angeles Rams,0.5,1,17,10,232,345
+35,2016,New York Giants,9,1,0.5714285714285714,1,Philadelphia Eagles,0.5714285714285714,1,28,23,302,443
+36,2016,Washington Redskins,8,0,0.5714285714285714,0,Cincinnati Bengals,0.42857142857142855,0,27,27,546,415
+37,2016,Washington Redskins,10,1,0.5714285714285714,1,Minnesota Vikings,0.625,1,26,20,388,331
+38,2016,Philadelphia Eagles,3,0,1.0,1,Pittsburgh Steelers,1.0,1,34,3,426,251
+39,2016,Philadelphia Eagles,5,1,1.0,0,Detroit Lions,0.25,0,23,24,346,244
+40,2016,Green Bay Packers,3,0,0.5,1,Detroit Lions,0.5,1,34,27,324,418
+41,2016,Green Bay Packers,5,1,0.6666666666666666,1,New York Giants,0.5,1,23,16,406,221
+42,2016,Detroit Lions,9,0,0.5,0,Minnesota Vikings,0.7142857142857143,1,22,16,311,337
+43,2016,Detroit Lions,11,1,0.5555555555555556,1,Jacksonville Jaguars,0.2222222222222222,1,26,19,277,285
+44,2016,Minnesota Vikings,5,0,1.0,1,Houston Texans,0.75,1,31,13,351,214
+45,2016,Minnesota Vikings,7,1,1.0,0,Philadelphia Eagles,0.6,0,10,21,282,239
+46,2016,Chicago Bears,8,0,0.14285714285714285,1,Minnesota Vikings,0.8333333333333334,1,20,10,403,258
+47,2016,Chicago Bears,10,1,0.25,0,Tampa Bay Buccaneers,0.375,0,10,36,283,360
+48,2016,Atlanta Falcons,10,0,0.6666666666666666,0,Philadelphia Eagles,0.5,0,15,24,303,429
+49,2016,Atlanta Falcons,12,1,0.6,1,Arizona Cardinals,0.4,1,38,19,360,332
+50,2016,Tampa Bay Buccaneers,5,0,0.25,0,Carolina Panthers,0.25,1,17,14,315,414
+51,2016,Tampa Bay Buccaneers,7,1,0.4,0,San Francisco 49ers,0.16666666666666666,1,34,17,513,273
+52,2016,New Orleans Saints,4,0,0.0,0,San Diego Chargers,0.3333333333333333,1,35,34,275,346
+53,2016,New Orleans Saints,6,1,0.25,1,Carolina Panthers,0.2,1,41,38,523,406
+54,2016,Carolina Panthers,6,0,0.2,0,New Orleans Saints,0.25,0,38,41,406,523
+55,2016,Carolina Panthers,8,1,0.16666666666666666,1,Arizona Cardinals,0.42857142857142855,1,30,20,349,340
+56,2016,Seattle Seahawks,4,0,0.6666666666666666,0,New York Jets,0.3333333333333333,1,27,17,354,305
+57,2016,Seattle Seahawks,6,1,0.75,1,Atlanta Falcons,0.8,1,26,24,333,362
+58,2016,Arizona Cardinals,8,0,0.42857142857142855,0,Carolina Panthers,0.16666666666666666,0,20,30,340,349
+59,2016,Arizona Cardinals,10,1,0.42857142857142855,1,San Francisco 49ers,0.125,1,23,20,443,281
+60,2016,Los Angeles Rams,7,0,0.5,1,New York Giants,0.5,0,10,17,345,232
+61,2016,Los Angeles Rams,9,1,0.42857142857142855,1,Carolina Panthers,0.2857142857142857,0,10,13,339,244
+62,2016,San Francisco 49ers,7,0,0.16666666666666666,1,Tampa Bay Buccaneers,0.4,0,17,34,273,513
+63,2016,San Francisco 49ers,9,1,0.14285714285714285,1,New Orleans Saints,0.42857142857142855,0,23,41,486,571

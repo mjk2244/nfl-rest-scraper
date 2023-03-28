@@ -1,0 +1,65 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2012,New England Patriots,8,0,0.5714285714285714,0,St. Louis Rams,0.42857142857142855,1,45,7,473,326
+1,2012,New England Patriots,10,1,0.625,1,Buffalo Bills,0.375,1,37,31,347,481
+2,2012,Miami Dolphins,6,0,0.4,1,St. Louis Rams,0.6,1,17,14,192,462
+3,2012,Miami Dolphins,8,1,0.5,0,New York Jets,0.42857142857142855,1,30,9,236,363
+4,2012,New York Jets,8,0,0.42857142857142855,1,Miami Dolphins,0.5,0,9,30,363,236
+5,2012,New York Jets,10,1,0.375,0,Seattle Seahawks,0.5555555555555556,0,7,28,185,363
+6,2012,Buffalo Bills,7,0,0.5,1,Tennessee Titans,0.3333333333333333,0,34,35,382,390
+7,2012,Buffalo Bills,9,1,0.42857142857142855,0,Houston Texans,0.8571428571428571,0,9,21,304,374
+8,2012,Baltimore Ravens,7,0,0.8333333333333334,0,Houston Texans,0.8333333333333334,0,13,43,176,420
+9,2012,Baltimore Ravens,9,1,0.7142857142857143,0,Cleveland Browns,0.25,1,25,15,282,290
+10,2012,Cincinnati Bengals,7,0,0.5,1,Pittsburgh Steelers,0.4,0,17,24,185,431
+11,2012,Cincinnati Bengals,9,1,0.42857142857142855,1,Denver Broncos,0.5714285714285714,0,23,31,366,359
+12,2012,Pittsburgh Steelers,3,0,0.5,0,Oakland Raiders,0.0,0,31,34,433,321
+13,2012,Pittsburgh Steelers,5,1,0.3333333333333333,1,Philadelphia Eagles,0.75,1,16,14,343,246
+14,2012,Cleveland Browns,9,0,0.25,1,Baltimore Ravens,0.7142857142857143,0,15,25,290,282
+15,2012,Cleveland Browns,11,1,0.2222222222222222,0,Dallas Cowboys,0.4444444444444444,0,20,23,311,320
+16,2012,Houston Texans,7,0,0.8333333333333334,1,Baltimore Ravens,0.8333333333333334,1,43,13,420,176
+17,2012,Houston Texans,9,1,0.8571428571428571,1,Buffalo Bills,0.42857142857142855,1,21,9,374,304
+18,2012,Indianapolis Colts,3,0,0.5,1,Jacksonville Jaguars,0.0,0,17,22,437,333
+19,2012,Indianapolis Colts,5,1,0.3333333333333333,1,Green Bay Packers,0.5,1,30,27,464,356
+20,2012,Tennessee Titans,10,0,0.3333333333333333,0,Miami Dolphins,0.5,1,37,3,293,255
+21,2012,Tennessee Titans,12,1,0.4,0,Jacksonville Jaguars,0.1,0,19,24,360,321
+22,2012,Jacksonville Jaguars,5,0,0.25,1,Chicago Bears,0.75,0,3,41,189,501
+23,2012,Jacksonville Jaguars,7,1,0.2,0,Oakland Raiders,0.2,0,23,26,209,351
+24,2012,Denver Broncos,6,0,0.4,0,San Diego Chargers,0.6,1,35,24,365,307
+25,2012,Denver Broncos,8,1,0.5,1,New Orleans Saints,0.3333333333333333,1,34,14,530,252
+26,2012,San Diego Chargers,6,0,0.6,1,Denver Broncos,0.4,0,24,35,307,365
+27,2012,San Diego Chargers,8,1,0.5,0,Cleveland Browns,0.14285714285714285,0,6,7,265,250
+28,2012,Oakland Raiders,4,0,0.3333333333333333,0,Denver Broncos,0.3333333333333333,0,6,37,237,503
+29,2012,Oakland Raiders,6,1,0.25,0,Atlanta Falcons,1.0,0,20,23,474,286
+30,2012,Kansas City Chiefs,6,0,0.2,0,Tampa Bay Buccaneers,0.25,0,10,38,260,463
+31,2012,Kansas City Chiefs,8,1,0.16666666666666666,1,Oakland Raiders,0.3333333333333333,0,16,26,299,344
+32,2012,Washington Redskins,9,0,0.375,1,Carolina Panthers,0.14285714285714285,0,13,21,337,330
+33,2012,Washington Redskins,11,1,0.3333333333333333,1,Philadelphia Eagles,0.3333333333333333,1,31,6,361,257
+34,2012,New York Giants,10,0,0.6666666666666666,0,Cincinnati Bengals,0.375,0,13,31,318,275
+35,2012,New York Giants,12,1,0.6,1,Green Bay Packers,0.7,1,38,10,390,317
+36,2012,Dallas Cowboys,4,0,0.6666666666666666,1,Chicago Bears,0.6666666666666666,0,18,34,430,360
+37,2012,Dallas Cowboys,6,1,0.5,0,Baltimore Ravens,0.8,0,29,31,481,316
+38,2012,Philadelphia Eagles,6,0,0.6,1,Detroit Lions,0.25,0,23,26,357,449
+39,2012,Philadelphia Eagles,8,1,0.5,1,Atlanta Falcons,1.0,0,17,30,270,392
+40,2012,Green Bay Packers,9,0,0.625,1,Arizona Cardinals,0.5,1,31,17,384,340
+41,2012,Green Bay Packers,11,1,0.6666666666666666,0,Detroit Lions,0.4444444444444444,1,24,20,314,362
+42,2012,Minnesota Vikings,10,0,0.5555555555555556,1,Detroit Lions,0.5,1,34,24,403,368
+43,2012,Minnesota Vikings,12,1,0.6,0,Chicago Bears,0.7,0,10,28,258,296
+44,2012,Chicago Bears,5,0,0.75,0,Jacksonville Jaguars,0.25,1,41,3,501,189
+45,2012,Chicago Bears,7,1,0.8,1,Detroit Lions,0.4,1,13,7,296,340
+46,2012,Detroit Lions,4,0,0.3333333333333333,1,Minnesota Vikings,0.6666666666666666,0,13,20,341,227
+47,2012,Detroit Lions,6,1,0.25,0,Philadelphia Eagles,0.6,1,26,23,449,357
+48,2012,Atlanta Falcons,6,0,1.0,1,Oakland Raiders,0.25,1,23,20,286,474
+49,2012,Atlanta Falcons,8,1,1.0,0,Philadelphia Eagles,0.5,1,30,17,392,270
+50,2012,Carolina Panthers,5,0,0.25,1,Seattle Seahawks,0.5,0,12,16,190,310
+51,2012,Carolina Panthers,7,1,0.2,1,Dallas Cowboys,0.4,0,14,19,328,312
+52,2012,New Orleans Saints,5,0,0.0,1,San Diego Chargers,0.75,1,31,24,404,427
+53,2012,New Orleans Saints,7,1,0.2,0,Tampa Bay Buccaneers,0.4,1,35,28,458,513
+54,2012,Tampa Bay Buccaneers,4,0,0.3333333333333333,1,Washington Redskins,0.3333333333333333,0,22,24,373,474
+55,2012,Tampa Bay Buccaneers,6,1,0.25,1,Kansas City Chiefs,0.2,1,38,10,463,260
+56,2012,San Francisco 49ers,8,0,0.7142857142857143,0,Arizona Cardinals,0.5714285714285714,1,24,3,317,265
+57,2012,San Francisco 49ers,10,1,0.75,1,St. Louis Rams,0.375,0,24,24,341,458
+58,2012,Seattle Seahawks,10,0,0.5555555555555556,1,New York Jets,0.375,1,28,7,363,185
+59,2012,Seattle Seahawks,12,1,0.6,0,Miami Dolphins,0.4,0,21,24,312,435
+60,2012,St. Louis Rams,8,0,0.42857142857142855,1,New England Patriots,0.5714285714285714,0,7,45,326,473
+61,2012,St. Louis Rams,10,1,0.375,0,San Francisco 49ers,0.75,0,24,24,458,341
+62,2012,Arizona Cardinals,9,0,0.5,0,Green Bay Packers,0.625,0,17,31,340,384
+63,2012,Arizona Cardinals,11,1,0.4444444444444444,0,Atlanta Falcons,0.8888888888888888,0,19,23,178,354

@@ -1,0 +1,57 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,1991,Buffalo Bills,8,0,0.8571428571428571,1,Cincinnati Bengals,0.0,1,35,16,487,411
+1,1991,Buffalo Bills,10,1,0.875,1,New England Patriots,0.375,1,22,17,388,265
+2,1991,New York Jets,8,0,0.42857142857142855,0,Indianapolis Colts,0.0,1,17,6,331,170
+3,1991,New York Jets,10,1,0.5,1,Green Bay Packers,0.25,1,19,16,293,262
+4,1991,Miami Dolphins,8,0,0.42857142857142855,1,Houston Oilers,0.8333333333333334,0,13,17,275,282
+5,1991,Miami Dolphins,10,1,0.375,0,Indianapolis Colts,0.0,1,10,6,298,278
+6,1991,New England Patriots,6,0,0.4,1,Miami Dolphins,0.4,0,10,20,195,370
+7,1991,New England Patriots,8,1,0.3333333333333333,1,Minnesota Vikings,0.42857142857142855,1,26,23,399,444
+8,1991,Indianapolis Colts,8,0,0.0,1,New York Jets,0.42857142857142855,0,6,17,170,331
+9,1991,Indianapolis Colts,10,1,0.0,1,Miami Dolphins,0.375,0,6,10,278,298
+10,1991,Houston Oilers,4,0,1.0,0,New England Patriots,0.3333333333333333,0,20,24,353,343
+11,1991,Houston Oilers,6,1,0.75,1,Denver Broncos,0.8,1,42,14,378,363
+12,1991,Pittsburgh Steelers,4,0,0.6666666666666666,0,Philadelphia Eagles,0.6666666666666666,0,14,23,226,374
+13,1991,Pittsburgh Steelers,6,1,0.5,0,Indianapolis Colts,0.0,1,21,3,292,189
+14,1991,Cleveland Browns,4,0,0.6666666666666666,0,New York Giants,0.3333333333333333,0,10,13,145,264
+15,1991,Cleveland Browns,6,1,0.5,1,New York Jets,0.4,0,14,17,237,287
+16,1991,Cincinnati Bengals,4,0,0.0,1,Washington Redskins,1.0,0,27,34,322,344
+17,1991,Cincinnati Bengals,6,1,0.0,1,Seattle Seahawks,0.4,0,7,13,364,305
+18,1991,Denver Broncos,6,0,0.8,0,Houston Oilers,0.75,0,14,42,363,378
+19,1991,Denver Broncos,8,1,0.6666666666666666,1,Kansas City Chiefs,0.7142857142857143,1,19,16,324,328
+20,1991,Kansas City Chiefs,9,0,0.625,1,Los Angeles Raiders,0.625,1,24,21,267,322
+21,1991,Kansas City Chiefs,11,1,0.6666666666666666,0,Los Angeles Rams,0.3333333333333333,1,27,20,354,430
+22,1991,Los Angeles Raiders,9,0,0.625,0,Kansas City Chiefs,0.625,0,21,24,322,267
+23,1991,Los Angeles Raiders,11,1,0.5555555555555556,0,Denver Broncos,0.7777777777777778,1,17,16,244,383
+24,1991,Seattle Seahawks,9,0,0.5,1,San Diego Chargers,0.125,1,20,9,202,320
+25,1991,Seattle Seahawks,11,1,0.5555555555555556,0,San Diego Chargers,0.1111111111111111,0,14,17,387,315
+26,1991,San Diego Chargers,9,0,0.125,0,Seattle Seahawks,0.5,0,9,20,320,202
+27,1991,San Diego Chargers,11,1,0.1111111111111111,1,Seattle Seahawks,0.5555555555555556,1,17,14,315,387
+28,1991,Washington Redskins,7,0,1.0,1,Cleveland Browns,0.4,1,42,17,398,389
+29,1991,Washington Redskins,9,1,1.0,0,New York Giants,0.5714285714285714,1,17,13,254,271
+30,1991,Dallas Cowboys,7,0,0.6666666666666666,1,Cincinnati Bengals,0.0,1,35,23,376,352
+31,1991,Dallas Cowboys,9,1,0.7142857142857143,0,Detroit Lions,0.7142857142857143,0,10,34,415,208
+32,1991,Philadelphia Eagles,7,0,0.5,1,New Orleans Saints,1.0,0,6,13,204,162
+33,1991,Philadelphia Eagles,9,1,0.42857142857142855,1,San Francisco 49ers,0.42857142857142855,0,7,23,235,222
+34,1991,New York Giants,7,0,0.5,0,Pittsburgh Steelers,0.6,1,23,20,311,377
+35,1991,New York Giants,9,1,0.5714285714285714,1,Washington Redskins,1.0,0,13,17,271,254
+36,1991,Phoenix Cardinals,13,0,0.3333333333333333,1,Philadelphia Eagles,0.5454545454545454,0,14,34,236,289
+37,1991,Phoenix Cardinals,15,1,0.3076923076923077,1,Washington Redskins,0.9230769230769231,0,14,20,194,384
+38,1991,Detroit Lions,6,0,0.8,1,Minnesota Vikings,0.4,1,24,20,400,202
+39,1991,Detroit Lions,8,1,0.8333333333333334,0,San Francisco 49ers,0.3333333333333333,0,3,35,207,505
+40,1991,Chicago Bears,6,0,0.8,1,Washington Redskins,1.0,0,7,20,319,243
+41,1991,Chicago Bears,8,1,0.6666666666666666,0,Green Bay Packers,0.16666666666666666,1,10,0,298,141
+42,1991,Minnesota Vikings,13,0,0.5,1,Detroit Lions,0.6363636363636364,0,14,34,320,383
+43,1991,Minnesota Vikings,15,1,0.46153846153846156,0,Tampa Bay Buccaneers,0.15384615384615385,1,26,24,436,373
+44,1991,Green Bay Packers,6,0,0.2,1,Dallas Cowboys,0.6,0,17,20,259,411
+45,1991,Green Bay Packers,8,1,0.16666666666666666,1,Chicago Bears,0.6666666666666666,0,0,10,141,298
+46,1991,Tampa Bay Buccaneers,6,0,0.0,1,Philadelphia Eagles,0.6,1,14,13,193,171
+47,1991,Tampa Bay Buccaneers,8,1,0.16666666666666666,0,New Orleans Saints,1.0,0,7,23,219,284
+48,1991,New Orleans Saints,5,0,1.0,0,Atlanta Falcons,0.5,1,27,6,367,162
+49,1991,New Orleans Saints,7,1,1.0,0,Philadelphia Eagles,0.5,1,13,6,162,204
+50,1991,Atlanta Falcons,5,0,0.5,1,New Orleans Saints,1.0,0,6,27,162,367
+51,1991,Atlanta Falcons,7,1,0.4,0,San Francisco 49ers,0.4,1,39,34,368,437
+52,1991,San Francisco 49ers,5,0,0.5,0,Los Angeles Raiders,0.5,0,6,12,339,220
+53,1991,San Francisco 49ers,7,1,0.4,1,Atlanta Falcons,0.4,0,34,39,437,368
+54,1991,Los Angeles Rams,5,0,0.25,1,Green Bay Packers,0.25,1,23,21,310,260
+55,1991,Los Angeles Rams,7,1,0.4,1,San Diego Chargers,0.16666666666666666,1,30,24,284,387

@@ -1,0 +1,57 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,1994,Miami Dolphins,7,0,0.6666666666666666,1,Los Angeles Raiders,0.4,1,20,17,344,210
+1,1994,Miami Dolphins,9,1,0.7142857142857143,0,New England Patriots,0.42857142857142855,1,23,3,338,188
+2,1994,New England Patriots,7,0,0.5,0,New York Jets,0.5,0,17,24,324,242
+3,1994,New England Patriots,9,1,0.42857142857142855,1,Miami Dolphins,0.7142857142857143,0,3,23,188,338
+4,1994,Indianapolis Colts,10,0,0.4444444444444444,0,Miami Dolphins,0.75,0,21,22,213,372
+5,1994,Indianapolis Colts,12,1,0.4,0,Cincinnati Bengals,0.2,1,17,13,237,353
+6,1994,Buffalo Bills,7,0,0.6666666666666666,1,Indianapolis Colts,0.3333333333333333,0,17,27,329,325
+7,1994,Buffalo Bills,9,1,0.5714285714285714,1,Kansas City Chiefs,0.7142857142857143,1,44,10,357,266
+8,1994,New York Jets,7,0,0.5,1,New England Patriots,0.5,1,24,17,242,324
+9,1994,New York Jets,9,1,0.5714285714285714,0,Indianapolis Colts,0.375,0,25,28,256,330
+10,1994,Pittsburgh Steelers,5,0,0.5,1,Houston Oilers,0.25,1,30,14,379,290
+11,1994,Pittsburgh Steelers,7,1,0.6,1,Cincinnati Bengals,0.0,1,14,10,243,241
+12,1994,Cleveland Browns,5,0,0.75,1,New York Jets,0.5,1,27,7,363,346
+13,1994,Cleveland Browns,7,1,0.8,0,Houston Oilers,0.2,1,11,8,260,305
+14,1994,Cincinnati Bengals,5,0,0.0,1,Miami Dolphins,0.75,0,7,23,246,345
+15,1994,Cincinnati Bengals,7,1,0.0,0,Pittsburgh Steelers,0.6,0,10,14,241,243
+16,1994,Houston Oilers,5,0,0.25,0,Pittsburgh Steelers,0.5,0,14,30,290,379
+17,1994,Houston Oilers,7,1,0.2,1,Cleveland Browns,0.8,0,8,11,305,260
+18,1994,San Diego Chargers,4,0,1.0,0,Los Angeles Raiders,0.3333333333333333,1,26,24,263,279
+19,1994,San Diego Chargers,6,1,1.0,1,Kansas City Chiefs,0.75,1,20,6,322,361
+20,1994,Kansas City Chiefs,4,0,1.0,1,Los Angeles Rams,0.3333333333333333,0,0,16,242,357
+21,1994,Kansas City Chiefs,6,1,0.75,0,San Diego Chargers,1.0,0,6,20,361,322
+22,1994,Los Angeles Raiders,4,0,0.3333333333333333,1,San Diego Chargers,1.0,0,24,26,279,263
+23,1994,Los Angeles Raiders,6,1,0.25,0,New England Patriots,0.6,1,21,17,328,359
+24,1994,Denver Broncos,4,0,0.0,0,Buffalo Bills,0.6666666666666666,0,20,27,337,315
+25,1994,Denver Broncos,6,1,0.0,0,Seattle Seahawks,0.6,1,16,9,278,338
+26,1994,Seattle Seahawks,6,0,0.6,1,Denver Broncos,0.0,0,9,16,338,278
+27,1994,Seattle Seahawks,8,1,0.5,0,Kansas City Chiefs,0.6666666666666666,0,23,38,263,477
+28,1994,Dallas Cowboys,3,0,1.0,1,Detroit Lions,0.5,0,17,20,368,379
+29,1994,Dallas Cowboys,5,1,0.6666666666666666,0,Washington Redskins,0.25,1,34,7,323,110
+30,1994,New York Giants,3,0,1.0,1,Washington Redskins,0.5,1,31,23,337,456
+31,1994,New York Giants,5,1,1.0,0,New Orleans Saints,0.25,0,22,27,202,314
+32,1994,Arizona Cardinals,3,0,0.0,0,Cleveland Browns,0.5,0,0,32,318,322
+33,1994,Arizona Cardinals,5,1,0.0,1,Minnesota Vikings,0.75,1,17,7,309,358
+34,1994,Philadelphia Eagles,3,0,0.5,1,Green Bay Packers,0.5,1,13,7,273,275
+35,1994,Philadelphia Eagles,5,1,0.6666666666666666,0,San Francisco 49ers,0.75,1,40,8,437,189
+36,1994,Washington Redskins,10,0,0.2222222222222222,1,San Francisco 49ers,0.75,0,22,37,282,421
+37,1994,Washington Redskins,12,1,0.2,0,Dallas Cowboys,0.8,0,7,31,313,241
+38,1994,Minnesota Vikings,6,0,0.6,0,New York Giants,0.75,1,27,10,395,240
+39,1994,Minnesota Vikings,8,1,0.6666666666666666,1,Green Bay Packers,0.5,1,13,10,252,158
+40,1994,Green Bay Packers,6,0,0.4,1,Los Angeles Rams,0.4,1,24,17,292,211
+41,1994,Green Bay Packers,8,1,0.5,0,Minnesota Vikings,0.6666666666666666,0,10,13,158,252
+42,1994,Detroit Lions,6,0,0.4,1,San Francisco 49ers,0.6,0,21,27,340,233
+43,1994,Detroit Lions,8,1,0.3333333333333333,1,Chicago Bears,0.6666666666666666,1,21,16,232,402
+44,1994,Chicago Bears,6,0,0.6,1,New Orleans Saints,0.4,1,17,7,305,316
+45,1994,Chicago Bears,8,1,0.6666666666666666,0,Detroit Lions,0.3333333333333333,0,16,21,402,232
+46,1994,Tampa Bay Buccaneers,6,0,0.4,0,Atlanta Falcons,0.6,0,13,34,320,356
+47,1994,Tampa Bay Buccaneers,8,1,0.3333333333333333,0,San Francisco 49ers,0.7142857142857143,0,16,41,235,451
+48,1994,San Francisco 49ers,8,0,0.7142857142857143,1,Tampa Bay Buccaneers,0.3333333333333333,1,41,16,451,235
+49,1994,San Francisco 49ers,10,1,0.75,0,Washington Redskins,0.2222222222222222,1,37,22,421,282
+50,1994,New Orleans Saints,8,0,0.2857142857142857,1,Los Angeles Rams,0.42857142857142855,1,37,34,314,242
+51,1994,New Orleans Saints,10,1,0.375,0,Minnesota Vikings,0.75,0,20,21,313,494
+52,1994,Atlanta Falcons,8,0,0.5714285714285714,0,Los Angeles Raiders,0.3333333333333333,0,17,30,255,313
+53,1994,Atlanta Falcons,10,1,0.5,1,San Diego Chargers,0.875,1,10,9,219,296
+54,1994,Los Angeles Rams,8,0,0.42857142857142855,0,New Orleans Saints,0.2857142857142857,0,34,37,242,314
+55,1994,Los Angeles Rams,10,1,0.375,1,Denver Broncos,0.375,1,27,21,385,284
