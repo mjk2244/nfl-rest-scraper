@@ -52,16 +52,18 @@ def tnf_weeks(year: int) -> pd.DataFrame:
             'pa_1': [],
             'yds_1': [],
             'opp_yds_1': [],
-            'week_2': [],
-            'win_pct_2': [],
-            'home_team_2': [],
-            'opp_2': [],
-            'opp_win_pct_2': [],
-            'result_2': [],
-            'pf_2': [],
-            'pa_2': [],
-            'yds_2': [],
-            'opp_yds_2': []}
+            'tnf': [],
+            }
+            #'week_2': [],
+            #'win_pct_2': [],
+            #'home_team_2': [],
+            #'opp_2': [],
+            #'opp_win_pct_2': [],
+            #'result_2': [],
+            #'pf_2': [],
+            #'pa_2': [],
+            #'yds_2': [],
+            #'opp_yds_2': []}
 
     df = pd.DataFrame(data)
 
@@ -174,8 +176,8 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
                 pa_1 = int(rows[p].find('td', {'data-stat': 'pts_def'}).text)
                 yds_1 = int(rows[p].find('td', {'data-stat': 'yards_off'}).text)
                 opp_yds_1 = int(rows[p].find('td', {'data-stat': 'yards_def'}).text)
-
-
+                tnf = 1
+                df.loc[len(df.index)] = [year, team, week_1, win_pct_1, home_team_1, opp_1, opp_win_pct_1, result_1, pf_1, pa_1, yds_1, opp_yds_1, tnf]
 
                 #get week after TNF
                 if rows[week_after].find('td', {'data-stat': 'opp'}).text == 'Bye Week':
@@ -213,14 +215,14 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
                 pa_2 = int(rows[week_after].find('td', {'data-stat': 'pts_def'}).text)
                 yds_2 = int(rows[week_after].find('td', {'data-stat': 'yards_off'}).text)
                 opp_yds_2 = int(rows[week_after].find('td', {'data-stat': 'yards_def'}).text)
-
+                tnf_2 = 0
                 print("p")
                 print(p)
                 print("team")
                 print(team)
                 print([year, team, week_1, win_pct_1, home_team_1, opp_1, opp_win_pct_1, result_1, pf_1, pa_1, yds_1, opp_yds_1, week_2, win_pct_2, home_team_2, opp_2, opp_win_pct_2, result_2, pf_2, pa_2, yds_2, opp_yds_2])
 
-                df.loc[len(df.index)] = [year, team, week_1, win_pct_1, home_team_1, opp_1, opp_win_pct_1, result_1, pf_1, pa_1, yds_1, opp_yds_1, week_2, win_pct_2, home_team_2, opp_2, opp_win_pct_2, result_2, pf_2, pa_2, yds_2, opp_yds_2]
+                df.loc[len(df.index)] = [year, team, week_2, win_pct_2, home_team_2, opp_2, opp_win_pct_2, result_2, pf_2, pa_2, yds_2, opp_yds_2, tnf_2]
     return df
  
 def main():
