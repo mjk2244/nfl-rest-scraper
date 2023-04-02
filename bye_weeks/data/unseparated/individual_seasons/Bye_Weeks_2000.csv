@@ -1,29 +1,28 @@
 ,year,team,week_1,win_pct_1,home_team_1,opp_1,opp_win_pct_1,result_1,pf_1,pa_1,yds_1,opp_yds_1,week_2,win_pct_2,home_team_2,opp_2,opp_win_pct_2,result_2,pf_2,pa_2,yds_2,opp_yds_2
-0,2000,Miami Dolphins,6,0.8,True,Buffalo Bills,0.5,W,22,13,254,254,8,0.8333333333333334,False,New York Jets,0.8333333333333334,L,37,40,433,455
-1,2000,Indianapolis Colts,2,1.0,True,Oakland Raiders,1.0,L,31,38,462,359,4,0.5,True,Jacksonville Jaguars,0.6666666666666666,W,43,14,533,286
-2,2000,New York Jets,4,1.0,False,Tampa Bay Buccaneers,1.0,W,21,17,296,239,6,1.0,True,Pittsburgh Steelers,0.25,L,3,20,206,330
-3,2000,Buffalo Bills,3,1.0,False,New York Jets,1.0,L,14,27,354,279,5,0.6666666666666666,True,Indianapolis Colts,0.6666666666666666,L,16,18,385,265
-4,2000,New England Patriots,8,0.2857142857142857,False,Indianapolis Colts,0.6666666666666666,L,23,30,386,398,10,0.25,True,Buffalo Bills,0.5,L,13,16,189,315
-5,2000,Tennessee Titans,2,0.0,True,Kansas City Chiefs,0.0,W,17,14,353,189,4,0.5,False,Pittsburgh Steelers,0.0,W,23,20,372,364
-6,2000,Baltimore Ravens,13,0.6666666666666666,True,Cleveland Browns,0.25,W,44,7,461,112,15,0.6923076923076923,True,San Diego Chargers,0.07692307692307693,W,24,3,276,128
-7,2000,Pittsburgh Steelers,1,0.5625,True,Baltimore Ravens,0.8,L,0,16,223,336,3,0.0,False,Cleveland Browns,0.5,L,20,23,336,377
-8,2000,Jacksonville Jaguars,9,0.25,False,Dallas Cowboys,0.42857142857142855,W,23,17,392,325,11,0.3333333333333333,True,Seattle Seahawks,0.3,L,21,28,437,326
-9,2000,Oakland Raiders,4,0.6666666666666666,True,Cleveland Browns,0.6666666666666666,W,36,10,292,230,6,0.75,False,San Francisco 49ers,0.4,W,34,28,471,472
-10,2000,Denver Broncos,8,0.5714285714285714,False,Cincinnati Bengals,0.14285714285714285,L,21,31,500,421,10,0.5,False,New York Jets,0.75,W,30,23,447,381
-11,2000,Kansas City Chiefs,5,0.5,True,Seattle Seahawks,0.5,W,24,17,378,289,7,0.6,True,Oakland Raiders,0.8,L,17,20,346,391
-12,2000,Seattle Seahawks,11,0.3,False,Jacksonville Jaguars,0.3333333333333333,W,28,21,326,437,13,0.36363636363636365,True,Denver Broncos,0.6363636363636364,L,31,38,354,538
-13,2000,San Diego Chargers,7,0.0,False,Buffalo Bills,0.4,L,24,27,303,424,9,0.0,True,Oakland Raiders,0.8571428571428571,L,13,15,224,228
-14,2000,New York Giants,7,0.6666666666666666,True,Dallas Cowboys,0.4,W,19,14,311,269,9,0.7142857142857143,True,Philadelphia Eagles,0.625,W,24,7,384,192
-15,2000,Philadelphia Eagles,15,0.6428571428571429,False,Cleveland Browns,0.21428571428571427,W,35,24,391,418,17,0.6666666666666666,True,Cincinnati Bengals,0.25,W,16,7,321,271
-16,2000,Washington Redskins,10,0.6666666666666666,False,Arizona Cardinals,0.25,L,15,16,422,178,12,0.6,False,St. Louis Rams,0.8,W,33,20,400,394
-17,2000,Dallas Cowboys,5,0.25,False,Carolina Panthers,0.3333333333333333,W,16,13,291,272,7,0.4,False,New York Giants,0.6666666666666666,L,14,19,269,311
-18,2000,Minnesota Vikings,3,1.0,False,New England Patriots,0.0,W,21,13,315,267,5,1.0,False,Detroit Lions,0.75,W,31,24,439,355
-19,2000,Tampa Bay Buccaneers,6,0.6,False,Minnesota Vikings,1.0,L,23,30,346,322,8,0.5,True,Detroit Lions,0.6666666666666666,L,14,28,258,277
-20,2000,Green Bay Packers,7,0.3333333333333333,True,San Francisco 49ers,0.3333333333333333,W,31,28,378,414,9,0.42857142857142855,False,Miami Dolphins,0.7142857142857143,L,20,28,319,296
-21,2000,Detroit Lions,6,0.6,True,Green Bay Packers,0.4,W,31,24,253,339,8,0.6666666666666666,False,Tampa Bay Buccaneers,0.5,W,28,14,277,258
-22,2000,Chicago Bears,8,0.14285714285714285,False,Philadelphia Eagles,0.5714285714285714,L,9,13,274,298,10,0.125,True,Indianapolis Colts,0.75,W,27,24,370,371
-23,2000,New Orleans Saints,4,0.3333333333333333,True,Philadelphia Eagles,0.3333333333333333,L,7,21,287,268,6,0.25,False,Chicago Bears,0.2,W,31,10,403,245
-24,2000,St. Louis Rams,5,1.0,True,San Diego Chargers,0.0,W,57,31,614,381,7,1.0,True,Atlanta Falcons,0.3333333333333333,W,45,29,529,259
-25,2000,Carolina Panthers,3,0.5,True,Atlanta Falcons,0.5,L,10,15,284,262,5,0.3333333333333333,True,Dallas Cowboys,0.25,L,13,16,272,291
-26,2000,San Francisco 49ers,12,0.2727272727272727,True,Atlanta Falcons,0.2727272727272727,W,16,6,337,211,14,0.3333333333333333,False,San Diego Chargers,0.08333333333333333,W,45,17,385,303
-27,2000,Atlanta Falcons,14,0.23076923076923078,True,Seattle Seahawks,0.3333333333333333,L,10,30,301,335,16,0.21428571428571427,False,New Orleans Saints,0.6428571428571429,L,7,23,163,373
+0,2000,Miami Dolphins,6,0.8,TRUE,Buffalo Bills,0.5,W,22,13,254,254,8,0.833333333,FALSE,New York Jets,0.833333333,L,37,40,433,455
+1,2000,Indianapolis Colts,2,1,TRUE,Oakland Raiders,1,L,31,38,462,359,4,0.5,TRUE,Jacksonville Jaguars,0.666666667,W,43,14,533,286
+2,2000,New York Jets,4,1,FALSE,Tampa Bay Buccaneers,1,W,21,17,296,239,6,1,TRUE,Pittsburgh Steelers,0.25,L,3,20,206,330
+3,2000,Buffalo Bills,3,1,FALSE,New York Jets,1,L,14,27,354,279,5,0.666666667,TRUE,Indianapolis Colts,0.666666667,L,16,18,385,265
+4,2000,New England Patriots,8,0.285714286,FALSE,Indianapolis Colts,0.666666667,L,23,30,386,398,10,0.25,TRUE,Buffalo Bills,0.5,L,13,16,189,315
+5,2000,Tennessee Titans,2,0,TRUE,Kansas City Chiefs,0,W,17,14,353,189,4,0.5,FALSE,Pittsburgh Steelers,0,W,23,20,372,364
+6,2000,Baltimore Ravens,13,0.666666667,TRUE,Cleveland Browns,0.25,W,44,7,461,112,15,0.692307692,TRUE,San Diego Chargers,0.076923077,W,24,3,276,128
+8,2000,Jacksonville Jaguars,9,0.25,FALSE,Dallas Cowboys,0.428571429,W,23,17,392,325,11,0.333333333,TRUE,Seattle Seahawks,0.3,L,21,28,437,326
+9,2000,Oakland Raiders,4,0.666666667,TRUE,Cleveland Browns,0.666666667,W,36,10,292,230,6,0.75,FALSE,San Francisco 49ers,0.4,W,34,28,471,472
+10,2000,Denver Broncos,8,0.571428571,FALSE,Cincinnati Bengals,0.142857143,L,21,31,500,421,10,0.5,FALSE,New York Jets,0.75,W,30,23,447,381
+11,2000,Kansas City Chiefs,5,0.5,TRUE,Seattle Seahawks,0.5,W,24,17,378,289,7,0.6,TRUE,Oakland Raiders,0.8,L,17,20,346,391
+12,2000,Seattle Seahawks,11,0.3,FALSE,Jacksonville Jaguars,0.333333333,W,28,21,326,437,13,0.363636364,TRUE,Denver Broncos,0.636363636,L,31,38,354,538
+13,2000,San Diego Chargers,7,0,FALSE,Buffalo Bills,0.4,L,24,27,303,424,9,0,TRUE,Oakland Raiders,0.857142857,L,13,15,224,228
+14,2000,New York Giants,7,0.666666667,TRUE,Dallas Cowboys,0.4,W,19,14,311,269,9,0.714285714,TRUE,Philadelphia Eagles,0.625,W,24,7,384,192
+15,2000,Philadelphia Eagles,15,0.642857143,FALSE,Cleveland Browns,0.214285714,W,35,24,391,418,17,0.666666667,TRUE,Cincinnati Bengals,0.25,W,16,7,321,271
+16,2000,Washington Redskins,10,0.666666667,FALSE,Arizona Cardinals,0.25,L,15,16,422,178,12,0.6,FALSE,St. Louis Rams,0.8,W,33,20,400,394
+17,2000,Dallas Cowboys,5,0.25,FALSE,Carolina Panthers,0.333333333,W,16,13,291,272,7,0.4,FALSE,New York Giants,0.666666667,L,14,19,269,311
+18,2000,Minnesota Vikings,3,1,FALSE,New England Patriots,0,W,21,13,315,267,5,1,FALSE,Detroit Lions,0.75,W,31,24,439,355
+19,2000,Tampa Bay Buccaneers,6,0.6,FALSE,Minnesota Vikings,1,L,23,30,346,322,8,0.5,TRUE,Detroit Lions,0.666666667,L,14,28,258,277
+20,2000,Green Bay Packers,7,0.333333333,TRUE,San Francisco 49ers,0.333333333,W,31,28,378,414,9,0.428571429,FALSE,Miami Dolphins,0.714285714,L,20,28,319,296
+21,2000,Detroit Lions,6,0.6,TRUE,Green Bay Packers,0.4,W,31,24,253,339,8,0.666666667,FALSE,Tampa Bay Buccaneers,0.5,W,28,14,277,258
+22,2000,Chicago Bears,8,0.142857143,FALSE,Philadelphia Eagles,0.571428571,L,9,13,274,298,10,0.125,TRUE,Indianapolis Colts,0.75,W,27,24,370,371
+23,2000,New Orleans Saints,4,0.333333333,TRUE,Philadelphia Eagles,0.333333333,L,7,21,287,268,6,0.25,FALSE,Chicago Bears,0.2,W,31,10,403,245
+24,2000,St. Louis Rams,5,1,TRUE,San Diego Chargers,0,W,57,31,614,381,7,1,TRUE,Atlanta Falcons,0.333333333,W,45,29,529,259
+25,2000,Carolina Panthers,3,0.5,TRUE,Atlanta Falcons,0.5,L,10,15,284,262,5,0.333333333,TRUE,Dallas Cowboys,0.25,L,13,16,272,291
+26,2000,San Francisco 49ers,12,0.272727273,TRUE,Atlanta Falcons,0.272727273,W,16,6,337,211,14,0.333333333,FALSE,San Diego Chargers,0.083333333,W,45,17,385,303
+27,2000,Atlanta Falcons,14,0.230769231,TRUE,Seattle Seahawks,0.333333333,L,10,30,301,335,16,0.214285714,FALSE,New Orleans Saints,0.642857143,L,7,23,163,373
