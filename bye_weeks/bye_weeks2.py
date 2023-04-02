@@ -6,7 +6,7 @@ import time
 # BYE WEEKS WEB SCRAPER WITH EACH GAME AS A SEPARATE ROW
 
 # these teams had a bye week in week 1, 2, or 17
-skipped_teams = ['/teams/tam/2017.htm', '/teams/mia/2017.htm', '/teams/htx/2008.htm', '/teams/nor/2001.htm', '/teams/tam/2001.htm', '/teams/crd/2001.htm', '/teams/sdg/2001.htm', '/teams/pit/2001.htm', '/teams/cin/2000.htm', '/teams/cle/2000.htm', '/teams/sdg/1999.htm', '/teams/mia/1992.htm', '/teams/nwe/1992.htm', '/teams/cle/1999.htm', '/teams/crd/2000.htm']
+skipped_teams = ['/teams/tam/2017.htm', '/teams/mia/2017.htm', '/teams/htx/2008.htm', '/teams/nor/2001.htm', '/teams/tam/2001.htm', '/teams/crd/2001.htm', '/teams/sdg/2001.htm', '/teams/pit/2001.htm', '/teams/cin/2000.htm', '/teams/cle/2000.htm', '/teams/sdg/1999.htm', '/teams/mia/1992.htm', '/teams/nwe/1992.htm', '/teams/cle/1999.htm', '/teams/crd/2000.htm', '/teams/ram/1999.htm', '/teams/pit/2000.htm', '/teams/rav/2008.htm']
 
 def bye_weeks(year: int) -> pd.DataFrame:
     # make HTTP request for the seasons page

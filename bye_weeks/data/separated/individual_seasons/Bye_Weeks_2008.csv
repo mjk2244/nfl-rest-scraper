@@ -1,63 +1,61 @@
 ,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
-0,2008,Miami Dolphins,3,0,0.0,0,New England Patriots,1.0,1,38,13,461,215
-1,2008,Miami Dolphins,5,1,0.3333333333333333,1,San Diego Chargers,0.5,1,17,10,390,202
-2,2008,New England Patriots,3,0,1.0,1,Miami Dolphins,0.0,0,13,38,215,461
-3,2008,New England Patriots,5,1,0.6666666666666666,0,San Francisco 49ers,0.5,1,30,21,377,199
-4,2008,New York Jets,4,0,0.3333333333333333,1,Arizona Cardinals,0.6666666666666666,1,56,35,373,468
-5,2008,New York Jets,6,1,0.5,1,Cincinnati Bengals,0.0,1,26,14,252,171
-6,2008,Buffalo Bills,5,0,1.0,0,Arizona Cardinals,0.5,0,17,41,287,373
+0,2008,Miami Dolphins,3,0,0,0,New England Patriots,1,1,38,13,461,215
+1,2008,Miami Dolphins,5,1,0.333333333,1,San Diego Chargers,0.5,1,17,10,390,202
+2,2008,New England Patriots,3,0,1,1,Miami Dolphins,0,0,13,38,215,461
+3,2008,New England Patriots,5,1,0.666666667,0,San Francisco 49ers,0.5,1,30,21,377,199
+4,2008,New York Jets,4,0,0.333333333,1,Arizona Cardinals,0.666666667,1,56,35,373,468
+5,2008,New York Jets,6,1,0.5,1,Cincinnati Bengals,0,1,26,14,252,171
+6,2008,Buffalo Bills,5,0,1,0,Arizona Cardinals,0.5,0,17,41,287,373
 7,2008,Buffalo Bills,7,1,0.8,1,San Diego Chargers,0.5,1,23,14,370,263
 8,2008,Pittsburgh Steelers,5,0,0.75,0,Jacksonville Jaguars,0.5,1,26,21,415,213
-9,2008,Pittsburgh Steelers,7,1,0.8,0,Cincinnati Bengals,0.0,1,38,10,375,212
-10,2008,Baltimore Ravens,1,0,0.6842105263157895,1,Cincinnati Bengals,0.25,1,17,10,358,154
-11,2008,Baltimore Ravens,3,1,1.0,1,Cleveland Browns,0.0,1,28,10,273,169
-12,2008,Cincinnati Bengals,9,0,0.0,1,Jacksonville Jaguars,0.42857142857142855,1,21,19,312,282
-13,2008,Cincinnati Bengals,11,1,0.1111111111111111,1,Philadelphia Eagles,0.5555555555555556,0,13,13,282,391
-14,2008,Cleveland Browns,4,0,0.0,0,Cincinnati Bengals,0.0,1,20,12,261,211
-15,2008,Cleveland Browns,6,1,0.25,1,New York Giants,1.0,1,35,14,454,373
-16,2008,Tennessee Titans,5,0,1.0,0,Baltimore Ravens,0.6666666666666666,1,13,10,210,285
-17,2008,Tennessee Titans,7,1,1.0,0,Kansas City Chiefs,0.2,1,34,10,455,272
-18,2008,Indianapolis Colts,3,0,0.5,1,Jacksonville Jaguars,0.0,0,21,23,325,403
-19,2008,Indianapolis Colts,5,1,0.3333333333333333,0,Houston Texans,0.0,1,31,27,314,391
+9,2008,Pittsburgh Steelers,7,1,0.8,0,Cincinnati Bengals,0,1,38,10,375,212
+12,2008,Cincinnati Bengals,9,0,0,1,Jacksonville Jaguars,0.428571429,1,21,19,312,282
+13,2008,Cincinnati Bengals,11,1,0.111111111,1,Philadelphia Eagles,0.555555556,0,13,13,282,391
+14,2008,Cleveland Browns,4,0,0,0,Cincinnati Bengals,0,1,20,12,261,211
+15,2008,Cleveland Browns,6,1,0.25,1,New York Giants,1,1,35,14,454,373
+16,2008,Tennessee Titans,5,0,1,0,Baltimore Ravens,0.666666667,1,13,10,210,285
+17,2008,Tennessee Titans,7,1,1,0,Kansas City Chiefs,0.2,1,34,10,455,272
+18,2008,Indianapolis Colts,3,0,0.5,1,Jacksonville Jaguars,0,0,21,23,325,403
+19,2008,Indianapolis Colts,5,1,0.333333333,0,Houston Texans,0,1,31,27,314,391
 20,2008,Jacksonville Jaguars,6,0,0.4,0,Denver Broncos,0.8,1,24,17,416,323
-21,2008,Jacksonville Jaguars,8,1,0.5,1,Cleveland Browns,0.3333333333333333,0,17,23,380,327
-22,2008,San Diego Chargers,8,0,0.42857142857142855,0,New Orleans Saints,0.42857142857142855,0,32,37,451,409
+21,2008,Jacksonville Jaguars,8,1,0.5,1,Cleveland Browns,0.333333333,0,17,23,380,327
+22,2008,San Diego Chargers,8,0,0.428571429,0,New Orleans Saints,0.428571429,0,32,37,451,409
 23,2008,San Diego Chargers,10,1,0.375,1,Kansas City Chiefs,0.125,1,20,19,400,339
-24,2008,Denver Broncos,7,0,0.6666666666666666,0,New England Patriots,0.6,0,7,41,275,404
-25,2008,Denver Broncos,9,1,0.5714285714285714,1,Miami Dolphins,0.42857142857142855,0,17,26,319,341
-26,2008,Oakland Raiders,4,0,0.3333333333333333,1,San Diego Chargers,0.3333333333333333,0,18,28,323,295
+24,2008,Denver Broncos,7,0,0.666666667,0,New England Patriots,0.6,0,7,41,275,404
+25,2008,Denver Broncos,9,1,0.571428571,1,Miami Dolphins,0.428571429,0,17,26,319,341
+26,2008,Oakland Raiders,4,0,0.333333333,1,San Diego Chargers,0.333333333,0,18,28,323,295
 27,2008,Oakland Raiders,6,1,0.25,0,New Orleans Saints,0.4,0,3,34,226,441
 28,2008,Kansas City Chiefs,5,0,0.25,0,Carolina Panthers,0.75,0,0,34,127,441
-29,2008,Kansas City Chiefs,7,1,0.2,1,Tennessee Titans,1.0,0,10,34,272,455
-30,2008,New York Giants,3,0,1.0,1,Cincinnati Bengals,0.0,1,26,23,406,347
-31,2008,New York Giants,5,1,1.0,1,Seattle Seahawks,0.3333333333333333,1,44,6,523,187
+29,2008,Kansas City Chiefs,7,1,0.2,1,Tennessee Titans,1,0,10,34,272,455
+30,2008,New York Giants,3,0,1,1,Cincinnati Bengals,0,1,26,23,406,347
+31,2008,New York Giants,5,1,1,1,Seattle Seahawks,0.333333333,1,44,6,523,187
 32,2008,Philadelphia Eagles,6,0,0.4,0,San Francisco 49ers,0.4,1,40,26,383,306
-33,2008,Philadelphia Eagles,8,1,0.5,1,Atlanta Falcons,0.6666666666666666,1,27,14,432,335
-34,2008,Dallas Cowboys,9,0,0.625,0,New York Giants,0.8571428571428571,0,14,35,183,319
-35,2008,Dallas Cowboys,11,1,0.5555555555555556,0,Washington Redskins,0.6666666666666666,1,14,10,315,228
-36,2008,Washington Redskins,9,0,0.75,1,Pittsburgh Steelers,0.7142857142857143,0,6,23,221,224
-37,2008,Washington Redskins,11,1,0.6666666666666666,1,Dallas Cowboys,0.5555555555555556,0,10,14,228,315
+33,2008,Philadelphia Eagles,8,1,0.5,1,Atlanta Falcons,0.666666667,1,27,14,432,335
+34,2008,Dallas Cowboys,9,0,0.625,0,New York Giants,0.857142857,0,14,35,183,319
+35,2008,Dallas Cowboys,11,1,0.555555556,0,Washington Redskins,0.666666667,1,14,10,315,228
+36,2008,Washington Redskins,9,0,0.75,1,Pittsburgh Steelers,0.714285714,0,6,23,221,224
+37,2008,Washington Redskins,11,1,0.666666667,1,Dallas Cowboys,0.555555556,0,10,14,228,315
 38,2008,Minnesota Vikings,7,0,0.5,0,Chicago Bears,0.5,0,41,48,439,327
-39,2008,Minnesota Vikings,9,1,0.42857142857142855,1,Houston Texans,0.42857142857142855,1,28,21,345,389
+39,2008,Minnesota Vikings,9,1,0.428571429,1,Houston Texans,0.428571429,1,28,21,345,389
 40,2008,Chicago Bears,7,0,0.5,1,Minnesota Vikings,0.5,1,48,41,327,439
-41,2008,Chicago Bears,9,1,0.5714285714285714,1,Detroit Lions,0.0,1,27,23,320,333
+41,2008,Chicago Bears,9,1,0.571428571,1,Detroit Lions,0,1,27,23,320,333
 42,2008,Green Bay Packers,7,0,0.5,1,Indianapolis Colts,0.6,1,34,14,302,302
-43,2008,Green Bay Packers,9,1,0.5714285714285714,0,Tennessee Titans,1.0,0,16,19,390,347
-44,2008,Detroit Lions,3,0,0.0,0,San Francisco 49ers,0.5,0,13,31,240,370
-45,2008,Detroit Lions,5,1,0.0,1,Chicago Bears,0.5,0,7,34,185,425
-46,2008,Carolina Panthers,8,0,0.7142857142857143,1,Arizona Cardinals,0.6666666666666666,1,27,23,351,425
+43,2008,Green Bay Packers,9,1,0.571428571,0,Tennessee Titans,1,0,16,19,390,347
+44,2008,Detroit Lions,3,0,0,0,San Francisco 49ers,0.5,0,13,31,240,370
+45,2008,Detroit Lions,5,1,0,1,Chicago Bears,0.5,0,7,34,185,425
+46,2008,Carolina Panthers,8,0,0.714285714,1,Arizona Cardinals,0.666666667,1,27,23,351,425
 47,2008,Carolina Panthers,10,1,0.75,0,Oakland Raiders,0.25,1,17,6,219,259
 48,2008,Atlanta Falcons,6,0,0.6,1,Chicago Bears,0.6,1,22,20,376,361
-49,2008,Atlanta Falcons,8,1,0.6666666666666666,0,Philadelphia Eagles,0.5,0,14,27,335,432
-50,2008,Tampa Bay Buccaneers,9,0,0.625,0,Kansas City Chiefs,0.14285714285714285,1,30,27,423,384
-51,2008,Tampa Bay Buccaneers,11,1,0.6666666666666666,1,Minnesota Vikings,0.5555555555555556,1,19,13,363,210
-52,2008,New Orleans Saints,8,0,0.42857142857142855,1,San Diego Chargers,0.42857142857142855,1,37,32,409,451
+49,2008,Atlanta Falcons,8,1,0.666666667,0,Philadelphia Eagles,0.5,0,14,27,335,432
+50,2008,Tampa Bay Buccaneers,9,0,0.625,0,Kansas City Chiefs,0.142857143,1,30,27,423,384
+51,2008,Tampa Bay Buccaneers,11,1,0.666666667,1,Minnesota Vikings,0.555555556,1,19,13,363,210
+52,2008,New Orleans Saints,8,0,0.428571429,1,San Diego Chargers,0.428571429,1,37,32,409,451
 53,2008,New Orleans Saints,10,1,0.5,0,Atlanta Falcons,0.625,0,20,34,521,361
 54,2008,Arizona Cardinals,6,0,0.6,1,Dallas Cowboys,0.8,1,30,24,276,374
-55,2008,Arizona Cardinals,8,1,0.6666666666666666,0,Carolina Panthers,0.7142857142857143,0,23,27,425,351
-56,2008,San Francisco 49ers,8,0,0.2857142857142857,1,Seattle Seahawks,0.16666666666666666,0,13,34,388,261
+55,2008,Arizona Cardinals,8,1,0.666666667,0,Carolina Panthers,0.714285714,0,23,27,425,351
+56,2008,San Francisco 49ers,8,0,0.285714286,1,Seattle Seahawks,0.166666667,0,13,34,388,261
 57,2008,San Francisco 49ers,10,1,0.25,0,Arizona Cardinals,0.625,0,24,29,336,374
-58,2008,Seattle Seahawks,3,0,0.0,1,St. Louis Rams,0.0,1,37,13,407,240
-59,2008,Seattle Seahawks,5,1,0.3333333333333333,0,New York Giants,1.0,0,6,44,187,523
-60,2008,St. Louis Rams,4,0,0.0,1,Buffalo Bills,1.0,0,14,31,380,277
-61,2008,St. Louis Rams,6,1,0.0,0,Washington Redskins,0.8,1,19,17,200,368
+58,2008,Seattle Seahawks,3,0,0,1,St. Louis Rams,0,1,37,13,407,240
+59,2008,Seattle Seahawks,5,1,0.333333333,0,New York Giants,1,0,6,44,187,523
+60,2008,St. Louis Rams,4,0,0,1,Buffalo Bills,1,0,14,31,380,277
+61,2008,St. Louis Rams,6,1,0,0,Washington Redskins,0.8,1,19,17,200,368
