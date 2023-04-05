@@ -113,12 +113,12 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
     rows = soup.find_all('tbody')[1].find_all('tr')
     numTeams = 18
     if year < 2021:
-        numTeams = 18
+        numTeams = 17
     for p in range(0, len(rows)):#numTeams):
         week_before = p - 1
         week_after = p + 1
 
-        if week_before >= 0 and week_after < len(rows)-1:  
+        if week_before >= 0 and week_after < numTeams-1:#len(rows)-2:  
             if (rows[week_before].find('td', {'data-stat': 'game_day_of_week'}).text != 'Thu' 
             and rows[week_after].find('td', {'data-stat': 'game_day_of_week'}).text != 'Thu' 
             and rows[p].find('td', {'data-stat': 'game_day_of_week'}).text == 'Thu' 
