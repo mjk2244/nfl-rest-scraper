@@ -1,0 +1,61 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,1998,New York Jets,3,0,0.0,1,Indianapolis Colts,0.0,1,44,6,505,310
+1,1998,New York Jets,5,1,0.3333333333333333,1,Miami Dolphins,1.0,1,20,9,289,153
+2,1998,Miami Dolphins,3,0,1.0,1,Pittsburgh Steelers,1.0,1,21,0,219,200
+3,1998,Miami Dolphins,5,1,1.0,0,New York Jets,0.3333333333333333,0,9,20,153,289
+4,1998,Buffalo Bills,3,0,0.0,1,St. Louis Rams,0.0,0,33,34,407,406
+5,1998,Buffalo Bills,5,1,0.0,1,San Francisco 49ers,1.0,1,26,21,352,377
+6,1998,New England Patriots,3,0,0.5,1,Tennessee Oilers,0.5,1,27,16,322,306
+7,1998,New England Patriots,5,1,0.6666666666666666,0,New Orleans Saints,1.0,1,30,27,388,276
+8,1998,Indianapolis Colts,7,0,0.16666666666666666,0,San Francisco 49ers,0.8,0,31,34,336,448
+9,1998,Indianapolis Colts,9,1,0.14285714285714285,1,New England Patriots,0.5714285714285714,0,16,21,310,370
+10,1998,Jacksonville Jaguars,4,0,1.0,0,Tennessee Oilers,0.3333333333333333,1,27,22,297,219
+11,1998,Jacksonville Jaguars,6,1,1.0,1,Miami Dolphins,0.75,1,28,21,385,374
+12,1998,Tennessee Oilers,4,0,0.3333333333333333,1,Jacksonville Jaguars,1.0,0,22,27,219,297
+13,1998,Tennessee Oilers,6,1,0.25,0,Baltimore Ravens,0.5,1,12,8,344,263
+14,1998,Pittsburgh Steelers,4,0,0.6666666666666666,1,Seattle Seahawks,1.0,1,13,10,285,230
+15,1998,Pittsburgh Steelers,6,1,0.75,0,Cincinnati Bengals,0.25,0,20,25,386,389
+16,1998,Baltimore Ravens,4,0,0.3333333333333333,1,Cincinnati Bengals,0.3333333333333333,1,31,24,408,275
+17,1998,Baltimore Ravens,6,1,0.5,1,Tennessee Oilers,0.25,0,8,12,263,344
+18,1998,Cincinnati Bengals,4,0,0.3333333333333333,0,Baltimore Ravens,0.3333333333333333,0,24,31,275,408
+19,1998,Cincinnati Bengals,6,1,0.25,1,Pittsburgh Steelers,0.75,1,25,20,389,386
+20,1998,Denver Broncos,6,0,1.0,0,Seattle Seahawks,0.6,1,21,16,373,319
+21,1998,Denver Broncos,8,1,1.0,1,Jacksonville Jaguars,0.8333333333333334,1,37,24,465,348
+22,1998,Oakland Raiders,6,0,0.6,1,San Diego Chargers,0.4,1,7,6,159,195
+23,1998,Oakland Raiders,8,1,0.6666666666666666,1,Cincinnati Bengals,0.3333333333333333,1,27,10,411,170
+24,1998,Seattle Seahawks,6,0,0.6,1,Denver Broncos,1.0,0,16,21,319,373
+25,1998,Seattle Seahawks,8,1,0.5,0,San Diego Chargers,0.42857142857142855,1,27,20,274,391
+26,1998,Kansas City Chiefs,6,0,0.8,0,New England Patriots,0.75,0,10,40,134,438
+27,1998,Kansas City Chiefs,8,1,0.6666666666666666,1,Pittsburgh Steelers,0.6666666666666666,0,13,20,290,272
+28,1998,San Diego Chargers,8,0,0.42857142857142855,1,Seattle Seahawks,0.5,0,20,27,391,274
+29,1998,San Diego Chargers,10,1,0.375,0,Denver Broncos,1.0,0,10,27,213,289
+30,1998,Dallas Cowboys,7,0,0.6666666666666666,0,Chicago Bears,0.16666666666666666,0,12,13,236,299
+31,1998,Dallas Cowboys,9,1,0.5714285714285714,0,Philadelphia Eagles,0.14285714285714285,1,34,0,294,200
+32,1998,Arizona Cardinals,7,0,0.5,0,New York Giants,0.3333333333333333,0,7,34,194,390
+33,1998,Arizona Cardinals,9,1,0.42857142857142855,0,Detroit Lions,0.2857142857142857,1,17,15,209,280
+34,1998,New York Giants,7,0,0.3333333333333333,1,Arizona Cardinals,0.5,1,34,7,390,194
+35,1998,New York Giants,9,1,0.42857142857142855,0,Washington Redskins,0.0,0,14,21,229,320
+36,1998,Washington Redskins,7,0,0.0,0,Minnesota Vikings,1.0,0,7,41,177,435
+37,1998,Washington Redskins,9,1,0.0,1,New York Giants,0.42857142857142855,1,21,14,320,229
+38,1998,Philadelphia Eagles,7,0,0.16666666666666666,0,San Diego Chargers,0.3333333333333333,0,10,13,261,168
+39,1998,Philadelphia Eagles,9,1,0.14285714285714285,1,Dallas Cowboys,0.5714285714285714,0,0,34,200,294
+40,1998,Minnesota Vikings,5,0,1.0,0,Green Bay Packers,1.0,1,37,24,545,306
+41,1998,Minnesota Vikings,7,1,1.0,1,Washington Redskins,0.0,1,41,7,435,177
+42,1998,Green Bay Packers,5,0,1.0,1,Minnesota Vikings,1.0,0,24,37,306,545
+43,1998,Green Bay Packers,7,1,0.8,0,Detroit Lions,0.2,0,20,27,368,385
+44,1998,Tampa Bay Buccaneers,5,0,0.25,1,New York Giants,0.5,1,20,3,234,135
+45,1998,Tampa Bay Buccaneers,7,1,0.4,1,Carolina Panthers,0.0,1,16,13,349,290
+46,1998,Detroit Lions,5,0,0.25,0,Chicago Bears,0.0,0,27,31,340,405
+47,1998,Detroit Lions,7,1,0.2,1,Green Bay Packers,0.8,1,27,20,385,368
+48,1998,Chicago Bears,8,0,0.2857142857142857,0,Tennessee Oilers,0.5,1,23,20,286,356
+49,1998,Chicago Bears,10,1,0.375,1,St. Louis Rams,0.25,0,12,20,251,266
+50,1998,Atlanta Falcons,2,0,1.0,1,Philadelphia Eagles,0.0,1,17,12,245,284
+51,1998,Atlanta Falcons,4,1,1.0,0,San Francisco 49ers,1.0,0,20,31,369,538
+52,1998,San Francisco 49ers,2,0,1.0,0,Washington Redskins,0.0,1,45,10,504,322
+53,1998,San Francisco 49ers,4,1,1.0,1,Atlanta Falcons,1.0,1,31,20,538,369
+54,1998,New Orleans Saints,2,0,1.0,1,Carolina Panthers,0.0,1,19,14,311,375
+55,1998,New Orleans Saints,4,1,1.0,0,Indianapolis Colts,0.0,1,19,13,320,357
+56,1998,Carolina Panthers,2,0,0.0,0,New Orleans Saints,1.0,0,14,19,375,311
+57,1998,Carolina Panthers,4,1,0.0,1,Green Bay Packers,1.0,0,30,37,230,487
+58,1998,St. Louis Rams,4,0,0.3333333333333333,1,Arizona Cardinals,0.3333333333333333,0,17,20,264,281
+59,1998,St. Louis Rams,6,1,0.25,1,New York Jets,0.5,1,30,10,319,177

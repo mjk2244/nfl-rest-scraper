@@ -1,0 +1,65 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2014,New England Patriots,9,0,0.75,1,Denver Broncos,0.8571428571428571,1,43,21,398,472
+1,2014,New England Patriots,11,1,0.7777777777777778,0,Indianapolis Colts,0.6666666666666666,1,42,20,503,322
+2,2014,Buffalo Bills,8,0,0.5714285714285714,0,New York Jets,0.14285714285714285,1,43,23,280,312
+3,2014,Buffalo Bills,10,1,0.625,1,Kansas City Chiefs,0.625,0,13,17,364,278
+4,2014,Miami Dolphins,4,0,0.3333333333333333,0,Oakland Raiders,0.0,1,38,14,435,317
+5,2014,Miami Dolphins,6,1,0.5,1,Green Bay Packers,0.6,0,24,27,349,369
+6,2014,New York Jets,10,0,0.1111111111111111,1,Pittsburgh Steelers,0.6666666666666666,1,20,13,275,362
+7,2014,New York Jets,12,1,0.2,0,Buffalo Bills,0.5,0,3,38,218,336
+8,2014,Pittsburgh Steelers,11,0,0.6,0,Tennessee Titans,0.2222222222222222,1,27,24,386,312
+9,2014,Pittsburgh Steelers,13,1,0.6363636363636364,1,New Orleans Saints,0.36363636363636365,0,32,35,538,393
+10,2014,Cincinnati Bengals,3,0,1.0,1,Tennessee Titans,0.5,1,33,7,300,326
+11,2014,Cincinnati Bengals,5,1,1.0,0,New England Patriots,0.5,0,17,43,320,505
+12,2014,Baltimore Ravens,10,0,0.5555555555555556,1,Tennessee Titans,0.25,1,21,7,312,210
+13,2014,Baltimore Ravens,12,1,0.6,0,New Orleans Saints,0.4,1,34,27,449,525
+14,2014,Cleveland Browns,3,0,0.5,1,Baltimore Ravens,0.5,0,21,23,375,377
+15,2014,Cleveland Browns,5,1,0.3333333333333333,0,Tennessee Titans,0.25,1,29,28,460,410
+16,2014,Indianapolis Colts,9,0,0.625,0,New York Giants,0.42857142857142855,1,40,24,443,438
+17,2014,Indianapolis Colts,11,1,0.6666666666666666,1,New England Patriots,0.7777777777777778,0,20,42,322,503
+18,2014,Houston Texans,9,0,0.5,1,Philadelphia Eagles,0.7142857142857143,0,21,31,300,483
+19,2014,Houston Texans,11,1,0.4444444444444444,0,Cleveland Browns,0.6666666666666666,1,23,7,424,375
+20,2014,Jacksonville Jaguars,10,0,0.1111111111111111,1,Dallas Cowboys,0.6666666666666666,0,17,31,333,399
+21,2014,Jacksonville Jaguars,12,1,0.1,0,Indianapolis Colts,0.6,0,3,23,194,389
+22,2014,Tennessee Titans,8,0,0.2857142857142857,1,Houston Texans,0.42857142857142855,0,16,30,326,405
+23,2014,Tennessee Titans,10,1,0.25,0,Baltimore Ravens,0.5555555555555556,0,7,21,210,312
+24,2014,Denver Broncos,3,0,1.0,0,Seattle Seahawks,0.5,0,20,26,332,384
+25,2014,Denver Broncos,5,1,0.6666666666666666,1,Arizona Cardinals,1.0,1,41,20,568,215
+26,2014,Kansas City Chiefs,5,0,0.5,0,San Francisco 49ers,0.5,0,17,22,265,357
+27,2014,Kansas City Chiefs,7,1,0.4,0,San Diego Chargers,0.8333333333333334,1,23,20,365,251
+28,2014,San Diego Chargers,9,0,0.625,0,Miami Dolphins,0.5714285714285714,0,0,37,178,441
+29,2014,San Diego Chargers,11,1,0.5555555555555556,1,Oakland Raiders,0.0,1,13,6,300,233
+30,2014,Oakland Raiders,4,0,0.0,1,Miami Dolphins,0.3333333333333333,0,14,38,317,435
+31,2014,Oakland Raiders,6,1,0.0,1,San Diego Chargers,0.8,0,28,31,396,423
+32,2014,Dallas Cowboys,10,0,0.6666666666666666,0,Jacksonville Jaguars,0.1111111111111111,1,31,17,399,333
+33,2014,Dallas Cowboys,12,1,0.7,0,New York Giants,0.3,1,31,28,385,417
+34,2014,Philadelphia Eagles,6,0,0.8,1,New York Giants,0.6,1,27,0,448,254
+35,2014,Philadelphia Eagles,8,1,0.8333333333333334,0,Arizona Cardinals,0.8333333333333334,0,20,24,521,400
+36,2014,New York Giants,7,0,0.5,0,Dallas Cowboys,0.8333333333333334,0,21,31,352,423
+37,2014,New York Giants,9,1,0.42857142857142855,1,Indianapolis Colts,0.625,0,24,40,438,443
+38,2014,Washington Redskins,9,0,0.375,0,Minnesota Vikings,0.375,0,26,29,347,352
+39,2014,Washington Redskins,11,1,0.3333333333333333,1,Tampa Bay Buccaneers,0.1111111111111111,0,7,27,322,329
+40,2014,Green Bay Packers,8,0,0.7142857142857143,0,New Orleans Saints,0.3333333333333333,0,23,44,491,495
+41,2014,Green Bay Packers,10,1,0.625,1,Chicago Bears,0.375,1,55,14,451,311
+42,2014,Detroit Lions,8,0,0.7142857142857143,0,Atlanta Falcons,0.2857142857142857,1,22,21,385,291
+43,2014,Detroit Lions,10,1,0.75,1,Miami Dolphins,0.625,1,20,16,351,228
+44,2014,Minnesota Vikings,9,0,0.375,1,Washington Redskins,0.375,1,29,26,352,347
+45,2014,Minnesota Vikings,11,1,0.4444444444444444,0,Chicago Bears,0.3333333333333333,0,13,21,243,468
+46,2014,Chicago Bears,8,0,0.42857142857142855,0,New England Patriots,0.7142857142857143,0,23,51,384,487
+47,2014,Chicago Bears,10,1,0.375,0,Green Bay Packers,0.625,0,14,55,311,451
+48,2014,Carolina Panthers,11,0,0.3,1,Atlanta Falcons,0.3333333333333333,0,17,19,391,346
+49,2014,Carolina Panthers,13,1,0.3,0,Minnesota Vikings,0.36363636363636365,0,13,31,348,210
+50,2014,New Orleans Saints,5,0,0.25,1,Tampa Bay Buccaneers,0.25,1,37,31,511,314
+51,2014,New Orleans Saints,7,1,0.4,0,Detroit Lions,0.6666666666666666,0,23,24,408,344
+52,2014,Atlanta Falcons,8,0,0.2857142857142857,1,Detroit Lions,0.7142857142857143,0,21,22,291,385
+53,2014,Atlanta Falcons,10,1,0.25,0,Tampa Bay Buccaneers,0.125,1,27,17,322,373
+54,2014,Tampa Bay Buccaneers,6,0,0.2,1,Baltimore Ravens,0.6,0,17,48,364,475
+55,2014,Tampa Bay Buccaneers,8,1,0.16666666666666666,1,Minnesota Vikings,0.2857142857142857,0,13,19,225,332
+56,2014,Seattle Seahawks,3,0,0.5,1,Denver Broncos,1.0,1,26,20,384,332
+57,2014,Seattle Seahawks,5,1,0.6666666666666666,0,Washington Redskins,0.25,1,27,17,403,307
+58,2014,Arizona Cardinals,3,0,1.0,1,San Francisco 49ers,0.5,1,23,14,338,318
+59,2014,Arizona Cardinals,5,1,1.0,0,Denver Broncos,0.6666666666666666,0,20,41,215,568
+60,2014,San Francisco 49ers,7,0,0.6666666666666666,0,Denver Broncos,0.8,0,17,42,310,419
+61,2014,San Francisco 49ers,9,1,0.5714285714285714,1,St. Louis Rams,0.2857142857142857,0,10,13,263,193
+62,2014,St. Louis Rams,3,0,0.5,1,Dallas Cowboys,0.5,0,31,34,448,340
+63,2014,St. Louis Rams,5,1,0.3333333333333333,0,Philadelphia Eagles,0.75,0,28,34,466,352

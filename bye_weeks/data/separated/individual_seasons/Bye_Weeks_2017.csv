@@ -1,0 +1,61 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2017,New England Patriots,8,0,0.7142857142857143,1,Los Angeles Chargers,0.42857142857142855,1,21,13,414,349
+1,2017,New England Patriots,10,1,0.75,0,Denver Broncos,0.375,1,41,16,396,339
+2,2017,Buffalo Bills,5,0,0.75,0,Cincinnati Bengals,0.25,0,16,20,221,388
+3,2017,Buffalo Bills,7,1,0.6,1,Tampa Bay Buccaneers,0.3333333333333333,1,30,27,434,447
+4,2017,New York Jets,10,0,0.4444444444444444,0,Tampa Bay Buccaneers,0.3333333333333333,0,10,15,275,271
+5,2017,New York Jets,12,1,0.4,1,Carolina Panthers,0.7,0,27,35,391,299
+6,2017,Pittsburgh Steelers,8,0,0.7142857142857143,0,Detroit Lions,0.5,1,20,15,392,482
+7,2017,Pittsburgh Steelers,10,1,0.75,0,Indianapolis Colts,0.3333333333333333,1,20,17,316,267
+8,2017,Baltimore Ravens,9,0,0.5,0,Tennessee Titans,0.5714285714285714,0,20,23,341,257
+9,2017,Baltimore Ravens,11,1,0.4444444444444444,0,Green Bay Packers,0.5555555555555556,1,23,0,219,265
+10,2017,Cincinnati Bengals,5,0,0.25,1,Buffalo Bills,0.75,1,20,16,388,221
+11,2017,Cincinnati Bengals,7,1,0.4,0,Pittsburgh Steelers,0.6666666666666666,0,14,29,179,420
+12,2017,Cleveland Browns,8,0,0.0,1,Minnesota Vikings,0.7142857142857143,0,16,33,276,375
+13,2017,Cleveland Browns,10,1,0.0,0,Detroit Lions,0.5,0,24,38,413,345
+14,2017,Jacksonville Jaguars,7,0,0.5,0,Indianapolis Colts,0.3333333333333333,1,27,0,518,232
+15,2017,Jacksonville Jaguars,9,1,0.5714285714285714,1,Cincinnati Bengals,0.42857142857142855,1,23,7,408,148
+16,2017,Tennessee Titans,7,0,0.5,0,Cleveland Browns,0.0,1,12,9,269,284
+17,2017,Tennessee Titans,9,1,0.5714285714285714,1,Baltimore Ravens,0.5,1,23,20,257,341
+18,2017,Indianapolis Colts,10,0,0.3333333333333333,1,Pittsburgh Steelers,0.75,0,17,20,267,316
+19,2017,Indianapolis Colts,12,1,0.3,1,Tennessee Titans,0.6,0,16,20,254,276
+20,2017,Houston Texans,6,0,0.4,1,Cleveland Browns,0.0,1,33,17,340,247
+21,2017,Houston Texans,8,1,0.5,0,Seattle Seahawks,0.6666666666666666,0,38,41,509,479
+22,2017,Kansas City Chiefs,9,0,0.75,0,Dallas Cowboys,0.5714285714285714,0,17,28,323,375
+23,2017,Kansas City Chiefs,11,1,0.6666666666666666,0,New York Giants,0.1111111111111111,0,9,12,363,317
+24,2017,Los Angeles Chargers,8,0,0.42857142857142855,0,New England Patriots,0.7142857142857143,0,13,21,349,414
+25,2017,Los Angeles Chargers,10,1,0.375,0,Jacksonville Jaguars,0.625,0,17,20,322,398
+26,2017,Oakland Raiders,9,0,0.375,0,Miami Dolphins,0.5,1,27,24,379,395
+27,2017,Oakland Raiders,11,1,0.4444444444444444,1,New England Patriots,0.7777777777777778,0,8,33,344,421
+28,2017,Denver Broncos,4,0,0.6666666666666666,1,Oakland Raiders,0.6666666666666666,1,16,10,298,254
+29,2017,Denver Broncos,6,1,0.75,1,New York Giants,0.0,0,10,23,412,266
+30,2017,Philadelphia Eagles,9,0,0.875,1,Denver Broncos,0.42857142857142855,1,51,23,419,226
+31,2017,Philadelphia Eagles,11,1,0.8888888888888888,0,Dallas Cowboys,0.5555555555555556,1,37,9,383,225
+32,2017,Dallas Cowboys,5,0,0.5,1,Green Bay Packers,0.75,0,31,35,408,342
+33,2017,Dallas Cowboys,7,1,0.4,0,San Francisco 49ers,0.0,1,40,10,501,290
+34,2017,Washington Redskins,4,0,0.6666666666666666,0,Kansas City Chiefs,1.0,0,20,29,331,429
+35,2017,Washington Redskins,6,1,0.5,1,San Francisco 49ers,0.0,1,26,24,419,335
+36,2017,New York Giants,7,0,0.16666666666666666,1,Seattle Seahawks,0.6,0,7,24,177,425
+37,2017,New York Giants,9,1,0.14285714285714285,1,Los Angeles Rams,0.7142857142857143,0,17,51,319,473
+38,2017,Minnesota Vikings,8,0,0.7142857142857143,0,Cleveland Browns,0.0,1,33,16,375,276
+39,2017,Minnesota Vikings,10,1,0.75,0,Washington Redskins,0.5,1,38,30,406,394
+40,2017,Detroit Lions,6,0,0.6,0,New Orleans Saints,0.5,0,38,52,347,379
+41,2017,Detroit Lions,8,1,0.5,1,Pittsburgh Steelers,0.7142857142857143,0,15,20,482,392
+42,2017,Green Bay Packers,7,0,0.6666666666666666,1,New Orleans Saints,0.6,0,17,26,260,485
+43,2017,Green Bay Packers,9,1,0.5714285714285714,1,Detroit Lions,0.42857142857142855,0,17,30,311,417
+44,2017,Chicago Bears,8,0,0.42857142857142855,0,New Orleans Saints,0.6666666666666666,0,12,20,307,387
+45,2017,Chicago Bears,10,1,0.375,1,Green Bay Packers,0.5,0,16,23,323,342
+46,2017,New Orleans Saints,4,0,0.3333333333333333,0,Miami Dolphins,0.3333333333333333,1,20,0,347,186
+47,2017,New Orleans Saints,6,1,0.5,1,Detroit Lions,0.6,1,52,38,379,347
+48,2017,Carolina Panthers,10,0,0.6666666666666666,1,Miami Dolphins,0.4444444444444444,1,45,21,548,313
+49,2017,Carolina Panthers,12,1,0.7,0,New York Jets,0.4,1,35,27,299,391
+50,2017,Atlanta Falcons,4,0,1.0,1,Buffalo Bills,0.6666666666666666,0,17,23,389,281
+51,2017,Atlanta Falcons,6,1,0.75,1,Miami Dolphins,0.6,0,17,20,339,289
+52,2017,Los Angeles Rams,7,0,0.6666666666666666,1,Arizona Cardinals,0.5,1,33,0,425,196
+53,2017,Los Angeles Rams,9,1,0.7142857142857143,0,New York Giants,0.14285714285714285,1,51,17,473,319
+54,2017,Seattle Seahawks,5,0,0.5,0,Los Angeles Rams,0.75,1,16,10,241,375
+55,2017,Seattle Seahawks,7,1,0.6,0,New York Giants,0.16666666666666666,1,24,7,425,177
+56,2017,Arizona Cardinals,7,0,0.5,0,Los Angeles Rams,0.6666666666666666,0,0,33,196,425
+57,2017,Arizona Cardinals,9,1,0.42857142857142855,0,San Francisco 49ers,0.0,1,20,10,368,329
+58,2017,San Francisco 49ers,10,0,0.0,1,New York Giants,0.125,1,31,21,474,374
+59,2017,San Francisco 49ers,12,1,0.1,1,Seattle Seahawks,0.6,0,13,24,280,318

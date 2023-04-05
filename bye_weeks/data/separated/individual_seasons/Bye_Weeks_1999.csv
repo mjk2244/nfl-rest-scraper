@@ -1,0 +1,57 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,1999,Indianapolis Colts,3,0,0.5,0,San Diego Chargers,0.5,1,27,19,468,274
+1,1999,Indianapolis Colts,5,1,0.666666667,1,Miami Dolphins,0.666666667,0,31,34,332,469
+2,1999,Buffalo Bills,12,0,0.636363636,1,New England Patriots,0.6,1,17,7,299,267
+3,1999,Buffalo Bills,14,1,0.666666667,1,New York Giants,0.5,0,17,19,237,334
+4,1999,Miami Dolphins,2,0,1,1,Arizona Cardinals,1,1,19,16,304,184
+5,1999,Miami Dolphins,4,1,1,1,Buffalo Bills,0.666666667,0,18,23,292,250
+6,1999,New York Jets,7,0,0.166666667,0,Oakland Raiders,0.5,0,23,24,324,461
+7,1999,New York Jets,9,1,0.142857143,1,Arizona Cardinals,0.285714286,1,12,7,295,206
+8,1999,New England Patriots,8,0,0.714285714,0,Arizona Cardinals,0.333333333,1,27,3,386,166
+9,1999,New England Patriots,10,1,0.75,1,New York Jets,0.25,0,17,24,229,341
+10,1999,Jacksonville Jaguars,6,0,0.8,1,Cleveland Browns,0,1,24,7,325,243
+11,1999,Jacksonville Jaguars,8,1,0.833333333,0,Cincinnati Bengals,0.142857143,1,41,10,377,300
+12,1999,Tennessee Titans,6,0,0.8,0,New Orleans Saints,0.25,1,24,21,278,409
+13,1999,Tennessee Titans,8,1,0.833333333,1,St. Louis Rams,1,1,24,21,281,415
+14,1999,Baltimore Ravens,5,0,0.5,0,Tennessee Titans,0.75,0,11,14,246,272
+15,1999,Baltimore Ravens,7,1,0.4,1,Kansas City Chiefs,0.6,0,8,35,277,218
+16,1999,Pittsburgh Steelers,7,0,0.5,1,Atlanta Falcons,0.166666667,1,13,9,226,236
+17,1999,Pittsburgh Steelers,9,1,0.571428571,0,San Francisco 49ers,0.428571429,1,27,6,271,313
+18,1999,Cincinnati Bengals,14,0,0.230769231,1,Cleveland Browns,0.153846154,1,44,28,459,323
+19,1999,Cincinnati Bengals,16,1,0.285714286,0,Baltimore Ravens,0.5,0,0,22,241,311
+20,1999,Seattle Seahawks,4,0,0.666666667,1,Oakland Raiders,0.666666667,1,22,21,276,383
+21,1999,Seattle Seahawks,6,1,0.75,0,San Diego Chargers,0.8,0,10,13,201,330
+22,1999,Kansas City Chiefs,5,0,0.5,1,New England Patriots,1,1,16,14,329,378
+23,1999,Kansas City Chiefs,7,1,0.6,0,Baltimore Ravens,0.4,1,35,8,218,277
+24,1999,Oakland Raiders,8,0,0.571428571,1,Miami Dolphins,0.833333333,0,9,16,187,325
+25,1999,Oakland Raiders,10,1,0.5,1,San Diego Chargers,0.444444444,1,28,9,417,225
+26,1999,Denver Broncos,11,0,0.3,1,Oakland Raiders,0.555555556,1,27,21,291,284
+27,1999,Denver Broncos,13,1,0.363636364,1,Kansas City Chiefs,0.545454545,0,10,16,291,352
+28,1999,Washington Redskins,4,0,0.666666667,1,Carolina Panthers,0.333333333,1,38,36,418,483
+29,1999,Washington Redskins,6,1,0.75,0,Arizona Cardinals,0.4,1,24,10,410,274
+30,1999,Dallas Cowboys,2,0,1,1,Atlanta Falcons,0,1,24,7,232,324
+31,1999,Dallas Cowboys,4,1,1,1,Arizona Cardinals,0.333333333,1,35,7,306,208
+32,1999,New York Giants,8,0,0.571428571,0,Philadelphia Eagles,0.285714286,1,23,17,299,360
+33,1999,New York Giants,10,1,0.625,1,Indianapolis Colts,0.75,0,19,27,384,342
+34,1999,Arizona Cardinals,6,0,0.4,1,Washington Redskins,0.75,0,10,24,274,410
+35,1999,Arizona Cardinals,8,1,0.333333333,1,New England Patriots,0.714285714,0,3,27,166,386
+36,1999,Philadelphia Eagles,15,0,0.214285714,1,New England Patriots,0.538461538,1,24,9,295,350
+37,1999,Philadelphia Eagles,17,1,0.266666667,1,St. Louis Rams,0.866666667,1,38,31,207,440
+38,1999,Tampa Bay Buccaneers,5,0,0.5,0,Green Bay Packers,0.666666667,0,23,26,273,450
+39,1999,Tampa Bay Buccaneers,7,1,0.4,1,Chicago Bears,0.5,1,6,3,225,275
+40,1999,Minnesota Vikings,10,0,0.555555556,0,Chicago Bears,0.444444444,1,27,24,459,456
+41,1999,Minnesota Vikings,12,1,0.6,1,San Diego Chargers,0.363636364,1,35,27,485,458
+42,1999,Detroit Lions,3,0,1,0,Kansas City Chiefs,0.5,0,21,31,311,383
+43,1999,Detroit Lions,5,1,0.666666667,1,San Diego Chargers,0.75,0,10,20,229,256
+44,1999,Green Bay Packers,3,0,0.5,1,Minnesota Vikings,0.5,1,23,20,360,328
+45,1999,Green Bay Packers,5,1,0.666666667,1,Tampa Bay Buccaneers,0.5,1,26,23,450,273
+46,1999,Chicago Bears,13,0,0.416666667,1,Green Bay Packers,0.545454545,0,19,35,297,327
+47,1999,Chicago Bears,15,1,0.384615385,1,Detroit Lions,0.615384615,1,28,10,396,339
+50,1999,Carolina Panthers,4,0,0.333333333,0,Washington Redskins,0.666666667,0,36,38,483,418
+51,1999,Carolina Panthers,6,1,0.25,0,San Francisco 49ers,0.6,1,31,29,383,333
+52,1999,Atlanta Falcons,9,0,0.25,1,Jacksonville Jaguars,0.857142857,0,7,30,182,367
+53,1999,Atlanta Falcons,11,1,0.222222222,0,Tampa Bay Buccaneers,0.555555556,0,10,19,168,239
+54,1999,San Francisco 49ers,7,0,0.5,0,Minnesota Vikings,0.333333333,0,16,40,260,395
+55,1999,San Francisco 49ers,9,1,0.428571429,1,Pittsburgh Steelers,0.571428571,0,6,27,313,271
+56,1999,New Orleans Saints,2,0,1,0,San Francisco 49ers,0,0,21,28,324,311
+57,1999,New Orleans Saints,4,1,0.5,0,Chicago Bears,0.333333333,0,10,14,269,324

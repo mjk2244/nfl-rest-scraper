@@ -111,14 +111,14 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
     #while rows[p].find('td', {'data-stat': 'game_day_of_week'}).text != 'Thu':
     #    p += 1
     rows = soup.find_all('tbody')[1].find_all('tr')
-    numTeams = 18
+    numTeams = 19
     if year < 2021:
-        numTeams = 17
-    for p in range(0, len(rows)):#numTeams):
+        numTeams = 18
+    for p in range(0, numTeams):
         week_before = p - 1
         week_after = p + 1
 
-        if week_before >= 0 and week_after < numTeams-1:#len(rows)-2:  
+        if week_before >= 0 and week_after < numTeams-1:  
             if (rows[week_before].find('td', {'data-stat': 'game_day_of_week'}).text != 'Thu' 
             and rows[week_after].find('td', {'data-stat': 'game_day_of_week'}).text != 'Thu' 
             and rows[p].find('td', {'data-stat': 'game_day_of_week'}).text == 'Thu' 
@@ -167,11 +167,7 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
                 else:
                     opp_win_pct_1 = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1])))
                 
-                result = rows[p].find('td', {'data-stat': 'game_outcome'}).text
-                if result == 'W':
-                    result_1 = 1
-                else:
-                    result_1 = 0
+                result_1 = rows[p].find('td', {'data-stat': 'game_outcome'}).text
                 pf_1 = int(rows[p].find('td', {'data-stat': 'pts_off'}).text)
                 pa_1 = int(rows[p].find('td', {'data-stat': 'pts_def'}).text)
                 yds_1 = int(rows[p].find('td', {'data-stat': 'yards_off'}).text)
@@ -205,12 +201,7 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
                     opp_win_pct_2 = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1]) + int(opp_record[2])))
                 else:
                     opp_win_pct_2 = float(int(opp_record[0]) / (int(opp_record[0]) + int(opp_record[1])))
-                result = rows[week_after].find('td', {'data-stat': 'game_outcome'}).text
-                if result == 'W':
-                    result_2 = 1
-                else:
-                    result_2 = 0
-
+                result_2 = rows[week_after].find('td', {'data-stat': 'game_outcome'}).text
                 pf_2 = int(rows[week_after].find('td', {'data-stat': 'pts_off'}).text)
                 pa_2 = int(rows[week_after].find('td', {'data-stat': 'pts_def'}).text)
                 yds_2 = int(rows[week_after].find('td', {'data-stat': 'yards_off'}).text)
@@ -226,7 +217,7 @@ def collect_data(df: pd.DataFrame, soup: BeautifulSoup, year: int, team: str) ->
     return df
  
 def main():
-    for i in range(2006, 2023):
+    for i in range(2022, 2023):
         tnf_weeks(i).to_csv('TNF_Weeks_' + str(i) + '.csv')
 
 if __name__ == '__main__':

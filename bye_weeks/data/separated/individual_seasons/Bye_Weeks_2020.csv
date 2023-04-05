@@ -1,0 +1,65 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2020,Buffalo Bills,10,0,0.7777777777777778,0,Arizona Cardinals,0.625,0,30,32,369,453
+1,2020,Buffalo Bills,12,1,0.7,1,Los Angeles Chargers,0.3,1,27,17,332,367
+2,2020,Miami Dolphins,6,0,0.4,1,New York Jets,0.0,1,24,0,302,263
+3,2020,Miami Dolphins,8,1,0.5,1,Los Angeles Rams,0.7142857142857143,1,28,17,145,471
+4,2020,New England Patriots,4,0,0.6666666666666666,0,Kansas City Chiefs,1.0,0,10,26,357,323
+5,2020,New England Patriots,6,1,0.5,1,Denver Broncos,0.25,0,12,18,288,299
+6,2020,New York Jets,9,0,0.0,1,New England Patriots,0.2857142857142857,0,27,30,322,433
+7,2020,New York Jets,11,1,0.0,0,Los Angeles Chargers,0.2222222222222222,0,28,34,292,376
+8,2020,Pittsburgh Steelers,3,0,1.0,1,Houston Texans,0.0,1,28,21,387,260
+9,2020,Pittsburgh Steelers,5,1,1.0,1,Philadelphia Eagles,0.25,1,38,29,367,336
+10,2020,Baltimore Ravens,6,0,0.8,0,Philadelphia Eagles,0.2,1,30,28,355,364
+11,2020,Baltimore Ravens,8,1,0.8333333333333334,1,Pittsburgh Steelers,1.0,0,24,28,457,221
+12,2020,Cleveland Browns,8,0,0.7142857142857143,1,Las Vegas Raiders,0.5,0,6,16,223,309
+13,2020,Cleveland Browns,10,1,0.625,1,Houston Texans,0.25,1,10,7,356,243
+14,2020,Cincinnati Bengals,8,0,0.14285714285714285,1,Tennessee Titans,0.8333333333333334,1,31,20,367,441
+15,2020,Cincinnati Bengals,10,1,0.2857142857142857,0,Pittsburgh Steelers,1.0,0,10,36,324,377
+16,2020,Tennessee Titans,3,0,1.0,0,Minnesota Vikings,0.0,1,31,30,444,464
+17,2020,Tennessee Titans,5,1,1.0,1,Buffalo Bills,1.0,1,42,16,334,370
+18,2020,Indianapolis Colts,6,0,0.6,1,Cincinnati Bengals,0.2,1,31,27,430,398
+19,2020,Indianapolis Colts,8,1,0.6666666666666666,0,Detroit Lions,0.5,1,41,21,366,326
+20,2020,Houston Texans,7,0,0.16666666666666666,1,Green Bay Packers,0.8,0,20,35,365,379
+21,2020,Houston Texans,9,1,0.14285714285714285,0,Jacksonville Jaguars,0.14285714285714285,1,27,25,374,403
+22,2020,Jacksonville Jaguars,7,0,0.16666666666666666,0,Los Angeles Chargers,0.2,0,29,39,294,484
+23,2020,Jacksonville Jaguars,9,1,0.14285714285714285,1,Houston Texans,0.14285714285714285,0,25,27,403,374
+24,2020,Kansas City Chiefs,9,0,0.875,1,Carolina Panthers,0.375,1,33,31,397,435
+25,2020,Kansas City Chiefs,11,1,0.8888888888888888,0,Las Vegas Raiders,0.6666666666666666,1,35,31,460,364
+26,2020,Las Vegas Raiders,5,0,0.5,0,Kansas City Chiefs,1.0,1,40,32,490,413
+27,2020,Las Vegas Raiders,7,1,0.6,1,Tampa Bay Buccaneers,0.6666666666666666,0,20,45,347,454
+28,2020,Los Angeles Chargers,5,0,0.25,0,New Orleans Saints,0.5,0,27,30,350,408
+29,2020,Los Angeles Chargers,7,1,0.2,1,Jacksonville Jaguars,0.16666666666666666,1,39,29,484,294
+30,2020,Denver Broncos,4,0,0.0,0,New York Jets,0.0,1,37,28,359,321
+31,2020,Denver Broncos,6,1,0.25,0,New England Patriots,0.5,1,18,12,299,288
+32,2020,Washington Football Team,7,0,0.16666666666666666,1,Dallas Cowboys,0.3333333333333333,1,25,3,397,142
+33,2020,Washington Football Team,9,1,0.2857142857142857,1,New York Giants,0.125,0,20,23,402,350
+34,2020,New York Giants,10,0,0.2222222222222222,1,Philadelphia Eagles,0.375,1,27,17,382,346
+35,2020,New York Giants,12,1,0.3,0,Cincinnati Bengals,0.2,1,19,17,386,155
+36,2020,Dallas Cowboys,9,0,0.25,1,Pittsburgh Steelers,1.0,0,19,24,364,355
+37,2020,Dallas Cowboys,11,1,0.2222222222222222,0,Minnesota Vikings,0.4444444444444444,1,31,28,376,430
+38,2020,Philadelphia Eagles,8,0,0.2857142857142857,1,Dallas Cowboys,0.2857142857142857,1,23,9,222,265
+39,2020,Philadelphia Eagles,10,1,0.42857142857142855,0,New York Giants,0.2222222222222222,0,17,27,346,382
+40,2020,Green Bay Packers,4,0,1.0,1,Atlanta Falcons,0.0,1,30,16,403,327
+41,2020,Green Bay Packers,6,1,1.0,0,Tampa Bay Buccaneers,0.6,0,10,38,201,324
+42,2020,Chicago Bears,10,0,0.5555555555555556,1,Minnesota Vikings,0.375,0,13,19,149,385
+43,2020,Chicago Bears,12,1,0.5,0,Green Bay Packers,0.7,0,25,41,350,393
+44,2020,Minnesota Vikings,6,0,0.2,1,Atlanta Falcons,0.0,0,23,40,365,462
+45,2020,Minnesota Vikings,8,1,0.16666666666666666,0,Green Bay Packers,0.8333333333333334,1,28,22,324,400
+46,2020,Detroit Lions,4,0,0.3333333333333333,1,New Orleans Saints,0.3333333333333333,0,29,35,281,392
+47,2020,Detroit Lions,6,1,0.25,0,Jacksonville Jaguars,0.2,1,34,16,403,275
+48,2020,New Orleans Saints,5,0,0.5,1,Los Angeles Chargers,0.25,1,30,27,408,350
+49,2020,New Orleans Saints,7,1,0.6,1,Carolina Panthers,0.5,1,27,24,415,283
+50,2020,Tampa Bay Buccaneers,12,0,0.6363636363636364,1,Kansas City Chiefs,0.9,0,24,27,417,543
+51,2020,Tampa Bay Buccaneers,14,1,0.5833333333333334,1,Minnesota Vikings,0.5,1,26,14,303,335
+52,2020,Carolina Panthers,12,0,0.36363636363636365,0,Minnesota Vikings,0.4,0,27,28,374,387
+53,2020,Carolina Panthers,14,1,0.3333333333333333,1,Denver Broncos,0.3333333333333333,0,27,32,370,365
+54,2020,Atlanta Falcons,9,0,0.25,1,Denver Broncos,0.42857142857142855,1,34,27,363,405
+55,2020,Atlanta Falcons,11,1,0.3333333333333333,0,New Orleans Saints,0.7777777777777778,0,9,24,248,376
+56,2020,Seattle Seahawks,5,0,1.0,1,Minnesota Vikings,0.25,1,27,26,314,449
+57,2020,Seattle Seahawks,7,1,1.0,0,Arizona Cardinals,0.6666666666666666,0,34,37,572,519
+58,2020,Los Angeles Rams,8,0,0.7142857142857143,0,Miami Dolphins,0.5,0,17,28,471,145
+59,2020,Los Angeles Rams,10,1,0.625,1,Seattle Seahawks,0.75,1,23,16,389,333
+60,2020,Arizona Cardinals,7,0,0.6666666666666666,1,Seattle Seahawks,1.0,1,37,34,519,572
+61,2020,Arizona Cardinals,9,1,0.7142857142857143,1,Miami Dolphins,0.5714285714285714,0,31,34,442,312
+62,2020,San Francisco 49ers,10,0,0.4444444444444444,0,New Orleans Saints,0.75,0,13,27,281,237
+63,2020,San Francisco 49ers,12,1,0.4,0,Los Angeles Rams,0.7,1,23,20,345,308

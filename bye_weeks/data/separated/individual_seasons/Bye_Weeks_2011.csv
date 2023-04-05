@@ -1,0 +1,65 @@
+,year,team,week,post_bye,win_pct,home_team,opp,opp_win_pct,result,pf,pa,yds,opp_yds
+0,2011,New England Patriots,6,0,0.8,1,Dallas Cowboys,0.5,1,20,16,371,377
+1,2011,New England Patriots,8,1,0.8333333333333334,0,Pittsburgh Steelers,0.7142857142857143,0,17,25,213,427
+2,2011,New York Jets,7,0,0.5,1,San Diego Chargers,0.8,1,27,21,318,268
+3,2011,New York Jets,9,1,0.5714285714285714,0,Buffalo Bills,0.7142857142857143,1,27,11,348,287
+4,2011,Miami Dolphins,4,0,0.0,0,San Diego Chargers,0.6666666666666666,0,16,26,248,411
+5,2011,Miami Dolphins,6,1,0.0,0,New York Jets,0.4,0,6,24,308,296
+6,2011,Buffalo Bills,6,0,0.8,0,New York Giants,0.6,0,24,27,374,414
+7,2011,Buffalo Bills,8,1,0.6666666666666666,1,Washington Redskins,0.5,1,23,0,390,178
+8,2011,Baltimore Ravens,4,0,0.6666666666666666,1,New York Jets,0.6666666666666666,1,34,17,267,150
+9,2011,Baltimore Ravens,6,1,0.75,1,Houston Texans,0.6,1,29,14,402,293
+10,2011,Pittsburgh Steelers,10,0,0.6666666666666666,0,Cincinnati Bengals,0.75,1,24,17,328,279
+11,2011,Pittsburgh Steelers,12,1,0.7,0,Kansas City Chiefs,0.4,1,13,9,290,252
+12,2011,Cincinnati Bengals,6,0,0.6,1,Indianapolis Colts,0.0,1,27,17,358,273
+13,2011,Cincinnati Bengals,8,1,0.6666666666666666,0,Seattle Seahawks,0.3333333333333333,1,34,12,252,411
+14,2011,Cleveland Browns,4,0,0.6666666666666666,1,Tennessee Titans,0.6666666666666666,0,13,31,416,332
+15,2011,Cleveland Browns,6,1,0.5,0,Oakland Raiders,0.6,0,17,24,268,329
+16,2011,Houston Texans,10,0,0.6666666666666666,0,Tampa Bay Buccaneers,0.5,1,37,9,420,231
+17,2011,Houston Texans,12,1,0.7,0,Jacksonville Jaguars,0.3,1,20,13,215,255
+18,2011,Tennessee Titans,5,0,0.75,0,Pittsburgh Steelers,0.5,0,17,38,306,431
+19,2011,Tennessee Titans,7,1,0.6,1,Houston Texans,0.5,0,7,41,148,518
+20,2011,Jacksonville Jaguars,8,0,0.2857142857142857,0,Houston Texans,0.5714285714285714,0,14,24,174,358
+21,2011,Jacksonville Jaguars,10,1,0.25,0,Indianapolis Colts,0.0,1,17,3,251,212
+22,2011,Indianapolis Colts,10,0,0.0,1,Jacksonville Jaguars,0.25,0,3,17,212,251
+23,2011,Indianapolis Colts,12,1,0.0,1,Carolina Panthers,0.2,0,19,27,323,377
+24,2011,Denver Broncos,5,0,0.25,1,San Diego Chargers,0.75,0,24,29,275,418
+25,2011,Denver Broncos,7,1,0.2,0,Miami Dolphins,0.0,1,18,15,308,267
+26,2011,San Diego Chargers,5,0,0.75,0,Denver Broncos,0.25,1,29,24,418,275
+27,2011,San Diego Chargers,7,1,0.8,0,New York Jets,0.5,0,21,27,268,318
+28,2011,Oakland Raiders,7,0,0.6666666666666666,1,Kansas City Chiefs,0.4,0,0,28,322,300
+29,2011,Oakland Raiders,9,1,0.5714285714285714,1,Denver Broncos,0.2857142857142857,0,24,38,416,412
+30,2011,Kansas City Chiefs,5,0,0.25,0,Indianapolis Colts,0.0,1,28,24,436,355
+31,2011,Kansas City Chiefs,7,1,0.4,0,Oakland Raiders,0.6666666666666666,1,28,0,300,322
+32,2011,New York Giants,6,0,0.6,1,Buffalo Bills,0.8,1,27,24,414,374
+33,2011,New York Giants,8,1,0.6666666666666666,1,Miami Dolphins,0.0,1,20,17,402,246
+34,2011,Philadelphia Eagles,6,0,0.2,0,Washington Redskins,0.75,1,20,13,422,287
+35,2011,Philadelphia Eagles,8,1,0.3333333333333333,1,Dallas Cowboys,0.5,1,34,7,495,267
+36,2011,Dallas Cowboys,4,0,0.6666666666666666,1,Detroit Lions,1.0,0,30,34,434,303
+37,2011,Dallas Cowboys,6,1,0.5,0,New England Patriots,0.8,0,16,20,377,371
+38,2011,Washington Redskins,4,0,0.6666666666666666,0,St. Louis Rams,0.0,1,17,10,339,172
+39,2011,Washington Redskins,6,1,0.75,1,Philadelphia Eagles,0.2,0,13,20,287,422
+40,2011,Green Bay Packers,7,0,1.0,0,Minnesota Vikings,0.16666666666666666,1,33,27,421,435
+41,2011,Green Bay Packers,9,1,1.0,0,San Diego Chargers,0.5714285714285714,1,45,38,368,460
+42,2011,Detroit Lions,8,0,0.7142857142857143,0,Denver Broncos,0.3333333333333333,1,45,10,376,312
+43,2011,Detroit Lions,10,1,0.75,0,Chicago Bears,0.625,0,13,37,393,216
+44,2011,Chicago Bears,7,0,0.5,0,Tampa Bay Buccaneers,0.6666666666666666,1,24,18,395,280
+45,2011,Chicago Bears,9,1,0.5714285714285714,0,Philadelphia Eagles,0.42857142857142855,1,30,24,372,330
+46,2011,Minnesota Vikings,8,0,0.14285714285714285,0,Carolina Panthers,0.2857142857142857,1,24,21,361,405
+47,2011,Minnesota Vikings,10,1,0.25,0,Green Bay Packers,1.0,0,7,45,266,356
+48,2011,New Orleans Saints,10,0,0.6666666666666666,0,Atlanta Falcons,0.625,1,26,23,363,481
+49,2011,New Orleans Saints,12,1,0.7,1,New York Giants,0.6,1,49,24,577,465
+50,2011,Atlanta Falcons,7,0,0.5,0,Detroit Lions,0.8333333333333334,1,23,16,328,263
+51,2011,Atlanta Falcons,9,1,0.5714285714285714,0,Indianapolis Colts,0.0,1,31,7,432,186
+52,2011,Carolina Panthers,8,0,0.2857142857142857,1,Minnesota Vikings,0.14285714285714285,0,21,24,405,361
+53,2011,Carolina Panthers,10,1,0.25,1,Tennessee Titans,0.5,0,3,30,279,383
+54,2011,Tampa Bay Buccaneers,7,0,0.6666666666666666,1,Chicago Bears,0.5,0,18,24,280,395
+55,2011,Tampa Bay Buccaneers,9,1,0.5714285714285714,0,New Orleans Saints,0.625,0,16,27,365,453
+56,2011,San Francisco 49ers,6,0,0.8,0,Detroit Lions,1.0,1,25,19,314,310
+57,2011,San Francisco 49ers,8,1,0.8333333333333334,1,Cleveland Browns,0.5,1,20,10,348,290
+58,2011,Arizona Cardinals,5,0,0.25,0,Minnesota Vikings,0.0,0,10,34,291,332
+59,2011,Arizona Cardinals,7,1,0.2,1,Pittsburgh Steelers,0.6666666666666666,0,20,32,330,445
+60,2011,Seattle Seahawks,5,0,0.25,0,New York Giants,0.75,1,36,25,424,464
+61,2011,Seattle Seahawks,7,1,0.4,0,Cleveland Browns,0.4,0,3,6,137,300
+62,2011,St. Louis Rams,4,0,0.0,1,Washington Redskins,0.6666666666666666,0,10,17,172,339
+63,2011,St. Louis Rams,6,1,0.0,0,Green Bay Packers,1.0,0,3,24,424,399
