@@ -6,31 +6,22 @@ We have structured our work in three separate directories—bye_weeks, distance,
 ## [Bye Weeks](./bye_weeks)
 This dataset tracks each team's performance in the game directly before (**pre-bye**) and the game directly after their bye week (**post-bye**). Our data begins in 1990 (when bye weeks were first introduced into the NFL) and ends in 2022 (the most recent NFL season).
 
-To access our entire dataset, click [here](./bye_weeks/data/unseparated/bye_weeks_all.csv). To access subframes for each individual season, click [here](./bye_weeks/data/unseparated/individual_seasons). The source code for our web scraper can be found [here](./bye_weeks/bye_weeks.py).
+To access our entire dataset, click [here](./bye_weeks/data/separated/bye_weeks_all.csv). To access subframes for each individual season, click [here](./bye_weeks/data/separated/individual_seasons). The source code for our web scraper can be found [here](./bye_weeks/bye_weeks2.py).
 
 The features in this dataset include:  
 - `year`: the season in question (1990-2022)
 - `team`: the team in question (string)
-- `week_1`: the week of the NFL season in which `team`'s **pre-bye** game was played (2-16)
-- `win_pct_1`: `team`'s win percentage going into its **pre-bye** game (0.000-1.000)
-- `home_team_1`: whether or not `team` was the home team in its **pre-bye** game (boolean value)
-- `opp_1`: `team`'s opponent in its **pre-bye** game (string)
-- `opp_win_pct_1`: `opp_1`'s win percentage before `team`'s **pre-bye** game (0.000-1.000)
-- `result_1`: whether `team` lost or won its **pre-bye** game (W or L)
-- `pf_1`: number of points `team` scored in its **pre-bye** game (int)
-- `pa_1`: number of points `team` allowed in its **pre-bye** game (int)
-- `yds_1`: number of yards `team` recorded in its **pre-bye** game (int)
-- `opp_yds_1`: number of yards `team` allowed in its **pre-bye** game (int)
-- `week_2`: the week of the NFL season in which `team`'s **post-bye** game was played (2-17)
-- `win_pct_2`: `team`'s win percentage going into its **post-bye** game (0.000-1.000)
-- `home_team_2`: whether or not `team` was the home team in the **post-bye** game (boolean value)
-- `opp_2`: `team`'s opponent in its **post-bye** game (string)
-- `opp_win_pct_2`: `opp_2`'s win percentage before `team`'s **post-bye** game (0.000-1.000)
-- `result_2`: whether `team` lost or won its **post-bye** game (W or L)
-- `pf_2`: number of points `team` scored in its **post-bye** game (int)
-- `pa_2`: number of points `team` allowed in its **post-bye** game (int)
-- `yds_2`: number of yards `team` recorded in its **post-bye** game (int)
-- `opp_yds_2`: number of yards `team` allowed in its **post-bye** game (int)
+- `post_bye`: whether the game was **pre-bye** (0) or **post-bye** (1)
+- `week`: the week of the NFL season in which the game took place (2-16)
+- `win_pct`: `team`'s win percentage before the game (0.000-1.000)
+- `home_team`: whether or not `team` was the home team (1 for home, 0 for away)
+- `opp`: `team`'s opponent in the game (string)
+- `opp_win_pct`: `opp`'s win percentage before the game (0.000-1.000)
+- `result`: whether `team` lost or won the game (1 if win, 0 otherwise)
+- `pf`: number of points `team` scored in the game (int)
+- `pa`: number of points `team` allowed in the game (int)
+- `yds`: number of yards `team` recorded in the game (int)
+- `opp_yds`: number of yards `team` allowed in the game (int)
 
 ## [Distance](./distance)
 This dataset tracks the results of every NFL game played from 1990-2022, aiming to analyze how distance traveled and time zones traversed affect road teams' performances.
@@ -47,7 +38,7 @@ The features in this dataset include:
 (negative values indicate east-to-west travel, while positive values indicate west-to-east travel) (int)
 - `win_pct`: `team`'s win percentage going into the game in question (0.000-1.000)
 - `opp_win_pct`: `opp`'s win percentage going into the game in question (0.000-1.000)
-- `result`: whether `team` won the game in question (W or L)
+- `result`: whether `team` won the game in question (1 if win, 0 otherwise)
 - `pf`: number of points `team` scored in the game in question (int)
 - `pa`: number of points `opp` scored in the game in question (int)
 - `yds`: number of yards `team` recorded in the game in question (int)
@@ -56,31 +47,22 @@ The features in this dataset include:
 ## [Thursday Night Football](./tnf)
 This dataset tracks each team's performance in the Thursday Night game following a Sunday game (**short rest**) and the game directly after that Thursday Night week (**long rest**). Our data begins in 2006 and ends in 2022 (the most recent NFL season).
 
-To access our entire dataset, click [here](./tnf/data/unseparated/tnf_all.csv). To access subframes for each individual season, click [here](./tnf/data/unseparated/individual_seasons). The source code for our web scraper can be found [here](./tnf/tnf.py).
+To access our entire dataset, click [here](./tnf/data/separated/tnf_all.csv). To access subframes for each individual season, click [here](./tnf/data/separated/individual_seasons). The source code for our web scraper can be found [here](./tnf/tnf.py).
 
 The features in this dataset include:  
 - `year`: the season in question (2006-2022)
 - `team`: the team in question (string)
-- `week_1`: the week of the NFL season in which `team`'s **short rest** game was played (2-16)
-- `win_pct_1`: `team`'s win percentage going into its **short rest** game (0.000-1.000)
-- `home_team_1`: whether or not `team` was the home team in its **short rest** game (boolean value)
-- `opp_1`: `team`'s opponent in its **short rest** game (string)
-- `opp_win_pct_1`: `opp_1`'s win percentage before `team`'s **short rest** game (0.000-1.000)
-- `result_1`: whether `team` lost or won its **short rest** game (W or L)
-- `pf_1`: number of points `team` scored in its **short rest** game (int)
-- `pa_1`: number of points `team` allowed in its **short rest** game (int)
-- `yds_1`: number of yards `team` recorded in its **short rest** game (int)
-- `opp_yds_1`: number of yards `team` allowed in its **short rest** game (int)
-- `week_2`: the week of the NFL season in which `team`'s **long rest** game was played (2-17)
-- `win_pct_2`: `team`'s win percentage going into its **long rest** game (0.000-1.000)
-- `home_team_2`: whether or not `team` was the home team in the **long rest** game (boolean value)
-- `opp_2`: `team`'s opponent in its **long rest** game (string)
-- `opp_win_pct_2`: `opp_2`'s win percentage before `team`'s **long rest** game (0.000-1.000)
-- `result_2`: whether `team` lost or won its **long rest** game (W or L)
-- `pf_2`: number of points `team` scored in its **long rest** game (int)
-- `pa_2`: number of points `team` allowed in its **long rest** game (int)
-- `yds_2`: number of yards `team` recorded in its **long rest** game (int)
-- `opp_yds_2`: number of yards `team` allowed in its **long rest** game (int)
+- `week_1`: the week of the NFL season in which `team`'s game was played (2-16)
+- `win_pct_1`: `team`'s win percentage going into the game (0.000-1.000)
+- `home_team_1`: whether or not `team` was the home team in the game (boolean value)
+- `opp_1`: `team`'s opponent in the game (string)
+- `opp_win_pct_1`: `opp_1`'s win percentage before the game (0.000-1.000)
+- `result_1`: whether `team` lost or won the game (1 if win, 0 otherwise)
+- `pf_1`: number of points `team` scored in the game (int)
+- `pa_1`: number of points `team` allowed in the game (int)
+- `yds_1`: number of yards `team` recorded in the game (int)
+- `opp_yds_1`: number of yards `team` allowed in the game (int)
+- `tnf`: whether the game was on (1) or after (0) TNF
 
 ## Group Members
 Robert Gao - `rzg2107`  
