@@ -1,0 +1,39 @@
+---
+title: "TNF T Tests"
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(broom)
+library(flextable)
+
+tnf <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/tnf/data/separated/tnf_all.csv")
+
+# Cleaning Out 1s in Column Name
+names(tnf) <- gsub("_1", "", names(tnf))
+
+# Changing Home Team TRUE to 1 and FALSE to 0 
+tnf$home_team <- as.numeric(tnf$home_team)
+
+# Performing T-tests
+library(rempsyc)
+pre_tnf <- tnf[tnf$post_bye == 0,]
+post_tnf <- tnf[tnf$post_bye == 1,]
+
+t_yds <- nice_t_test(data = tnf, response = "yds", group = "tnf", warning = FALSE, alternative = "less", paired = TRUE)
+t_yds <- subset(t_yds, select = -c(d))
+t_opp_yds <- nice_t_test(data = tnf, response = "opp_yds", group = "tnf", warning = FALSE, alternative = "greater", paired = TRUE)
+t_opp_yds <- subset(t_opp_yds, select = -c(d))
+t_pf <- nice_t_test(data = tnf, response = "pf", group = "tnf", warning = FALSE, alternative = "less", paired = TRUE)
+t_pf <- subset(t_pf, select = -c(d))
+t_pa <- nice_t_test(data = tnf, response = "pa", group = "tnf", warning = FALSE, alternative = "greater", paired = TRUE)
+t_pa <- subset(t_pa, select = -c(d))
+
+t_df <- rbind(t_yds, t_opp_yds, t_pf, t_pa)
+
+t_table <- nice_table(t_df, title = c("T Test Results for TNF Effect on Performance Metrics",""))
+
+flextable::save_as_docx(t_table, path = "~/Desktop/Empirical Methods of DS/Rest Analysis/Figures/t_table_tnf.docx")
+```
+

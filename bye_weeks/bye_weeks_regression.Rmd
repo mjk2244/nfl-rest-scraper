@@ -1,0 +1,25 @@
+---
+title: "Bye Week Regression Model"
+---
+```{r}
+# Fixed Effects Linear Regression Model for Bye Week Factor 
+library(lfe)
+library(stargazer)
+
+bw <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/bye_weeks/data/separated/bye_weeks_all.csv")
+
+bw_result_felm <- felm(result ~ post_bye + win_pct + opp_win_pct + home_team | team + year, data=bw)
+summary(bw_result_felm)
+bw_pf_felm <- felm(pf ~ post_bye + win_pct + opp_win_pct + home_team | team + year, data=bw)
+summary(bw_pf_felm)
+bw_pa_felm <- felm(pa ~ post_bye + win_pct + opp_win_pct + home_team | team + year, data=bw)
+summary(bw_pa_felm)
+bw_yds_felm <- felm(yds ~ post_bye + win_pct + opp_win_pct + home_team | team + year, data=bw)
+summary(bw_yds_felm)
+bw_opp_yds_felm <- felm(opp_yds ~ post_bye + win_pct + opp_win_pct + home_team | team + year, data=bw)
+summary(bw_opp_yds_felm)
+stargazer(bw_result_felm, bw_pf_felm, bw_pa_felm, bw_yds_felm, bw_opp_yds_felm,
+          title = "Bye Week Fixed Effects Regression Model Output",
+          align = TRUE,
+          type = "text")
+```

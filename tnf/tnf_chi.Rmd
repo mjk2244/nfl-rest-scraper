@@ -1,0 +1,32 @@
+---
+title: "TNF Chi"
+---
+```{r}
+tnf <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/tnf/data/separated/tnf_all.csv")
+
+# Cleaning Out 1s in Column Name
+names(tnf) <- gsub("_1", "", names(tnf))
+
+# Changing Home Team TRUE to 1 and FALSE to 0 
+tnf$home_team <- as.numeric(tnf$home_team)
+
+# Performing Chi Square Test
+library(rempsyc)
+chisq.test(tnf$tnf, tnf$result)
+
+chi_df <- data.frame(
+  "X-squared" = 0,
+  "df" = 0,
+  "p" = 0
+)
+
+# Assign values to the data frame
+chi_df[1, "X.squared"] <- 0.60413
+chi_df[1, "df"] <- 1
+chi_df[1, "p"] <- 0.437
+
+chi_table <- nice_table(chi_df, title = c("Chi-Squared Test Results for TNF's Effect on Wins",""))
+
+flextable::save_as_docx(chi_table, path = "~/Desktop/Empirical Methods of DS/Rest Analysis/Figures/chi_table_tnf.docx")
+```
+

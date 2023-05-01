@@ -1,0 +1,27 @@
+---
+title: "TNF Regression"
+---
+
+```{r}
+# Fixed Effects Linear Regression Model for TNF Factor 
+library(lfe)
+
+tnf <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/tnf/data/separated/tnf_all.csv")
+
+# Cleaning Out 1s in Column Name
+names(tnf) <- gsub("_1", "", names(tnf))
+
+# Changing Home Team TRUE to 1 and FALSE to 0 
+tnf$home_team <- as.numeric(tnf$home_team)
+
+tnf_result_felm <- felm(result ~ tnf + win_pct + opp_win_pct + home_team | team + year, data=tnf)
+summary(tnf_result_felm)
+tnf_pf_felm <- felm(pf ~ tnf + win_pct + opp_win_pct + home_team | team + year, data=tnf)
+summary(tnf_pf_felm)
+tnf_pa_felm <- felm(pa ~ tnf + win_pct + opp_win_pct + home_team | team + year, data=tnf)
+summary(tnf_pa_felm)
+tnf_yds_felm <- felm(yds ~ tnf + win_pct + opp_win_pct + home_team | team + year, data=tnf)
+summary(tnf_yds_felm)
+tnf_opp_yds_felm <- felm(opp_yds ~ tnf + win_pct + opp_win_pct + home_team | team + year, data=tnf)
+summary(tnf_opp_yds_felm)
+```

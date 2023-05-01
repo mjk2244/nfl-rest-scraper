@@ -1,0 +1,25 @@
+---
+title: "Bye Weeks Chi Square of Independence Test"
+---
+```{r}
+bw <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/bye_weeks/data/separated/bye_weeks_all.csv")
+
+# Performing Chi Square Test
+library(rempsyc)
+chisq.test(bw$post_bye, bw$result)
+
+chi_df <- data.frame(
+  "X-squared" = 0,
+  "df" = 0,
+  "p" = 0
+)
+
+# Assign values to the data frame
+chi_df[1, "X.squared"] <- 0.57484
+chi_df[1, "df"] <- 1
+chi_df[1, "p"] <- 0.4483
+
+chi_table <- nice_table(chi_df, title = c("Chi-Squared Test Results for Bye Week's Effect on Wins",""))
+
+flextable::save_as_docx(chi_table, path = "~/Desktop/Empirical Methods of DS/Rest Analysis/Figures/chi_table_bw.docx")
+```

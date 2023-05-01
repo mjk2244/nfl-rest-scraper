@@ -1,0 +1,34 @@
+---
+title: "Bye Weeks T Tests"
+---
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(broom)
+library(flextable)
+
+bw <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/bye_weeks/data/separated/bye_weeks_all.csv")
+
+# Performing T-tests
+# http://www.sthda.com/english/wiki/paired-samples-t-test-in-r
+library(rempsyc)
+pre_bw <- bw[bw$post_bye == 0,]
+post_bw <- bw[bw$post_bye == 1,]
+
+t_yds <- nice_t_test(data = bw, response = "yds", group = "post_bye", warning = FALSE, alternative = "greater", paired = TRUE)
+t_yds <- subset(t_yds, select = -c(d))
+t_opp_yds <- nice_t_test(data = bw, response = "opp_yds", group = "post_bye", warning = FALSE, alternative = "less", paired = TRUE)
+t_opp_yds <- subset(t_opp_yds, select = -c(d))
+t_pf <- nice_t_test(data = bw, response = "pf", group = "post_bye", warning = FALSE, alternative = "greater", paired = TRUE)
+t_pf <- subset(t_pf, select = -c(d))
+t_pa <- nice_t_test(data = bw, response = "pa", group = "post_bye", warning = FALSE, alternative = "less", paired = TRUE)
+t_pa <- subset(t_pa, select = -c(d))
+
+t_df <- rbind(t_yds, t_opp_yds, t_pf, t_pa)
+
+t_table <- nice_table(t_df, title = c("T Test Results for Bye Weeks Effect on Performance Metrics",""))
+
+flextable::save_as_docx(t_table, path = "~/Desktop/Empirical Methods of DS/Rest Analysis/Figures/t_table_bw.docx")
+```
+

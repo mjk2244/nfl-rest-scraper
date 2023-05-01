@@ -1,0 +1,70 @@
+---
+title: "Bye Week Graphs"
+---
+
+```{r}
+library(ggplot2)
+library(gridExtra)
+library(grid)
+library(dplyr)
+library(scales)
+
+bw <- read.csv("~/Desktop/Empirical Methods of DS/Rest Analysis/nfl-rest-scraper/bye_weeks/data/separated/bye_weeks_all.csv")
+
+# Exploring Data 
+# Create box and whisker & bar plots of bye weeks effect on stats and results 
+# Yards Scored Pre and Post Bye Week
+p_yds <- ggplot(bw, aes(x = factor(post_bye), y = yds, fill = factor(post_bye))) + geom_boxplot() + scale_fill_manual(values = c("#FF0000", "#0000FF")) + labs(x = "Bye Week", y = "Yards Scored", title = "") + scale_x_discrete(labels = c("Pre", "Post")) + guides(fill=FALSE)
+
+# Yards Allowed Pre and Post Bye Week
+p_opp_yds <- ggplot(bw, aes(x = factor(post_bye), y = opp_yds, fill = factor(post_bye))) +
+  geom_boxplot() + scale_fill_manual(values = c("#FF0000", "#0000FF")) + labs(x = "Bye Week", y = "Yards Allowed", title = "") + scale_x_discrete(labels = c("Pre", "Post")) + guides(fill=FALSE)
+
+# Points Scored Pre and Post Bye Week
+p_pf <- ggplot(bw, aes(x = factor(post_bye), y = pf, fill = factor(post_bye))) +
+  geom_boxplot() + scale_fill_manual(values = c("#FF0000", "#0000FF")) + labs(x = "Bye Week", y = "Points Scored", title = "") + scale_x_discrete(labels = c("Pre", "Post")) + guides(fill=FALSE)
+
+# Points Allowed Pre and Post Bye Week
+p_pa <- ggplot(bw, aes(x = factor(post_bye), y = pa, fill = factor(post_bye))) +
+  geom_boxplot() + scale_fill_manual(values = c("#FF0000", "#0000FF")) + labs(x = "Bye Week", y = "Points Allowed", title = "") + scale_x_discrete(labels = c("Pre", "Post")) + guides(fill=FALSE)
+
+# Graph Four Boxplots Together 
+grid.arrange(p_yds, p_opp_yds, p_pf, p_pa, ncol = 4)
+grid.text("Yards or Points Scored or Allowed Pre and Post Bye Week", x = 0.5, y = 0.98, gp = gpar(fontsize = 14, fontface = "bold"), hjust = 0.5, vjust = 1)
+
+# Wins Pre and Post Bye Week 
+# Group data by post_bye and calculate win percentage
+bw_summary <- bw %>%
+  group_by(post_bye) %>%
+  summarize(win_pct = mean(result == 1))
+
+bw_summary$win_pct <- bw_summary$win_pct * 100
+
+# bw_summary$win_pct <- bw_summary$win_pct * 100
+# Create bar plot
+ggplot(bw_summary, aes(x = factor(post_bye), y = win_pct, fill = factor(post_bye))) +
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = c("#FF0000", "#0000FF"), labels = c("Pre", "Post")) + xlab("Bye Week") + ylab("Win Percentage (%)") + ggtitle("Win Percentage Pre and Post Bye Week") + labs(fill = "Bye Week") + scale_x_discrete(labels = c("Pre", "Post")) + theme(plot.title = element_text(face = "bold", hjust = 0.5, size = 14))  + ylim(0, 100) + geom_hline(yintercept = 50, linetype="dashed", color = "black")
+```
+
+```{r}
+library(ggplot2)
+library(lfe)
+bw_pa_felm <- felm(pa ~ post_bye + win_pct + opp_win_pct + home_team | team + year, data=bw)
+coef_data <- data.frame(variable = row.names(summary(bw_pa_felm)$coef),
+                        coef = summary(bw_pa_felm)$coef[, 1],
+                        se = summary(bw_pa_felm)$coef[, 2])
+coef_data$variable <- factor(coef_data$variable, levels = c("post_bye", "win_pct", "opp_win_pct","home_team"))
+ggplot(coef_data, aes(x = variable, y = coef, fill = variable)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  geom_errorbar(aes(ymin = coef - 1.96 * se, ymax = coef + 1.96 * se),
+                width = 0.2, position = position_dodge(width = 0.9)) +
+  labs(x = "Variable", y = "Δ in Points Allowed per 1-Unit Change in IV", fill = NULL) +
+  theme_classic() + ggtitle("Points Allowed vs Bye Week Coefficients") +
+  theme(plot.title = element_text(size = 12, face = "bold")) + 
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme(axis.title.x = element_text(size=12)) +
+  theme(axis.title.y = element_text(size=12)) +
+  theme(legend.text = element_text(size = 9)) +
+  theme(axis.text = element_text(size = 9))
+```
